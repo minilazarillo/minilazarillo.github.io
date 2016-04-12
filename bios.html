@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class="biowrapper">
+    <h1>About the team</h1>
+    {% for page in site.pages %}
+      {% if page.bio == true %}
+        <div class="bio">
+          <img src="{{ page.img }}" class="photo">
+          <p>{{ page.content }}</p>
+        </div>
+      {% endif %}
+    {% endfor %}
+
+</div>
