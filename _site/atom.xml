@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Ed.</title>
+ <title>mini lazarillo</title>
  <link href="https://github.com/elotroalex/ed/ed/atom.xml" rel="self"/>
  <link href="https://github.com/elotroalex/ed/ed/"/>
- <updated>2016-04-12T16:47:22-04:00</updated>
+ <updated>2016-04-12T16:59:12-04:00</updated>
  <id>https://github.com/elotroalex/ed</id>
  <author>
    <name>Alex Gil</name>

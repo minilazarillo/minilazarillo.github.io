@@ -19,7 +19,7 @@
         para nombrar los ficheros.-->
         <xsl:variable name="sect_id" select="@xml:id"/>
         <xsl:result-document method="xml" encoding="utf-8"
-            href="../../_posts/2016-03-14-{$sect_id}.md" omit-xml-declaration="yes">
+            href="../_posts/2016-03-14-{$sect_id}.md" omit-xml-declaration="yes">
             <!-- SAT: aquí se edita el header con yaml -->
             <xsl:text>---&#x0A;layout: narrative&#x0A;</xsl:text>
             <xsl:text>title: </xsl:text>
@@ -75,7 +75,7 @@
     </xsl:template>-->
     
     <xsl:template match="text()">
-        <xsl:value-of select="replace(replace(., '-', '\\-'), '\s+', ' ')"></xsl:value-of>
+        <xsl:value-of select="replace(replace(., '-', '—'), '\s+', ' ')"></xsl:value-of>
     </xsl:template>
 
 </xsl:stylesheet>
