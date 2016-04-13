@@ -22,7 +22,7 @@ title:               mini lazarillo
 tagline:             'A minimal edition of <i>Lazarillo de Tormes</i>'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
 url:                 http://minilazarillo.github.io
-baseurl:             '/'
+baseurl:             ''
 
 # About/contact
 author:
