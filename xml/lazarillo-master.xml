@@ -93,8 +93,8 @@
                     <p> Mi viuda madre, como sin marido y sin abrigo se viese, determinó arrimarse a
                         los buenos por ser uno de ellos, y vínose a vivir a la ciudad y alquiló una
                         casilla y metióse a guisar de comer a ciertos estudiantes, y lavaba la ropa
-                        a ciertos mozos de caballos del comendador de <persName xml:id="Magdalena">
-                            la Magdalena,</persName>de manera que fue frecuentando las
+                        a ciertos mozos de caballos del comendador de <name type="religious" xml:id="Magdalena">
+                            la Magdalena,</name>de manera que fue frecuentando las
                         caballerizas.</p>
                     <p> Ella y <persName corresp="#Zaide">un hombre moreno</persName> de aquellos
                         que las bestias curaban vinieron en conocimiento. Éste algunas veces se
@@ -106,8 +106,7 @@
                         leños a que nos calentábamos. </p>
                     <p> De manera que, continuando la posada y conversación, mi madre vino a darme
                             <persName xml:id="hermanastro">un negrito</persName> muy bonito, el cual
-                        yo brincaba y ayudaba a calentar. Y acuérdome que, estando el negro de <persName corresp="#Zaide">mi
-                            padrastro</persName> trebejando con el mozuelo, como el niño vía a mi madre y a mí
+                        yo brincaba y ayudaba a calentar. Y acuérdome que, estando el negro de mi <persName corresp="#Zaide">padrastro</persName> trebejando con el mozuelo, como el niño vía a mi madre y a mí
                         blancos y a él no, huía de él, con miedo, para mi madre, y, señalando con el
                         dedo, decía: </p>
                     <sp who="#hermanastro">
@@ -136,7 +135,7 @@
                     <p> Al triste de mi <persName corresp="#Zaide">padrastro</persName> azotaron
                         y pringaron, y a mi madre pusieron pena por justicia, sobre el acostumbrado
                         centenario, que en casa del sobredicho comendador no entrase ni al lastimado
-                        Zaide en la suya acogiese. </p>
+                        <persName corresp="#Zaide">Zaide</persName> en la suya acogiese. </p>
                     <p> Por no echar la soga tras el caldero, la triste se esforzó y cumplió la
                         sentencia. Y, por evitar peligro y quitarse de malas lenguas, se fue a
                         servir a los que al presente vivían en el mesón de la <placeName
@@ -144,7 +143,7 @@
                         se acabó de criar mi hermanico hasta que supo andar, y a mí hasta ser buen
                         mozuelo, que iba a los huéspedes por vino y candelas y por lo demás que me
                         mandaban.</p>
-                    <p> En este tiempo vino a posar al mesón <persName xml:id="ciego">un
+                    <p> En este tiempo vino a posar al mesón un <persName xml:id="ciego">
                             ciego,</persName> el cual, pareciéndole que yo sería para adestrarle, me
                         pidió a mi madre, y ella me encomendó a él, diciéndole cómo era hijo de un
                         buen hombre, el cual, por ensalzar la fe, había muerto en la de <placeName
@@ -165,7 +164,7 @@
                     <p> Y así me fui para mi amo, que esperándome estaba.</p>
                     <p> Salimos de <placeName corresp="#Salamanca">Salamanca,</placeName> y,
                         llegando a la puente, está a la entrada de ella un animal de piedra, que
-                        casi tiene forma de toro, y <persName corresp="#ciego">el ciego</persName>
+                        casi tiene forma de toro, y el <persName corresp="#ciego">ciego</persName>
                         mandóme que llegase cerca del animal, y, allí puesto, me dijo:</p>
                     <sp who="#ciego">
                         <p> -<persName corresp="#Lazaro">Lázaro,</persName> llega el oído a este
@@ -195,7 +194,7 @@
                             Merced</persName> estas niñerías, para mostrar cuánta virtud sea saber
                         los hombres subir siendo bajos, y dejarse bajar siendo altos cuánto
                         vicio.</p>
-                    <p>Pues, tornando al bueno de <persName corresp="#ciego">mi ciego</persName> y
+                    <p>Pues, tornando al bueno de mi <persName corresp="#ciego">ciego</persName> y
                         contando sus cosas, <persName corresp="#VuestraMerced">Vuestra
                             Merced</persName> sepa que, desde que <name type="religious"
                             corresp="#Dios">Dios</name> crió el mundo, ninguno formó más astuto ni
@@ -236,14 +235,14 @@
                         del un lado del fardel descosía y tornaba a coser, sangraba el avariento
                         fardel, sacando, no por tasa pan, más buenos pedazos, torreznos y longaniza.
                         Y así, buscaba conveniente tiempo para rehacer, no la chaza, sino la
-                        endiablada falta que <persName corresp="#ciego">el mal ciego</persName> me
+                        endiablada falta que el mal <persName corresp="#ciego">ciego</persName> me
                         faltaba.</p>
                     <p>Todo lo que podía sisar y hurtar traía en medias blancas, y, cuando le
                         mandaban rezar y le daban blancas, como él carecía de vista, no había el que
                         se la daba amagado con ella, cuando yo la tenía lanzada en la boca y la
                         media aparejada, que, por presto que él echaba la mano, ya iba de mi cambio
-                        aniquilada en la mitad del justo precio. Quejábaseme <persName
-                            corresp="#ciego">el mal ciego,</persName> porque al tiento luego conocía
+                        aniquilada en la mitad del justo precio. Quejábaseme el mal <persName
+                            corresp="#ciego">ciego,</persName> porque al tiento luego conocía
                         y sentía que no era blanca entera, y decía:</p>
                     <sp who="#ciego">
                         <p> -¿Qué diablo es esto, que, después que conmigo estás, no me dan sino
@@ -283,7 +282,7 @@
                     <p>Tantas vueltas y tientos dio al jarro, que halló la fuente y cayó en la
                         burla; mas así lo disimuló como si no lo hubiera sentido.</p>
                     <p>Y luego otro día, teniendo yo rezumando mi jarro como solía, no pensando el
-                        daño que me estaba aparejado ni que <persName corresp="#ciego">el mal
+                        daño que me estaba aparejado ni que el mal <persName corresp="#ciego">
                             ciego</persName> me sentía, sentéme como solía; estando recibiendo
                         aquellos dulces tragos, mi cara puesta hacia el cielo, un poco cerrados los
                         ojos por mejor gustar el sabroso licor, sintió el desesperado <persName
@@ -298,8 +297,7 @@
                         grande, que los pedazos de él se me metieron por la cara, rompiéndomela por
                         muchas partes, y me quebró los dientes, sin los cuales hasta hoy día me
                         quedé.</p>
-                    <p>Desde aquella hora quise mal <persName corresp="#ciego">al mal
-                            ciego,</persName> y, aunque me quería y regalaba y me curaba, bien vi
+                    <p>Desde aquella hora quise mal al mal <persName corresp="#ciego">ciego,</persName> y, aunque me quería y regalaba y me curaba, bien vi
                         que se había holgado del cruel castigo. Lavóme con vino las roturas que con
                         los pedazos del jarro me había hecho, y, sonriéndose, decía:</p>
                     <sp who="#ciego">
@@ -308,11 +306,11 @@
                             eran.</p>
                     </sp>
                     <p>Ya que estuve medio bueno de mi negra trepa y cardenales, considerando que, a
-                        pocos golpes tales, <persName corresp="#ciego">el cruel ciego</persName>
+                        pocos golpes tales, el cruel <persName corresp="#ciego">ciego</persName>
                         ahorraría de mí, quise yo ahorrar de él; mas no lo hice tan presto, por
                         hacello más a mi salvo y provecho. Y aunque yo quisiera asentar mi corazón y
-                        perdonalle el jarrazo, no daba lugar el maltratamiento que <persName
-                            corresp="#ciego">el mal ciego</persName> dende allí adelante me hacía,
+                        perdonalle el jarrazo, no daba lugar el maltratamiento que el mal <persName
+                            corresp="#ciego">ciego</persName> dende allí adelante me hacía,
                         que sin causa ni razón me hería, dándome coscorrones y repelándome.</p>
                     <p>Y si alguno le decía por qué me trataba tan mal, luego contaba el cuento del
                         jarro, diciendo:</p>
@@ -448,8 +446,7 @@
                         estuviese, sino él y yo solos, como me vi con apetito goloso, habiéndoseme
                         puesto dentro el sabroso olor de la longaniza, del cual solamente sabía que
                         había de gozar, no mirando qué me podría suceder, pospuesto todo el temor
-                        por cumplir con el deseo, en tanto que <persName corresp="#ciego">el
-                            ciego</persName> sacaba de la bolsa el dinero, saqué la longaniza y muy
+                        por cumplir con el deseo, en tanto que el <persName corresp="#ciego">ciego</persName> sacaba de la bolsa el dinero, saqué la longaniza y muy
                         presto metí el sobredicho nabo en el asador, el cual, mi amo, dándome el
                         dinero para el vino, tomó y comenzó a dar vueltas al fuego, queriendo asar
                         al que, de ser cocido, por sus deméritos había escapado. Yo fui por el vino,
@@ -483,7 +480,7 @@
                         principal: con el destiento de la cumplidísima nariz, medio cuasi
                         ahogándome, todas estas cosas se juntaron y fueron causa que el hecho y
                         golosina se manifestase y lo suyo fuese vuelto a su dueño. De manera que,
-                        antes que <persName corresp="#ciego">el mal ciego</persName> sacase de mi
+                        antes que el mal <persName corresp="#ciego">ciego</persName> sacase de mi
                         boca su trompa, tal alteración sintió mi estómago, que le dio con el hurto
                         en ella, de suerte que su nariz y la negra mal mascada longaniza a un tiempo
                         salieron de mi boca.</p>
@@ -494,11 +491,11 @@
                         dejándoselas llenas de aquellos pocos cabellos que tenía, arañada la cara y
                         rascuñado el pescuezo y la garganta. Y esto bien lo merecía, pues por su
                         maldad me venían tantas persecuciones.</p>
-                    <p> Contaba <persName corresp="#ciego">el mal ciego</persName> a todos cuantos
+                    <p> Contaba el mal <persName corresp="#ciego">ciego</persName> a todos cuantos
                         allí se allegaban mis desastres, y dábales cuenta una y otra vez, así de la
                         del jarro como de la del racimo, y agora de lo presente. Era la risa de
                         todos tan grande, que toda la gente que por la calle pasaba entraba a ver la
-                        fiesta; mas con tanta gracia y donaire contaba <persName corresp="#ciego">el
+                        fiesta; mas con tanta gracia y donaire contaba el <persName corresp="#ciego">
                             ciego</persName> mis hazañas, que, aunque yo estaba tan maltratado y
                         llorando, me parecía que hacía sinjusticia en no reírselas.</p>
                     <p> Y en cuanto esto pasaba, a la memoria me vino una cobardía y flojedad que
@@ -511,7 +508,7 @@
                         eso fuera así que así!</p>
                     <p> Hiciéronnos amigos la mesonera y los que allí estaban, y, con el vino que
                         para beber le había traído, laváronme la cara y la garganta. Sobre lo cual
-                        discantaba <persName corresp="#ciego">el mal ciego</persName> donaires,
+                        discantaba el mal <persName corresp="#ciego">ciego</persName> donaires,
                         diciendo:</p>
                     <sp who="#ciego">
                         <p>-Por verdad, más vino me gasta este mozo en lavatorios al cabo del año,
@@ -532,14 +529,13 @@
                         hice, aunque bien se lo pagué, considerando lo que aquel día me dijo salirme
                         tan verdadero como adelante <persName corresp="#VuestraMerced">Vuestra
                             Merced</persName> oirá.</p>
-                    <p> Visto esto y las malas burlas que <persName corresp="#ciego">el
-                            ciego</persName> burlaba de mí, determiné de todo en todo dejalle, y,
+                    <p> Visto esto y las malas burlas que el <persName corresp="#ciego">ciego</persName> burlaba de mí, determiné de todo en todo dejalle, y,
                         como lo traía pensado y lo tenía en voluntad, con este postrer juego que me
                         hizo afirmélo más. Y fue así que luego otro día salimos por la villa a pedir
                         limosna, y había llovido mucho la noche antes; y porque el día también
                         llovía, y andaba rezando debajo de unos portales que en aquel pueblo había,
                         donde no nos mojamos, mas como la noche se venía y el llover no cesaba,
-                        díjome <persName corresp="#ciego">el ciego:</persName></p>
+                        díjome el <persName corresp="#ciego">ciego:</persName></p>
                     <sp who="#ciego">
                         <p> -<persName corresp="#Lazaro">Lázaro,</persName> esta agua es muy
                             porfiada, y cuanto la noche más cierra, más recia. Acojámonos a la
@@ -595,7 +591,7 @@
             <div xml:id="tratado2">
                 <head type="titulo">Tratado segundo</head>
                 <head type="subtitulo"> Cómo <persName corresp="#Lazaro">Lázaro</persName> se asentó
-                    con <persName xml:id="clerigo">un clérigo</persName>, y de las cosas que con él
+                    con un <persName xml:id="clerigo">clérigo</persName>, y de las cosas que con él
                     pasó</head>
                 <div type="texto">
                     <p>Otro día, no pareciéndome estar allí seguro, fuime a un lugar que llaman
@@ -606,8 +602,8 @@
                         pecador del <persName corresp="#ciego">ciego</persName>, y una de ellas fue
                         ésta. Finalmente, <persName corresp="#clerigo">el clérigo</persName> me
                         recibió por suyo. </p>
-                    <p>Escapé del trueno y di en el relámpago, porque era <persName corresp="#ciego"
-                            >el ciego</persName> para con éste un <persName xml:id="AlejandroMagno"
+                    <p>Escapé del trueno y di en el relámpago, porque era el <persName corresp="#ciego"
+                            >ciego</persName> para con éste un <persName xml:id="AlejandroMagno"
                             >Alejandro Magno</persName>, con ser la misma avaricia, como he contado.
                         No digo más, sino que toda la lacería del mundo estaba encerrada en éste: no
                         sé si de su cosecha era o lo había anejado con el hábito de clerecía.</p>
@@ -699,7 +695,7 @@
                         fuera del lugar, llegóse acaso a mi puerta un calderero, el cual yo creo que
                         fue ángel enviado a mí por la mano de Dios en aquel hábito. Preguntóme si
                         tenía algo que adobar.</p>
-                    <p>«En mí teníades bien que hacer, y no haríades poco, si me remediásedes» -dije
+                    <p><said who="#Lazaro">«En mí teníades bien que hacer, y no haríades poco, si me remediásedes»</said> -dije
                         paso, que no me oyó.</p>
                     <p>Mas, como no era tiempo de gastarlo en decir gracias, alumbrado por el
                         Espíritu Santo, le dije:</p>
@@ -869,10 +865,9 @@
                         andaba de noche, como digo, hecho trasgo.</p>
                     <p>Yo hube miedo que con aquellas diligencias no me topase con la llave, que
                         debajo de las pajas tenía, y parecióme lo más seguro metella de noche en la
-                        boca, porque ya, desde que viví con <persName corresp="#ciego">el
-                            ciego</persName>, la tenía tan hecha bolsa que me acaeció tener en ella
+                        boca, porque ya, desde que viví con el<persName corresp="#ciego">ciego</persName>, la tenía tan hecha bolsa que me acaeció tener en ella
                         doce o quince maravedís, todo en medias blancas, sin que me estorbase el
-                        comer, porque de otra manera no era señor de una blanca que el maldito ciego
+                        comer, porque de otra manera no era señor de una blanca que el maldito <persName corresp="#ciego">ciego</persName>
                         no cayese con ella, no dejando costura ni remiendo que no me buscaba muy a
                         menudo.</p>
                     <p>Pues, así como digo, metía cada noche la llave en la boca y dormía sin recelo
@@ -925,8 +920,8 @@
                     <p>Luego otro día que fui levantado, el señor mi amo me tomó por la mano y
                         sacóme la puerta fuera y, puesto en la calle, díjome:</p>
                     <p>-<persName corresp="#Lazaro">Lázaro</persName>, de hoy más eres tuyo y no
-                        mío. Busca amo y vete con Dios, que yo no quiero en mi compañía tan
-                        diligente servidor. No es posible sino que hayas sido mozo de ciego.</p>
+                        mío. Busca amo y vete con <name type="relgious">Dios,</name> que yo no quiero en mi compañía tan
+                        diligente servidor. No es posible sino que hayas sido mozo de <persName corresp="#ciego">ciego.</persName></p>
                     <p>Y santiguándose de mí, como si yo estuviera endemoniado, tórnase a meter en
                         casa y cierra su puerta.</p>
                 </div>
