@@ -596,11 +596,11 @@
                 <div type="texto">
                     <p>Otro día, no pareciéndome estar allí seguro, fuime a un lugar que llaman
                             <placeName xml:id="Maqeuda">Maqueda</placeName>, adonde me toparon mis
-                        pecados con <persName corresp="#clerigo">un clérigo</persName>, que,
+                        pecados con un <persName corresp="#clerigo">clérigo</persName>, que,
                         llegando a pedir limosna, me preguntó si sabía ayudar a misa. Yo dije que
                         sí, como era verdad; que, aunque maltratado, mil cosas buenas me mostró el
                         pecador del <persName corresp="#ciego">ciego</persName>, y una de ellas fue
-                        ésta. Finalmente, <persName corresp="#clerigo">el clérigo</persName> me
+                        ésta. Finalmente, el <persName corresp="#clerigo">clérigo</persName> me
                         recibió por suyo. </p>
                     <p>Escapé del trueno y di en el relámpago, porque era el <persName corresp="#ciego"
                             >ciego</persName> para con éste un <persName xml:id="AlejandroMagno"
@@ -636,7 +636,7 @@
                         el cogote y sesos y la carne que en las quijadas tenía, y dábame todos los
                         huesos roídos, y dábamelos en el plato, diciendo:</p>
                     <p>-Toma, come, triunfa, que para ti es el mundo. Mejor vida tienes que
-                            <persName xml:id="Papa">el Papa</persName>.</p>
+                            <name type="religious">el Papa</name>.</p>
                     <p>«¡Tal te la dé Dios!» -decía yo paso entre mí.</p>
                     <p>A cabo de tres semanas que estuve con él vine a tanta flaqueza, que no me
                         podía tener en las piernas de pura hambre. Vime claramente ir a la
@@ -664,7 +664,7 @@
                         naturaleza humana sino entonces. Y esto era porque comíamos bien y me
                         hartaban. Deseaba y aun rogaba a Dios que cada día matase el suyo. Y cuando
                         dábamos sacramento a los enfermos, especialmente la extremaunción, como
-                        manda <persName corresp="#clerigo">el clérigo</persName> rezar a los que
+                        manda el <persName corresp="#clerigo">clérigo</persName> rezar a los que
                         están allí, yo cierto no era el postrero de la oración, y con todo mi
                         corazón y buena voluntad rogaba al Señor, no que le echase a la parte que
                         más servido fuese, como se suele decir, mas que le llevase de aqueste
@@ -1129,7 +1129,7 @@
                         con confianza que no ha de faltar quién se lo dé, según las tienen puestas
                         en esta costumbre aquellos hidalgos del lugar.</p>
                     <p>Y como digo, él estaba entre ellas hecho un <persName xml:id="Macias"
-                            >Macías</persName>, diciéndoles más dulzuras que Ovidio escribió. Pero,
+                        >Macías</persName>, diciéndoles más dulzuras que <persName xml:id="Ovidio">Ovidio</persName> escribió. Pero,
                         como sintieron de él que estaba bien enternecido, no se les hizo de
                         vergüenza pedirle de almorzar con el acostumbrado pago.</p>
                     <p>Él, sintiéndose tan frío de bolsa cuanto caliente del estómago, tomóle tal
@@ -1213,7 +1213,7 @@
                     <p><quote>Con almodrote</quote> -decía- <quote>es éste singular
                         manjar.</quote></p>
                     <p><quote>¡Con mejor salsa lo comes tú!</quote> -respondí yo paso.</p>
-                    <p><quote>Por Dios, que me ha sabido como si hoy no hubiera comido
+                    <p><quote>Por <name type="religious">Dios,</name> que me ha sabido como si hoy no hubiera comido
                             bocado.</quote></p>
                     <p><quote>¡Así me vengan los buenos años como es ello!</quote> -dije yo entre
                         mí.</p>
@@ -1239,7 +1239,7 @@
                             dárselo Dios a ambos, al uno de mano besada y al otro de lengua suelta,
                             me mataban de hambre, aquéllos es justo desamar y aquéste es de haber
                             mancilla.</quote></p>
-                    <p>Dios es testigo que hoy día, cuando topo con alguno de su hábito con aquel
+                    <p><name type="religious">Dios</name> es testigo que hoy día, cuando topo con alguno de su hábito con aquel
                         paso y pompa, le he lástima con pensar si padece lo que aquél le vi sufrir;
                         al cual, con toda su pobreza, holgaría de servir más que a los otros, por lo
                         que he dicho. Sólo tenía de él un poco de descontento: que quisiera yo que
@@ -1495,10 +1495,10 @@
             </div>
             <div xml:id="tratado4">
                 <head type="titulo">Tratado cuatro</head>
-                <head type="subtitulo">Cómo Lázaro se asentó con <persName xml:id="fraile">un fraile
+                <head type="subtitulo">Cómo Lázaro se asentó con un <persName xml:id="fraile">fraile
                         de la Merced</persName>, y de lo que le acaeció con él</head>
                 <div type="text">
-                    <p> Hube de buscar el cuarto, y éste fue <persName corresp="#fraile">un fraile
+                    <p> Hube de buscar el cuarto, y éste fue un <persName corresp="#fraile">fraile
                             de la Merced</persName>, que las mujercillas que digo me encaminaron, al
                         cual ellas le llamaban pariente. Gran enemigo del coro y de comer en el
                         convento, perdido por andar fuera, amicísimo de negocios seglares y visitar,
