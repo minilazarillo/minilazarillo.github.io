@@ -96,7 +96,7 @@
                         a ciertos mozos de caballos del comendador de <persName xml:id="Magdalena">
                             la Magdalena,</persName>de manera que fue frecuentando las
                         caballerizas.</p>
-                    <p> Ella y <persName xml:id="padrastro">un hombre moreno</persName> de aquellos
+                    <p> Ella y <persName corresp="#Zaide">un hombre moreno</persName> de aquellos
                         que las bestias curaban vinieron en conocimiento. Éste algunas veces se
                         venía a nuestra casa y se iba a la mañana. Otras veces, de día llegaba a la
                         puerta en achaque de comprar huevos, y entrábase en casa. Yo, al principio
@@ -106,23 +106,23 @@
                         leños a que nos calentábamos. </p>
                     <p> De manera que, continuando la posada y conversación, mi madre vino a darme
                             <persName xml:id="hermanastro">un negrito</persName> muy bonito, el cual
-                        yo brincaba y ayudaba a calentar. Y acuérdome que, estando el negro de mi
-                        padrastro trebejando con el mozuelo, como el niño vía a mi madre y a mí
+                        yo brincaba y ayudaba a calentar. Y acuérdome que, estando el negro de <persName corresp="#Zaide">mi
+                            padrastro</persName> trebejando con el mozuelo, como el niño vía a mi madre y a mí
                         blancos y a él no, huía de él, con miedo, para mi madre, y, señalando con el
                         dedo, decía: </p>
                     <sp who="#hermanastro">
                         <p>-¡Madre, coco! </p>
                     </sp>
                     <p> Respondió él riendo: </p>
-                    <sp who="#padrastro">
+                    <sp who="#Zaide">
                         <p> -¡Hideputa! </p>
                     </sp>
                     <p> Yo, aunque bien mochacho, noté aquella palabra de mi hermanico, y dije entre
                         mí: <said who="#Lazaro">«¡Cuántos debe de haber en el mundo que huyen de
                             otros porque no se ven a sí mismos!».</said>
                     </p>
-                    <p> Quiso nuestra fortuna que la conversación del <placeName xml:id="Zaide"
-                            >Zaide,</placeName> que así se llamaba, llegó a oídos del mayordomo, y,
+                    <p> Quiso nuestra fortuna que la conversación del <persName xml:id="Zaide"
+                            >Zaide,</persName> que así se llamaba, llegó a oídos del mayordomo, y,
                         hecha pesquisa, hallóse que la mitad por medio de la cebada, que para las
                         bestias le daban, hurtaba, y salvados, leña, almohazas, mandiles, y las
                         mantas y sábanas de los caballos hacía perdidas; y, cuando otra cosa no
@@ -133,7 +133,7 @@
                     <p> Y probósele cuanto digo, y aún más; porque a mí con amenazas me preguntaban,
                         y, como niño, respondía y descubría cuanto sabía con miedo: hasta ciertas
                         herraduras que por mandado de mi madre a un herrero vendí. </p>
-                    <p> Al triste de mi <persName corresp="#padrastro">padrastro</persName> azotaron
+                    <p> Al triste de mi <persName corresp="#Zaide">padrastro</persName> azotaron
                         y pringaron, y a mi madre pusieron pena por justicia, sobre el acostumbrado
                         centenario, que en casa del sobredicho comendador no entrase ni al lastimado
                         Zaide en la suya acogiese. </p>
@@ -932,7 +932,6 @@
                 </div>
             </div>
             <div xml:id="tratado3">
-
                 <head type="titulo">Tratado tercero</head>
                 <head type="subtitulo">Cómo <persName corresp="#Lazaro">Lázaro</persName> se asentó
                     con un escudero y de lo que le acaeció con él</head>
@@ -1500,7 +1499,7 @@
                 </div>
             </div>
             <div xml:id="tratado4">
-                <head type="titulo">Tratado cuarto</head>
+                <head type="titulo">Tratado cuatro</head>
                 <head type="subtitulo">Cómo Lázaro se asentó con <persName xml:id="fraile">un fraile
                         de la Merced</persName>, y de lo que le acaeció con él</head>
                 <div type="text">
@@ -1520,7 +1519,6 @@
                 <head type="subtitulo">Cómo <persName corresp="#Lazaro">Lázaro</persName> se asentó
                     con un <persName xml:id="buldero">buldero</persName>, y de las cosas que con élg
                     pasó</head>
-
                 <div type="texto">
                     <p>En el quinto por mi ventura di, que fue un <persName corresp="#buldero"
                             >buldero</persName>, el más desenvuelto y desvergonzado, y el mayor
@@ -1852,7 +1850,6 @@
                 <head type="subtitulo">Cómo <persName corresp="#Lazaro">Lázaro</persName> se asentó
                     con un, <persName corresp="#alguacil">alguacil</persName> y de lo que le acaeció
                     con él</head>
-
                 <div type="texto">
                     <p>Despedido del capellán, asenté por hombre de justicia con un <persName
                             corresp="#alguacil">alguacil</persName>; mas muy poco viví con él, por
@@ -1943,9 +1940,5 @@
                 </div>
             </div>
         </body>
-
-
     </text>
-
-
 </TEI>
