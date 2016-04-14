@@ -1,0 +1,33 @@
+div.context-nav {
+  max-width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+
+  a:first-child {
+    display: inline-block;
+    float: left;
+
+    &:before {
+      content: "\2190\00a0" //Arrow left then space
+    }
+
+  }
+
+  a:last-child {
+    display: inline-block;
+    float: right;
+
+    &:after {
+      content: "\00a0\2192" //Space then arrow right
+    }
+
+  }
+
+  &:after {
+    display: block;
+    content: "";
+    visibility: none;
+    clear: both;
+    height: 0;
+  }
+}
