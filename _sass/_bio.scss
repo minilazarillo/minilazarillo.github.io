@@ -1,23 +1,33 @@
-.biowrapper h1 {
-  text-align: center;
-  margin-bottom: 2rem;
+.biowrapper {
+  margin-top: 40px;
 }
 
-.bio img {
-  float: left;
-  max-width: 33%;
-}
+.bio {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  position: relative;
 
-.bio p {
-  float: right;
-  max-width: 66%;
-  font-size: 0.9rem;
-}
+  img {
+    float: left;
+    max-width: 33%;
+    margin-bottom: 0;
+    margin-right: 20px;
+  }
 
-.bio:after {
-  visibility: hidden;
-  display: block;
-  content: "";
-  clear: both;
-  height: 0;
+  p {
+    font-size: 0.9rem;
+    @media screen and (min-width: 800px) {
+      float: right;
+      max-width: 66%;
+    }
+  }
+
+  &:after {
+    display: block;
+    visibility: none;
+    content: "";
+    clear: both;
+    height: 0;
+  }
+
 }
