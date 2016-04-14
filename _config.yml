@@ -27,9 +27,14 @@ shareimg:            /public/img.jpg
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Mini Lazarillo Team
+  url:
+  email:
+
+# Sass
+sass:
+  style: compressed
+  sass_dir: _sass
 
 # Custom vars
 version:             0.0.3
