@@ -18,8 +18,9 @@
         <!-- SAT: esta variable sirve para agarrar el valor del @xml:id y utilizarlo, por ejemplo,
         para nombrar los ficheros.-->
         <xsl:variable name="sect_id" select="@xml:id"/>
-        <xsl:result-document method="xml" encoding="utf-8"
+        <xsl:result-document method="text" encoding="utf-8"
             href="../_posts/2016-03-14-{$sect_id}.md" omit-xml-declaration="yes">
+
             <!-- SAT: aquí se edita el header con yaml -->
             <xsl:text>---&#x0A;layout: narrative&#x0A;</xsl:text>
             <xsl:text>title: </xsl:text>
@@ -30,7 +31,33 @@
             <xsl:text>editor: Minimal Edition Class&#x0A;</xsl:text>
             <xsl:text>rights: Public Domain&#x0A;</xsl:text>
             <xsl:text>---&#x0A;&#x0A;</xsl:text>
+
             <xsl:apply-templates/>
+
+            <!-- inline nav -->
+            <xsl:text>&#x0A;&#x0A;</xsl:text>
+            <xsl:text>&lt;div class="inline-nav" markdown="1"&gt;&#x0A;</xsl:text> <!-- open the div -->
+
+            <xsl:if test="preceding-sibling::tei:div[1]"> <!-- preceding chapter -->
+              <xsl:text>[</xsl:text>
+              <xsl:value-of select="preceding-sibling::tei:div[1]/tei:head[@type='titulo']"/>
+              <xsl:text>]</xsl:text>
+              <xsl:text>({% post_url 2016-03-14-</xsl:text>
+              <xsl:value-of select="preceding-sibling::tei:div[1]/@xml:id"/>
+              <xsl:text> %})&#x0A;</xsl:text>
+            </xsl:if>
+
+            <xsl:if test="following-sibling::tei:div[1]"> <!-- following chapter -->
+              <xsl:text>[</xsl:text>
+              <xsl:value-of select="following-sibling::tei:div[1]/tei:head[@type='titulo']"/>
+              <xsl:text>]</xsl:text>
+              <xsl:text>({% post_url 2016-03-14-</xsl:text>
+              <xsl:value-of select="following-sibling::tei:div[1]/@xml:id"/>
+              <xsl:text> %})&#x0A;</xsl:text>
+            </xsl:if>
+
+            <xsl:text>&#x0A;&lt;/div&gt;</xsl:text> <!-- close the div -->
+
         </xsl:result-document>
     </xsl:template>
 
@@ -69,14 +96,8 @@
         <xsl:value-of select="replace(replace(., '-', '—'), '\s+', ' ')"></xsl:value-of>
     </xsl:template>
 
-    <!-- AJL: Preliminary work on following-sibling, though throws an error
-    <xsl:template match="/following-sibling::div[1]">
-      <xsl:text>[</xsl:text>
-        <xsl:value-of select="tei:head[@type=titulo]"/>
-      <xsl:text>]</xsl:text>
-      <xsl:text>(/</xsl:text>
-        <xsl:value-of select="tei:div[@xml:id]"/>
-      <xsl:text>.html)</xsl:text>
-    </xsl:template> -->
+    <!--<xsl:template match="tei:body/tei:div">
+
+  </xsl:template>-->
 
 </xsl:stylesheet>
