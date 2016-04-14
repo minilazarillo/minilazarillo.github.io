@@ -39,4 +39,12 @@
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+
+  <!-- Open Graph meta tags -->
+  <meta property="og:url"           content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+  <meta property="og:type"          content="website">
+  <meta property="og:title"         content="{{ site.title }}: {{ site.tagline | strip_html }}">
+  <meta property="og:description"   content="{{ site.description | strip_html }}">
+  <meta property="og:image"         content="{{ site.url }}{{ site.baseurl }}{{ site.shareimg }}">
+
 </head>
