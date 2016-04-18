@@ -620,7 +620,7 @@
                         cuando le pedía la llave para ir por ella, si alguno estaba presente, echaba
                         mano al falsopeto y con gran continencia la desataba y me la daba
                         diciendo:</p>
-                    <p>-Toma y vuélvela luego, y no hagáis sino golosinar.</p>
+                    <sp who="#clerigo"><p>-Toma y vuélvela luego, y no hagáis sino golosinar.</p></sp>
                     <p>Como si debajo de ella estuvieran todas las conservas de <placeName
                             xml:id="Valencia">Valencia</placeName>, con no haber en la dicha cámara,
                         como dije, maldita la otra cosa que las cebollas colgadas de un clavo. Las
@@ -635,9 +635,9 @@
                         que costaba tres maravedís. Aquélla le cocía, y comía los ojos y la lengua y
                         el cogote y sesos y la carne que en las quijadas tenía, y dábame todos los
                         huesos roídos, y dábamelos en el plato, diciendo:</p>
-                    <p>-Toma, come, triunfa, que para ti es el mundo. Mejor vida tienes que
-                            <name type="religious">el Papa</name>.</p>
-                    <p>«¡Tal te la dé Dios!» -decía yo paso entre mí.</p>
+                    <sp who="#clerigo"><p>-Toma, come, triunfa, que para ti es el mundo. Mejor vida tienes que
+                        <name type="religious">el Papa</name>.</p></sp>
+                    <said who="#Lazaro"><p>«¡Tal te la dé Dios!» -decía yo paso entre mí.</p></said>
                     <p>A cabo de tres semanas que estuve con él vine a tanta flaqueza, que no me
                         podía tener en las piernas de pura hambre. Vime claramente ir a la
                         sepultura, si Dios y mi saber no me remediaran. Para usar de mis mañas no
@@ -656,8 +656,8 @@
                         aquel poco que de la ofrenda había metido en su arcaz compasaba de tal forma
                         que le duraba toda la semana</p>
                     <p>Y por ocultar su gran mezquindad, decíame:</p>
-                    <p>-Mira, mozo, los sacerdotes han de ser muy templados en su comer y beber, y
-                        por esto yo no me desmando como otros.</p>
+                    <sp who="#clerigo"><p>-Mira, mozo, los sacerdotes han de ser muy templados en su comer y beber, y
+                        por esto yo no me desmando como otros.</p></sp>
                     <p>Mas el lacerado mentía falsamente, porque en cofradías y mortuorios que
                         rezamos, a costa ajena comía como lobo y bebía más que un saludador.</p>
                     <p>Y porque dije de mortuorios, Dios me perdone, que jamás fui enemigo de la
@@ -699,16 +699,16 @@
                         paso, que no me oyó.</p>
                     <p>Mas, como no era tiempo de gastarlo en decir gracias, alumbrado por el
                         Espíritu Santo, le dije:</p>
-                    <p>-Tío, una llave de este arcaz he perdido, y temo mi señor me azote. Por
+                    <sp who="#Lazaro"><p>-Tío, una llave de este arcaz he perdido, y temo mi señor me azote. Por
                         vuestra vida, veáis si en ésas que traéis hay alguna que le haga, que yo os
-                        lo pagaré.</p>
+                        lo pagaré.</p></sp>
                     <p>Comenzó a probar el angélico calderero una y otra de un gran sartal que de
                         ellas traía, y yo ayudalle con mis flacas oraciones. Cuando no me cato, veo
                         en figura de panes, como dicen, la cara de Dios dentro del arcaz, y,
                         abierto, díjele:</p>
-                    <p>-Yo no tengo dineros que daros por la llave; mas tomad de ahí el pago.</p>
+                    <sp who="#clerigo"><p>-Yo no tengo dineros que daros por la llave; mas tomad de ahí el pago.</p>
                     <p>Él tomó un bodigo de aquéllos, el que mejor le pareció, y, dándome mi llave,
-                        se fue muy contento, dejándome más a mí.</p>
+                        se fue muy contento, dejándome más a mí.</p></sp>
                     <p>Mas no toqué en nada por el presente, porque no fuese la falta sentida, y,
                         aun porque me vi de tanto bien señor, parecióme que la hambre no se me osaba
                         allegar. Vino el mísero de mi amo, y quiso Dios no miró en la oblada que el
@@ -725,10 +725,10 @@
                         Juan y ciégale!»</p>
                     <p>Después que estuvo un gran rato echando la cuenta, por días y dedos contando,
                         dijo:</p>
-                    <p>-Si no tuviera a tan buen recaudo esta arca, yo dijera que me habían tomado
+                    <sp who="#clerigo"><p>-Si no tuviera a tan buen recaudo esta arca, yo dijera que me habían tomado
                         de ella panes; pero de hoy más, sólo por cerrar la puerta a la sospecha,
-                        quiero tener buena cuenta con ellos: nueve quedan y un pedazo.</p>
-                    <p>«¡Nuevas malas te dé Dios!» -dije yo entre mí.</p>
+                        quiero tener buena cuenta con ellos: nueve quedan y un pedazo.</p></sp>
+                    <p><said who="#Lazaro">«¡Nuevas malas te dé Dios!»</said> -dije yo entre mí.</p>
                     <p>Parecióme con lo que dijo pasarme el corazón con saeta de montero y comenzóme
                         el estómago a escarbar de hambre, viéndose puesto en la dieta pasada. Fue
                         fuera de casa. Yo, por consolarme, abro el arca y, como vi el pan, comencélo
@@ -755,31 +755,31 @@
                         al propio contrahecho de como ellos lo suelen hacer. Miró todo el arcaz de
                         un cabo a otro y viole ciertos agujeros por do sospechaba habían entrado.
                         Llamóme, diciendo:</p>
-                    <p>-¡<persName corresp="#Lazaro">Lázaro</persName>, mira, mira, qué persecución
-                        ha venido aquesta noche por nuestro pan!</p>
+                    <sp who="#clerigo"><p>-¡<persName corresp="#Lazaro">Lázaro</persName>, mira, mira, qué persecución
+                        ha venido aquesta noche por nuestro pan!</p></sp>
                     <p>Yo híceme muy maravillado, preguntándole qué sería.</p>
-                    <p>-¿Qué ha de ser? -dijo él-. Ratones, que no dejan cosa a vida.</p>
+                    <sp who="#clerigo"><p>-¿Qué ha de ser? -dijo él-. Ratones, que no dejan cosa a vida.</p></sp>
                     <p>Pusímonos a comer, y quiso Dios que aun en esto me fue bien: que me cupo más
                         pan que la lacería que me solía dar, porque rayó con un cuchillo todo lo que
                         pensó ser ratonado, diciendo:</p>
-                    <p>-Cómete eso, que el ratón cosa limpia es.</p>
+                    <sp who="#clerigo"><p>-Cómete eso, que el ratón cosa limpia es.</p></sp>
                     <p>Y así, aquel día, añadiendo la ración del trabajo de mis manos, o de mis uñas
                         por mejor decir, acabamos de comer, aunque yo nunca empezaba.</p>
                     <p>Y luego me vino otro sobresalto, que fue verle andar solícito quitando clavos
                         de las paredes y buscando tablillas, con las cuales clavó y cerró todos los
                         agujeros de la vieja arca.</p>
-                    <p>«¡Oh Señor mío -dije yo entonces-, a cuánta miseria y fortuna y desastres
+                    <p><said who="#Lazaro">«<name type="religious">¡Oh Señor mío</name> -dije yo entonces-, a cuánta miseria y fortuna y desastres
                         estamos puestos los nacidos, y cuán poco duran los placeres de esta nuestra
                         trabajosa vida! Heme aquí, que pensaba con este pobre y triste remedio
                         remediar y pasar mi lacería, y estaba ya cuanto que alegre y de buena
                         ventura. Mas no quiso mi desdicha, despertando a este lacerado de mi amo y
                         poniéndole más diligencia de la que él de suyo se tenía (pues los míseros
                         por la mayor parte nunca de aquélla carecen), agora, cerrando los agujeros
-                        del arca, cerrase la puerta a mi consuelo y la abriese a mis trabajos».</p>
+                        del arca, cerrase la puerta a mi consuelo y la abriese a mis trabajos».</said></p>
                     <p>Así lamentaba yo, en tanto que mi solícito carpintero, con muchos clavos y
                         tablillas, dio fin a sus obras, diciendo:</p>
-                    <p>-Agora, donos traidores ratones, conviéneos mudar propósito, que en esta casa
-                        mala medra tenéis.</p>
+                    <sp who="#clerigo"><p>-Agora, donos traidores ratones, conviéneos mudar propósito, que en esta casa
+                        mala medra tenéis.</p></sp>
                     <p>De que salió de su casa, voy a ver la obra, y hallé que no dejó en la triste
                         y vieja arca agujero ni aun por donde le pudiese entrar un mosquito. Abro
                         con mi desaprovechada llave, sin esperanza de sacar provecho, y vi los dos o
@@ -807,8 +807,8 @@
                         cuidados del rey de Francia.</p>
                     <p>Otro día fue por el señor mi amo visto el daño, así del pan como del agujero
                         que yo había hecho, y comenzó a dar a los diablos los ratones y decir:</p>
-                    <p>-¿Qué diremos a esto? ¡Nunca haber sentido ratones en esta casa, sino
-                        agora!</p>
+                    <sp who="#clerigo"><p>-¿Qué diremos a esto? ¡Nunca haber sentido ratones en esta casa, sino
+                        agora!</p></sp>
                     <p>Y sin duda debía de decir verdad, porque, si casa había de haber en el reino
                         justamente de ellos privilegiada, aquélla de razón había de ser, porque no
                         suelen morar donde no hay qué comer. Torna a buscar clavos por la casa y por
@@ -816,19 +816,19 @@
                         yo era puesto en pie con mi aparejo y, cuantos él tapaba de día, destapaba
                         yo de noche.</p>
                     <p>En tal manera fue y tal prisa nos dimos, que sin duda por esto se debió
-                        decir: «donde una puerta se cierra, otra se abre». Finalmente, parecíamos
+                        decir: <quote>«donde una puerta se cierra, otra se abre»</quote>. Finalmente, parecíamos
                         tener a destajo la tela de <persName xml:id="Penelope">Penélope</persName>,
                         pues, cuanto él tejía de día rompía yo de noche. Ca en pocos días y noches
                         pusimos la pobre despensa de tal forma que, quien quisiera propiamente de
                         ella hablar, más corazas viejas de otro tiempo, que no arcaz, la llamara,
                         según la clavazón y tachuelas sobre sí tenía.</p>
                     <p>De que vio no aprovecharle nada su remedio, dijo:</p>
-                    <p>-Este arcaz está tan maltratado y es de madera tan vieja y flaca, que no
+                    <sp who="#clerigo"><p>-Este arcaz está tan maltratado y es de madera tan vieja y flaca, que no
                         habrá ratón a quien se defienda. Y va ya tal que, si andamos más con él, nos
                         dejará sin guarda. Y aun lo peor, que, aunque hace poca, todavía hará falta
                         faltando, y me pondrá en costa de tres o cuatro reales. El mejor remedio que
                         hallo, pues el de hasta aquí no aprovecha: armaré por de dentro a estos
-                        ratones malditos.</p>
+                        ratones malditos.</p></sp>
                     <p>Luego buscó prestada una ratonera, y con cortezas de queso que a los vecinos
                         pedía, contino el gato estaba armado dentro del arca. Lo cual era para mí
                         singular auxilio, porque, puesto caso que yo no había menester muchas salsas
@@ -840,10 +840,10 @@
                         caída la trampilla del gato.</p>
                     <p>Acordaron los vecinos no ser el ratón el que este daño hacía, porque no fuera
                         menos de haber caído alguna vez. Díjole un vecino:</p>
-                    <p>-En vuestra casa yo me acuerdo que solía andar una culebra, y ésta debe de
+                    <sp who="un vecino"><p>-En vuestra casa yo me acuerdo que solía andar una culebra, y ésta debe de
                         ser sin duda. Y lleva razón, que como es larga, tiene lugar de tomar el
                         cebo, y, aunque la coja la trampilla encima, como no entre toda dentro,
-                        tórnase a salir.</p>
+                        tórnase a salir.</p></sp>
                     <p>Cuadró a todos lo que aquél dijo y alteró mucho a mi amo, y dende en adelante
                         no dormía tan a sueño suelto, que cualquier gusano de la madera que de noche
                         sonase, pensaba ser la culebra que le roía el arca. Luego era puesto en pie,
@@ -855,9 +855,9 @@
                         le decían que de noche acaecía a estos animales, buscando calor, irse a las
                         cunas donde están criaturas, y aún mordellas y hacerles peligrar.</p>
                     <p>Yo las más veces hacía del dormido, y en la mañana, decíame él:</p>
-                    <p>-¿Esta noche, mozo, no sentiste nada? Pues tras la culebra anduve, y aun
-                        pienso se ha de ir para ti a la cama, que son muy frías y buscan calor.</p>
-                    <p>-¡Plega a Dios que no me muerda -decía yo-, que harto miedo le tengo!</p>
+                    <sp who="#clerigo"><p>-¿Esta noche, mozo, no sentiste nada? Pues tras la culebra anduve, y aun
+                        pienso se ha de ir para ti a la cama, que son muy frías y buscan calor.</p></sp>
+                    <sp who="#Lazaro"><p>-¡Plega a <name type="religious">Dios</name> que no me muerda -decía yo-, que harto miedo le tengo!</p></sp>
                     <p>De esta manera andaba tan elevado y levantado del sueño, que, mi fe, la
                         culebra (o culebro por mejor decir) no osaba roer de noche ni levantarse al
                         arca; mas de día, mientras estaba en la iglesia o por el lugar, hacía mis
@@ -896,8 +896,8 @@
                     <p>Espantado el matador de culebras qué podría ser aquella llave, miróla
                         sacándomela del todo de la boca, y vio lo que era, porque en las guardas
                         nada de la suya diferenciaba. Fue luego a proballa, y con ella probó el
-                        maleficio. Debió de decir el cruel cazador: «El ratón y culebra que me daban
-                        guerra y me comían mi hacienda he hallado».</p>
+                        maleficio. Debió de decir el cruel cazador: <quote>«El ratón y culebra que me daban
+                            guerra y me comían mi hacienda he hallado».</quote></p>
                     <p>De lo que sucedió en aquellos tres días siguientes ninguna fe daré, porque
                         los tuve en el vientre de la ballena, mas, de cómo esto que he contado oí,
                         después que en mí torné, decir a mi amo, el cual a cuantos allí venían lo
@@ -905,23 +905,23 @@
                     <p>A cabo de tres días yo torné en mi sentido, y vime echado en mis pajas, la
                         cabeza toda emplastada y llena de aceites y ungüentos, y, espantado,
                         dije:</p>
-                    <p>-¿Qué es esto?</p>
+                    <sp who="#Lazaro"><p>-¿Qué es esto?</p></sp>
                     <p>Respondióme el cruel <persName corresp="#clerigo">sacerdote</persName>:</p>
-                    <p>-A fe que los ratones y culebras que me destruían ya los he cazado.</p>
+                    <sp who="#clerigo"><p>-A fe que los ratones y culebras que me destruían ya los he cazado.</p></sp>
                     <p>Y miré por mí, y vime tan maltratado que luego sospeché mi mal.</p>
                     <p>A esta hora entró una vieja que ensalmaba, y los vecinos. Y comiénzanme a
                         quitar trapos de la cabeza y curar el garrotazo. Y, como me hallaron vuelto
                         en mi sentido, holgáronse mucho y dijeron:</p>
-                    <p>-Pues ha tornado en su acuerdo, placerá a Dios no será nada.</p>
+                    <sp who="los vecinos"><p>-Pues ha tornado en su acuerdo, placerá a <name type="religious">Dios</name> no será nada.</p></sp>
                     <p>Ahí tornaron de nuevo a contar mis cuitas y a reírlas, y yo, pecador, a
                         llorarlas. Con todo esto, diéronme de comer, que estaba transido de hambre,
                         y apenas me pudieron demediar. Y así, de poco en poco, a los quince días me
                         levanté y estuve sin peligro (mas no sin hambre) y medio sano.</p>
                     <p>Luego otro día que fui levantado, el señor mi amo me tomó por la mano y
                         sacóme la puerta fuera y, puesto en la calle, díjome:</p>
-                    <p>-<persName corresp="#Lazaro">Lázaro</persName>, de hoy más eres tuyo y no
-                        mío. Busca amo y vete con <name type="relgious">Dios,</name> que yo no quiero en mi compañía tan
-                        diligente servidor. No es posible sino que hayas sido mozo de <persName corresp="#ciego">ciego.</persName></p>
+                    <sp who="#clerigo"><p>-<persName corresp="#Lazaro">Lázaro</persName>, de hoy más eres tuyo y no
+                        mío. Busca amo y vete con <name type="religious">Dios,</name> que yo no quiero en mi compañía tan
+                        diligente servidor. No es posible sino que hayas sido mozo de <persName corresp="#ciego">ciego.</persName></p></sp>
                     <p>Y santiguándose de mí, como si yo estuviera endemoniado, tórnase a meter en
                         casa y cierra su puerta.</p>
                 </div>
