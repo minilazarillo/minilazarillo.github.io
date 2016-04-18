@@ -929,35 +929,35 @@
             <div xml:id="tratado3">
                 <head type="titulo">Tratado tercero</head>
                 <head type="subtitulo">Cómo <persName corresp="#Lazaro">Lázaro</persName> se asentó
-                    con un escudero y de lo que le acaeció con él</head>
+                    con un <persName xml:id="escudero">escudero</persName> y de lo que le acaeció con él</head>
                 <div type="texto">
                     <p>De esta manera me fue forzado sacar fuerzas de flaqueza, y poco a poco, con
                         ayuda de las buenas gentes, di conmigo en esta insigne ciudad de Toledo,
                         adonde, con la merced de Dios, dende a quince días se me cerró la herida. Y,
                         mientras estaba malo, siempre me daban alguna limosna; mas, después que
                         estuve sano, todos me decían:</p>
-                    <p><quote>Tú, bellaco y gallofero eres. Busca, busca un buen amo a quien
-                            sirvas.</quote></p>
-                    <p><quote>¿Y adónde se hallará ése</quote> -decía yo entre mí-, <quote>si Dios
-                            agora de nuevo, como crió el mundo, no le criase?</quote></p>
+                    <sp who="#vecinos"><p>-Tú, bellaco y gallofero eres. Busca, busca un buen amo a quien
+                        sirvas.</p></sp>
+                    <sp who="#Lazaro"><p>-¿Y adónde se hallará ése -decía yo entre mí- si Dios
+                        agora de nuevo, como crió el mundo, no le criase?</p></sp>
                     <p>Andando así discurriendo de puerta en puerta, con harto poco remedio, porque
-                        ya la caridad se subió al cielo, topóme Dios con un escudero que iba por la
+                        ya la caridad se subió al cielo, topóme <name type="religious">Dios</name> con un <persName corresp="escudero">escudero </persName> que iba por la
                         calle, con razonable vestido, bien peinado, su paso y compás en orden.
                         Miróme, y yo a él, y díjome:</p>
-                    <p><quote>Muchacho, ¿buscas amo?</quote></p>
+                    <sp who="#escudero"><p>-Muchacho, ¿buscas amo?</p></sp>
                     <p>Yo le dije:</p>
-                    <p><quote>Sí, señor.</quote></p>
-                    <p><quote>Pues vente tras mí</quote> -me respondió-, <quote>que Dios te ha hecho
-                            merced en topar conmigo; alguna buena oración rezaste hoy.</quote></p>
-                    <p>Y seguíle, dando gracias a Dios por lo que le oí, y también que me parecía,
+                    <sp who="#Lazaro"><p>-Sí, señor.</p></sp>
+                    <sp who="#escudero"><p>-Pues vente tras mí -me respondió-, que Dios te ha hecho
+                        merced en topar conmigo; alguna buena oración rezaste hoy.</p></sp>
+                    <p>Y seguíle, dando gracias a <name type="religious">Dios</name> por lo que le oí, y también que me parecía,
                         según su hábito y continente, ser el que yo había menester.</p>
                     <p>Era de mañana cuando éste mi tercero amo topé, y llevóme tras sí gran parte
                         de la ciudad. Pasábamos por las plazas do se vendía pan y otras provisiones.
                         Yo pensaba, y aun deseaba, que allí me quería cargar de lo que se vendía,
                         porque ésta era propia hora cuando se suele proveer de lo necesario, mas muy
                         a tendido paso pasaba por estas cosas.</p>
-                    <p><quote>Por ventura no lo ve aquí a su contento</quote> -decía yo-, <quote>y
-                            querrá que lo compremos en otro cabo.</quote></p>
+                    <sp who="#Lazaro"><p>-Por ventura no lo ve aquí a su contento -decía yo-, y
+                        querrá que lo compremos en otro cabo.</p></sp>
                     <p>De esta manera anduvimos hasta que dio las once. Entonces se entró en la
                         iglesia mayor, y yo tras él, y muy devotamente le vi oír misa y los otros
                         oficios divinos, hasta que todo fue acabado y la gente ida. Entonces salimos
@@ -987,10 +987,10 @@
                         paredes, sin ver en ella silleta, ni tajo, ni banco, ni mesa, ni aun tal
                         arcaz como el de marras. Finalmente, ella parecía casa encantada. Estando
                         así, díjome:</p>
-                    <p><quote>Tú, mozo, ¿has comido?</quote></p>
-                    <p><quote>No, señor</quote> -dije yo-, <quote>que aún no eran dadas las ocho
+                    <sp who="#escudero"><p>-Tú, mozo, ¿has comido?</p></sp>
+                    <sp who="#Lazaro"><p>-No, señor -dije yo-, que aún no eran dadas las ocho
                             cuando con <persName corresp="#VuestraMerced">Vuestra Merced</persName>
-                            encontré.</quote></p>
+                        encontré.</p></sp>
                     <p><quote>Pues, aunque de mañana, yo había almorzado, y, cuando así como algo,
                             hágote saber que hasta la noche me estoy así. Por eso, pásate como
                             pudieres, que después cenaremos.</quote></p>
