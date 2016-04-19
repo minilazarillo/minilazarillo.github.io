@@ -1156,29 +1156,30 @@
                         con otras pocas de tripas cocidas.</p>
                     <p>Cuando llegué a casa, ya el bueno de mi amo estaba en ella, doblada su capa y
                         puesta en el poyo, y él paseándose por el patio. Como entré, vínose para mí.
-                        Pensé que me quería reñir por la tardanza; mas mejor lo hizo Dios.
+                        Pensé que me quería reñir por la tardanza; mas mejor lo hizo <name type="religious">Dios.</name>
                         Preguntóme dó venía. Yo le dije:</p>
-                    <p><quote>Señor, hasta que dio las dos estuve aquí, y de que vi que <persName
+                    <sp who="#Lazaro"><p>-Señor, hasta que dio las dos estuve aquí, y de que vi que <persName
                                 corresp="#VuestraMerced">Vuestra Merced</persName> no venía, fuime
                             por esa ciudad a encomendarme a las buenas gentes, y hanme dado esto que
-                            veis.</quote></p>
+                            veis.</p></sp>
                     <p>Mostréle el pan y las tripas, que en un cabo de la halda traía, a lo cual él
                         mostró buen semblante, y dijo:</p>
-                    <p><quote>Pues, esperado te he a comer, y, de que vi que no viniste, comí. Mas
+                    <sp who="#escudero"><p>-Pues, esperado te he a comer, y, de que vi que no viniste, comí. Mas
                             tú haces como hombre de bien en eso, que más vale pedillo por Dios que
-                            no hurtallo. Y así Él me ayude, como ello me parece bien, y solamente te
+                            no hurtallo.</p></sp>
+                    <p>Y así Él me ayude, como ello me parece bien, y solamente te
                             encomiendo no sepan que vives conmigo por lo que toca a mi honra; aunque
                             bien creo que será secreto, según lo poco que en este pueblo soy
-                            conocido. ¡Nunca a él yo hubiera de venir!</quote></p>
-                    <p><quote>De eso pierda, señor, cuidado</quote> -le dije yo-, <quote>que maldito
+                            conocido. ¡Nunca a él yo hubiera de venir!</p>
+                    <sp who="#Lazaro"><p>-De eso pierda, señor, cuidado -le dije yo-, que maldito
                             aquel que ninguno tiene de pedirme esa cuenta ni yo de
-                        dalla.</quote></p>
-                    <p><quote>Agora, pues, come, pecador, que, si a Dios place, presto nos veremos
+                            dalla.</p></sp>
+                    <sp who="#escudero"><p>-Agora, pues, come, pecador, que, si a Dios place, presto nos veremos
                             sin necesidad; aunque te digo que, después que en esta casa entré, nunca
                             bien me ha ido. Debe ser de mal suelo, que hay casas desdichadas y de
                             mal pie, que a los que viven en ellas pegan la desdicha. Ésta debe de
                             ser, sin duda, de ellas; mas yo te prometo, acabado el mes, no quede en
-                            ella, aunque me la den por mía.</quote></p>
+                            ella, aunque me la den por mía.</p></sp>
                     <p>Sentéme al cabo del poyo y, porque no me tuviese por glotón, callé la
                         merienda. Y comienzo a cenar y morder en mis tripas y pan, y,
                         disimuladamente, miraba al desventurado señor mío, que no partía sus ojos de
@@ -1189,34 +1190,34 @@
                         convite. Finalmente yo deseaba que el pecador ayudase a su trabajo del mío,
                         y se desayunase como el día antes hizo, pues había mejor aparejo, por ser
                         mejor la vianda y menos mi hambre.</p>
-                    <p>Quiso Dios cumplir mi deseo, y aun pienso que el suyo; porque como comencé a
+                    <p>Quiso <name type="religious">Dios</name> cumplir mi deseo, y aun pienso que el suyo; porque como comencé a
                         comer y él se andaba paseando, llegóse a mí y díjome:</p>
-                    <p>Dígote, <persName corresp="#Lazaro">Lázaro</persName>, que tienes en comer la
+                    <sp who="#escudero"><p>-Dígote, <persName corresp="#Lazaro">Lázaro</persName>, que tienes en comer la
                         mejor gracia que en mi vida vi a hombre, y que nadie te lo verá hacer que no
-                        le pongas gana, aunque no la tenga.</p>
-                    <p><quote>La muy buena que tú tienes</quote> -dije yo entre mí- <quote>te hace
-                            parecer la mía hermosa.</quote></p>
+                        le pongas gana, aunque no la tenga.</p></sp>
+                    <said who="#Lazaro"><p>-La muy buena que tú tienes -dije yo entre mí- te hace
+                        parecer la mía hermosa.</p></said>
                     <p>Con todo, parecióme ayudarle, pues se ayudaba y me abría camino para ello, y
                         díjele:</p>
-                    <p><quote>Señor, el buen aparejo hace buen artífice. Este pan está sabrosísimo,
+                    <sp who="#Lazaro"><p>-Señor, el buen aparejo hace buen artífice. Este pan está sabrosísimo,
                             y esta uña de vaca tan bien cocida y sazonada que no habrá a quien no
-                            convide con su sabor.</quote></p>
-                    <p><quote>¿Uña de vaca es?</quote></p>
-                    <p><quote>Sí, señor.</quote></p>
-                    <p><quote>Dígote que es el mejor bocado del mundo, y que no hay faisán que así
-                            me sepa.</quote></p>
-                    <p><quote>Pues pruebe, señor, y verá qué tal está.</quote></p>
+                            convide con su sabor.</p></sp>
+                    <sp who="#escudero"><p>-¿Uña de vaca es?</p></sp>
+                    <sp who="#Lazaro"><p>-Sí, señor.</p></sp>
+                    <sp who="#escudero"><p>-Dígote que es el mejor bocado del mundo, y que no hay faisán que así
+                        me sepa.</p></sp>
+                    <sp who="#Lazaro"><p>-Pues pruebe, señor, y verá qué tal está.</p></sp>
                     <p>Póngole en las uñas la otra, y tres o cuatro raciones de pan de lo más
                         blanco. Y asentóseme al lado y comienza a comer como aquél que lo había
                         gana, royendo cada huesecillo de aquéllos mejor que un galgo suyo lo
                         hiciera.</p>
-                    <p><quote>Con almodrote</quote> -decía- <quote>es éste singular
-                        manjar.</quote></p>
-                    <p><quote>¡Con mejor salsa lo comes tú!</quote> -respondí yo paso.</p>
-                    <p><quote>Por <name type="religious">Dios,</name> que me ha sabido como si hoy no hubiera comido
-                            bocado.</quote></p>
-                    <p><quote>¡Así me vengan los buenos años como es ello!</quote> -dije yo entre
-                        mí.</p>
+                    <sp who="#escudero"><p>-Con almodrote -decía- es éste singular
+                        manjar.</p></sp>
+                    <sp who="#Lazaro"><p>-¡Con mejor salsa lo comes tú! -respondí yo paso.</p></sp>
+                    <sp who="#escudero"><p>-Por <name type="religious">Dios,</name> que me ha sabido como si hoy no hubiera comido
+                        bocado.</p></sp>
+                    <said who="#Lazaro"><p>-¡Así me vengan los buenos años como es ello!-dije yo entre
+                        mí.</p></said>
                     <p>Pidióme el jarro del agua y díselo como lo había traído. Es señal que, pues
                         no le faltaba el agua, que no le había a mi amo sobrado la comida. Bebimos,
                         y muy contentos nos fuimos a dormir, como la noche pasada.</p>
@@ -1234,11 +1235,11 @@
                         desenvolvíle el jubón y las calzas, que a la cabecera dejó, y hallé una
                         bolsilla de terciopelo raso, hecha cien dobleces y sin maldita la blanca ni
                         señal que la hubiese tenido mucho tiempo.</p>
-                    <p><quote>Éste</quote> -decía yo- <quote>es pobre, y nadie da lo que no tiene;
+                    <sp who="#Lazaro"><p>-Éste -decía yo- es pobre, y nadie da lo que no tiene;
                             mas el avariento ciego y el malaventurado mezquino clérigo, que, con
                             dárselo Dios a ambos, al uno de mano besada y al otro de lengua suelta,
                             me mataban de hambre, aquéllos es justo desamar y aquéste es de haber
-                            mancilla.</quote></p>
+                            mancilla.</p></sp>
                     <p><name type="religious">Dios</name> es testigo que hoy día, cuando topo con alguno de su hábito con aquel
                         paso y pompa, le he lástima con pensar si padece lo que aquél le vi sufrir;
                         al cual, con toda su pobreza, holgaría de servir más que a los otros, por lo
@@ -1270,14 +1271,14 @@
                         por lo que toca a su negra que dicen honra, tomaba una paja, de las que aun
                         asaz no había en casa, y salía a la puerta escarbando los que nada entre sí
                         tenían, quejándose todavía de aquel mal solar, diciendo:</p>
-                    <p><quote>Malo está de ver, que la desdicha de esta vivienda lo hace. Como ves,
+                    <sp who="#escudero"><p>-Malo está de ver, que la desdicha de esta vivienda lo hace. Como ves,
                             es lóbrega, triste, oscura. Mientras aquí estuviéremos, hemos de
-                            padecer. Ya deseo se acabe este mes por salir de ella.</quote></p>
+                            padecer. Ya deseo se acabe este mes por salir de ella.</p></sp>
                     <p>Pues estando en esta afligida y hambrienta persecución, un día, no sé por
                         cuál dicha o ventura, en el pobre poder de mi amo entró un real, con el cual
-                        él vino a casa tan ufano como si tuviera el tesoro de Venecia, y con gesto
+                        él vino a casa tan ufano como si tuviera el tesoro de <placeName xml:id="Venecia">Venecia,</placeName> y con gesto
                         muy alegre y risueño me lo dio, diciendo: </p>
-                    <p><quote>Toma, <persName corresp="#Lazaro">Lázaro</persName>, que Dios ya va
+                    <sp who="#escudero"><p>-Toma, <persName corresp="#Lazaro">Lázaro</persName>, que Dios ya va
                             abriendo su mano. Ve a la plaza y merca pan y vino y carne: ¡quebremos
                             el ojo al diablo! Y más te hago saber, porque te huelgues: que he
                             alquilado otra casa y en ésta desastrada no hemos de estar más de en
@@ -1285,7 +1286,7 @@
                             teja, que con mal en ella entré! Por nuestro Señor, cuanto ha que en
                             ella vivo, gota de vino ni bocado de carne no he comido, ni he habido
                             descanso ninguno; mas ¡tal vista tiene y tal oscuridad y tristeza! Ve y
-                            ven presto y comamos hoy como condes.</quote></p>
+                            ven presto y comamos hoy como condes.</p></sp>
                     <p>Tomo mi real y jarro y, a los pies dándoles prisa, comienzo a subir mi calle
                         encaminando mis pasos para la plaza, muy contento y alegre. Mas, ¿qué me
                         aprovecha, si está constituido en mi triste fortuna que ningún gozo me venga
