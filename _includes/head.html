@@ -16,7 +16,6 @@
   <meta name="DC.rights" content="{{ page.rights }}" />
   <meta name="DC.source" content="{{ site.title }}" />
 
-
   <title>
     {% if page.title == "Home" %}
       {{ site.title }}
@@ -43,5 +42,7 @@
   <meta property="og:title"         content="{{ site.title }}: {{ site.tagline | strip_html }}">
   <meta property="og:description"   content="{{ site.description | strip_html }}">
   <meta property="og:image"         content="{{ site.url }}{{ site.baseurl }}{{ site.shareimg }}">
+  <meta property="og:author" content="{{ page.author }}"/>
+  <meta property="og:book:release_date" content="{{ page.publication-date }}"/>
 
 </head>
