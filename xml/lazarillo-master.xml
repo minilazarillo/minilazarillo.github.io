@@ -1278,7 +1278,7 @@
                         cuál dicha o ventura, en el pobre poder de mi amo entró un real, con el cual
                         él vino a casa tan ufano como si tuviera el tesoro de <placeName xml:id="Venecia">Venecia,</placeName> y con gesto
                         muy alegre y risueño me lo dio, diciendo: </p>
-                    <sp who="#escudero"><p>-Toma, <persName corresp="#Lazaro">Lázaro</persName>, que Dios ya va
+                    <sp who="#escudero"><p>-Toma, <persName corresp="#Lazaro">Lázaro</persName>, que <name type="religious">Dios</name> ya va
                             abriendo su mano. Ve a la plaza y merca pan y vino y carne: ¡quebremos
                             el ojo al diablo! Y más te hago saber, porque te huelgues: que he
                             alquilado otra casa y en ésta desastrada no hemos de estar más de en
@@ -1298,35 +1298,35 @@
                         lugar, y, desque el cuerpo pasó, venía luego a par del lecho una que debía
                         ser su mujer del difunto, cargada de luto, y con ella otras muchas mujeres;
                         la cual iba llorando a grandes voces y diciendo:</p>
-                    <p><quote>Marido y señor mío, ¿adónde os me llevan? ¡A la casa triste y
+                    <sp who="#mujer"><p>-Marido y señor mío, ¿adónde os me llevan? ¡A la casa triste y
                             desdichada, a la casa lóbrega y oscura, a la casa donde nunca comen ni
-                            beben!</quote></p>
+                            beben!</p></sp>
                     <p>Yo, que aquello oí, juntóseme el cielo con la tierra, y dije:</p>
-                    <p><quote>¡Oh desdichado de mí, para mi casa llevan este muerto!</quote></p>
+                    <sp who="#Lazaro"><p>-¡Oh desdichado de mí, para mi casa llevan este muerto!</p></sp>
                     <p>Dejo el camino que llevaba, y hendí por medio de la gente, y vuelvo por la
                         calle abajo a todo el más correr que pude para mi casa. Y entrando en ella,
                         cierro a grande priesa, invocando el auxilio y favor de mi amo, abrazándome
                         de él, que me venga a ayudar y a defender la entrada. El cual, algo
                         alterado, pensando que fuese otra cosa, me dijo:</p>
-                    <p>¿Qué es eso, mozo? ¿Qué voces das? ¿Qué has? ¿Por qué cierras la puerta con
-                        tal furia?</p>
-                    <p><quote>¡Oh señor</quote> -dije yo-, <quote>acuda aquí, que nos traen acá un
-                            muerto!</quote></p>
-                    <p><quote>¿Cómo así?</quote> -respondió él.</p>
-                    <p><quote>Aquí arriba lo encontré y venía diciendo su mujer: <quote>Marido y
-                                señor mío, ¿adónde os llevan? ¡A la casa lóbrega y oscura, a la casa
-                                triste y desdichada, a la casa donde nunca comen ni beben!</quote>
-                            Acá, señor, nos le traen.</quote></p>
+                    <sp who="#escudero"><p>-¿Qué es eso, mozo? ¿Qué voces das? ¿Qué has? ¿Por qué cierras la puerta con
+                        tal furia?</p></sp>
+                    <sp who="#Lazaro"><p>-¡Oh señor -dije yo-, acuda aquí, que nos traen acá un
+                        muerto!</p></sp>
+                    <sp who="#escudero"><p>-¿Cómo así? -respondió él.</p></sp>
+                    <p>Aquí arriba lo encontré y venía diciendo su mujer:</p>
+                    <sp who="#mujer"><p>-Marido y señor mío, ¿adónde os llevan? ¡A la casa lóbrega y oscura, a la casa
+                                triste y desdichada, a la casa donde nunca comen ni beben!
+                                Acá, señor, nos le traen.</p></sp>
                     <p>Y ciertamente, cuando mi amo esto oyó, aunque no tenía por qué estar muy
                         risueño, rió tanto que muy gran rato estuvo sin poder hablar. En este tiempo
                         tenía ya yo echada el aldaba a la puerta y puesto el hombro en ella por más
                         defensa. Pasó la gente con su muerto, y yo todavía me recelaba que nos le
                         habían de meter en casa. Y, desque fue ya más harto de reír que de comer, el
                         bueno de mi amo, díjome:</p>
-                    <p><quote>Verdad es, <persName corresp="#Lazaro">Lázaro</persName>, según la
+                    <sp who="#escudero"><p>-Verdad es, <persName corresp="#Lazaro">Lázaro</persName>, según la
                             viuda lo va diciendo, tú tuviste razón de pensar lo que pensaste; mas,
                             pues Dios lo ha hecho mejor y pasan adelante, abre, abre y ve por de
-                            comer.</quote></p>
+                            comer.</p></sp>
                     <p><quote>Dejálos, señor, acaben de pasar la calle</quote> -dije yo.</p>
                     <p>Al fin vino mi amo a la puerta de la calle, y ábrela esforzándome, que bien
                         era menester, según el miedo y alteración, y me torno a encaminar. Mas,
