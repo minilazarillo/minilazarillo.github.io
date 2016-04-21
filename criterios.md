@@ -5,23 +5,16 @@ title: Criterios de edición
 
 Para llevar a cabo nuestro trabajo nos hemos basado en la edición de 1554 publicada en Medina del Campo.
 
-Hemos mantenido:
+La regla general ha sido la de la modernización de la ortografía preservando las peculiaridades léxicas. Así, hemos resuelto sin indicarlo: 
 
-- Uso de las i/y
-
-Hemos modificado:
-
-- Desarrollo de abreviaturas simples como "d" por "de", las nasales (te[n]go, ta[n])
-- Modernización de la puntuación, especialmente en el uso de los diálogos, puntos, comas, punto y comas, y dos puntos. Por lo general los dos puntos son transformados en comas. 
-- Regularización de los acentos: Prologo > Prólogo, uso de i/y normalizado
+ * las abreviaturas simples como "d" por "de", así como las nasales (te[n]go, ta[n]).
+ * los acentos según las reglas de acentuación actuales. Ej. Prologo > Prólogo, uso de i/y normalizado
+ * uso i/y. Ej. io > yo 
+ * uso o/u. Ej. sepoltura > sepultura
+ * formas verbales. Ej. devria > debería 
+ * separaciones de palabras. Ej. della > de ella 
+ * grupos consonánticos etimológicos. Ej. fructo > fruto 
+ * modernización de sibilantes. Ej. fuesse > fuese, haze > hace 
  
- ## Resolver:
+Para la puntuación hemos intentado ser fieles al original, respetando las pausas fuertes, y modificando los dos puntos por una coma, menos en aquellos casos que, por cuestiones sintácticas hemos considerado que debíamos alterarla para ofrecer un texto más cercano al lector moderno. Por ejemplo, en los casos de los diálogos los hemos indicados con una línea nueva y guión para señalar claramente las intervenciones o pensamientos de los personajes. 
  
- * uso de la puntuación: : ; , . 
- * acentos ex. prologo > prólogo 
- * uso i/y ex. io > yo 
- * uso o/u ex. sepoltura > sepultura
- * Formas verbales ex. devria > debería 
- * separaciones de palabras ex. della > de ella 
- * modernización de grupos consonánticos ex. fructo > fruto 
- * modernización de sibiliantes ex. fuesse > fuese, haze > hace 
