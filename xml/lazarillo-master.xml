@@ -1,7 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
@@ -19,7 +17,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <pubPlace>New York</pubPlace>
+                <!-- <pubPlace>New York</pubPlace> -->
                 <publisher>Columbia University in the City of New York</publisher>
                 <address>
                     <addrLine>Department of Latin American and Iberian Cultures</addrLine>
@@ -35,7 +33,7 @@
                             adversidades</title>
                     </titleStmt>
                     <publicationStmt>
-                        <pubPlace>Medina del Campo</pubPlace>
+                        <!-- <pubPlace>Medina del Campo</pubPlace>-->
                         <publisher>Mateo y Francisco del Canto</publisher>
                         <date>1554</date>
                     </publicationStmt>
@@ -849,7 +847,7 @@
                         cosa conveniente, porque verá la falta el que en tanta me hace vivir. Esto
                         bien se sufre».</p>
                     <p>Y comienzo a desmigajar el pan sobre unos no muy costosos manteles que allí
-                        estaban, y tomo uno y dejo otro, de manera que, en cada cual, de tres o
+                        estaban, y tomo uno y dejo otro, de manera que en cada cual de tres o
                         cuatro desmigajé su poco. Después, como quien toma gragea, lo comí y algo me
                         consolé. Mas él, como viniese a comer y abriese el arca, vio el mal pesar y
                         sin duda creyó ser ratones los que el daño habían hecho, porque estaba muy
@@ -857,14 +855,14 @@
                         un cabo a otro y viole ciertos agujeros por do sospechaba habían entrado.
                         Llamóme, diciendo:</p>
                     <sp who="#clerigo">
-                        <p>-¡<persName corresp="#Lazaro">Lázaro</persName>, mira, mira, qué
+                        <p>-¡<persName corresp="#Lazaro">Lázaro</persName>, mira! ¡Mira, qué
                             persecución ha venido aquesta noche por nuestro pan!</p>
                     </sp>
                     <p>Yo híceme muy maravillado, preguntándole qué sería.</p>
                     <sp who="#clerigo">
                         <p>-¿Qué ha de ser? -dijo él-. Ratones, que no dejan cosa a vida.</p>
                     </sp>
-                    <p>Pusímonos a comer, y quiso Dios que aun en esto me fue bien: que me cupo más
+                    <p>Pusímonos a comer, y quiso Dios que aun en esto me fue bien, que me cupo más
                         pan que la lacería que me solía dar, porque rayó con un cuchillo todo lo que
                         pensó ser ratonado, diciendo:</p>
                     <sp who="#clerigo">
@@ -882,7 +880,7 @@
                             mi lacería, y estaba ya cuanto que alegre y de buena ventura. Mas no
                             quiso mi desdicha, despertando a este lacerado de mi amo y poniéndole
                             más diligencia de la que él de suyo se tenía (pues los míseros por la
-                            mayor parte nunca de aquélla carecen), agora, cerrando los agujeros del
+                            mayor parte nunca de aquella carecen), ahora, cerrando los agujeros del
                             arca, cerrase la puerta a mi consuelo y la abriese a mis
                             trabajos».</said></p>
                     <p>Así lamentaba yo, en tanto que mi solícito carpintero, con muchos clavos y
@@ -897,7 +895,7 @@
                         tres panes comenzados, los que mi amo creyó ser ratonados, y de ellos
                         todavía saqué alguna lacería, tocándolos muy ligeramente, a uso de
                         esgrimidor diestro. Como la necesidad sea tan gran maestra, viéndome con
-                        tanta siempre, noche y día estaba pensando la manera que tendría en
+                        tanta siempre, noche y día estaba pensando la manera que ternía en
                         sustentar el vivir. Y pienso, para hallar estos negros remedios, que me era
                         luz la hambre, pues dicen que el ingenio con ella se avisa, y al contrario
                         con la hartura, y así era por cierto en mí.</p>
@@ -917,24 +915,24 @@
                         sería, porque cierto, en aquel tiempo, no me debían de quitar el sueño los
                         cuidados del rey de Francia.</p>
                     <p>Otro día fue por el señor mi amo visto el daño, así del pan como del agujero
-                        que yo había hecho, y comenzó a dar a los diablos los ratones y decir:</p>
+                        que yo había hecho, y comenzó a dar al diablo los ratones y decir:</p>
                     <sp who="#clerigo">
                         <p>-¿Qué diremos a esto? ¡Nunca haber sentido ratones en esta casa, sino
                             agora!</p>
                     </sp>
-                    <p>Y sin duda debía de decir verdad, porque, si casa había de haber en el reino
-                        justamente de ellos privilegiada, aquélla de razón había de ser, porque no
+                    <p>Y sin duda debía de decir verdad, porque si casa había de haber en el reino
+                        justamente de ellos privilegiada, aquella de razón había de ser, porque no
                         suelen morar donde no hay qué comer. Torna a buscar clavos por la casa y por
                         las paredes, y tablillas a atapárselos. Venida la noche y su reposo, luego
-                        yo era puesto en pie con mi aparejo y, cuantos él tapaba de día, destapaba
+                        yo era puesto en pie con mi aparejo, y cuantos él tapaba de día destapaba
                         yo de noche.</p>
                     <p>En tal manera fue y tal prisa nos dimos, que sin duda por esto se debió
-                        decir: <quote>«donde una puerta se cierra, otra se abre»</quote>.
+                        decir: <quote>«Donde una puerta se cierra, otra se abre»</quote>.
                         Finalmente, parecíamos tener a destajo la tela de <persName
-                            xml:id="Penelope">Penélope</persName>, pues, cuanto él tejía de día
-                        rompía yo de noche. Ca en pocos días y noches pusimos la pobre despensa de
-                        tal forma que, quien quisiera propiamente de ella hablar, más corazas viejas
-                        de otro tiempo, que no arcaz, la llamara, según la clavazón y tachuelas
+                            xml:id="Penelope">Penélope</persName>, pues cuanto él tejía de día
+                        rompía yo de noche, y en pocos días y noches pusimos la pobre despensa de
+                        tal forma, que quien quisiera propiamente de ella hablar más corazas viejas
+                        de otro tiempo que no arcaz la llamara, según la clavazón y tachuelas
                         sobre sí tenía.</p>
                     <p>De que vio no aprovecharle nada su remedio, dijo:</p>
                     <sp who="#clerigo">

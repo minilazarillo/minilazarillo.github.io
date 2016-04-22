@@ -1,10 +1,9 @@
-<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en-us">
 
   <head>
   <!-- Canonical link to help search engines -->
-  <link rel="canonical" href="/bios.html">
+  <link rel="canonical" href="/">
 
   <!-- Basic meta elements -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -14,7 +13,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
   <!--   Dublin Core metadata for Zotero -->
-  <meta name="DC.title" content="" />
+  <meta name="DC.title" content="Home" />
   <meta name="DC.creator" content="" />
   <meta name="DC.date" content="2016" />
   <meta name="DC.rights" content="" />
@@ -23,7 +22,7 @@
 
   <title>
     
-      
+      mini lazarillo
     
   </title>
 
@@ -130,39 +129,82 @@
       </div>
 
       <div class="container content">
-        <div class="biowrapper">
-    <h1>About the team</h1>
-    
-      
-    
-      
-    
-      
-        <div class="bio">
-          <img src="http://placehold.it/200x200" class="photo">
-          <p><p><strong>Armando</strong> ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-</p>
-        </div>
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-        <div class="bio">
-          <img src="http://placehold.it/200x200" class="photo">
-          <p><strong>Fiona</strong> ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</p>
-        </div>
-      
-    
-      
-    
+        <div class="introduction">
+  <h1 id="minilazarillo">minilazarillo</h1>
+
+<h2 id="a-minimal-edition-of-the-1554-novella-lazarillo-de-tormes">A minimal edition of the 1554 novella, <em>Lazarillo de Tormes.</em></h2>
+
+<p>This project is a digital ediction created by students at Columbia University. The site is divided into three editions: A facsimile edition, a reading edition, and an annotated edition. We created the site with the purpose of giving the reader an enriched reading experience and a deeper comprehension of the work.</p>
+
+<p>Este proyecto es una edición digital realizada por una clase estudiantes de la Universidad de Columbia. El sitio se divide en tres ediciones: una edición facsimilar, de leyenda y con anotaciones. Lo creamos para darle al lector una experienca más enriquecida de leer y una comprensión más a fondo de la obra.</p>
+
+
+<hr />
+
+<div class="toc">
+  <h2>The reading edition</h2>
+  <ul class="post">
+  
+
+    <li class="post-title">
+      <a href="/prologo.html">
+        Prólogo
+      </a>
+    </li>
+  
+
+    <li class="post-title">
+      <a href="/tratado1.html">
+        Tratado primero
+      </a>
+    </li>
+  
+
+    <li class="post-title">
+      <a href="/tratado2.html">
+        Tratado segundo
+      </a>
+    </li>
+  
+
+    <li class="post-title">
+      <a href="/tratado3.html">
+        Tratado tercero
+      </a>
+    </li>
+  
+
+    <li class="post-title">
+      <a href="/tratado4.html">
+        Tratado cuarto
+      </a>
+    </li>
+  
+
+    <li class="post-title">
+      <a href="/tratado5.html">
+        Tratado quinto
+      </a>
+    </li>
+  
+
+    <li class="post-title">
+      <a href="/tratado6.html">
+        Tratado sexto
+      </a>
+    </li>
+  
+
+    <li class="post-title">
+      <a href="/tratado7.html">
+        Tratado séptimo
+      </a>
+    </li>
+  
+  </ul>
+
+</div>
+
 
 </div>
 
@@ -190,20 +232,3 @@
     </script>
   </body>
 </html>
-=======
----
-layout: page
-title: Equipo
----
-
-<div class="biowrapper">
-    {% for page in site.pages %}
-      {% if page.bio == true %}
-        <div class="bio">
-          <img src="{{ page.img }}" class="photo">
-          <p>{{ page.content }}</p>
-        </div>
-      {% endif %}
-    {% endfor %}
-</div>
->>>>>>> origin/xml

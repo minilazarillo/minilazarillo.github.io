@@ -1,10 +1,9 @@
-<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en-us">
 
   <head>
   <!-- Canonical link to help search engines -->
-  <link rel="canonical" href="/bios.html">
+  <link rel="canonical" href="/bibliography.html">
 
   <!-- Basic meta elements -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -14,7 +13,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
   <!--   Dublin Core metadata for Zotero -->
-  <meta name="DC.title" content="" />
+  <meta name="DC.title" content="Bibliography" />
   <meta name="DC.creator" content="" />
   <meta name="DC.date" content="2016" />
   <meta name="DC.rights" content="" />
@@ -23,7 +22,7 @@
 
   <title>
     
-      
+      Bibliography
     
   </title>
 
@@ -85,7 +84,7 @@
     
       
         
-          <a class="sidebar-nav-item" href="/bibliography.html">Bibliography</a>
+          <a class="sidebar-nav-item active" href="/bibliography.html">Bibliography</a>
         
       
     
@@ -130,39 +129,21 @@
       </div>
 
       <div class="container content">
-        <div class="biowrapper">
-    <h1>About the team</h1>
-    
-      
-    
-      
-    
-      
-        <div class="bio">
-          <img src="http://placehold.it/200x200" class="photo">
-          <p><p><strong>Armando</strong> ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-</p>
-        </div>
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-        <div class="bio">
-          <img src="http://placehold.it/200x200" class="photo">
-          <p><strong>Fiona</strong> ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</p>
-        </div>
-      
-    
-      
-    
+        <div class="page">
+  <h1 class="page-title">Bibliography</h1>
+  <p>The sample bibliography should display below. If it doesn’t, you need to install <a href="https://github.com/inukshuk/jekyll-scholar">jekyll-scholar</a>. We’ve provided a Gemfile for you that you can use with <a href="http://bundler.io/">Bundler</a>. Remember to do a bundle install. On that note, we also highly recommend that you use <a href="https://rvm.io/">rvm</a> to manage your gems. Here’s <a href="https://www.chapterthree.com/blog/ruby-rvm-gemsets-and-bundlergemfiles">a great tutorial</a> on how to do both from Rob Decker.</p>
+
+<p>To use jekyll-scholar, we recommend reading up on the excellent documentation on the link above.</p>
+
+<hr />
+
+<h2 id="sample-bibliography">Sample bibliography</h2>
+
+<p><ol class="bibliography"><li><span id="goyal_romance_2010">Goyal, Yogita. <i>Romance, Diaspora, And Black Atlantic Literature</i>. Cambridge University Press, 2010. Print.</span></li>
+<li><span id="lau_libraries_2012">Lau, Jesús, Anna Maria Tammaro, and Theo J. D. Bothma. <i>Libraries Driving Access To Knowledge</i>. De Gruyter Saur, 2012. Web.</span></li>
+<li><span id="cesaire_discourse_2001">Césaire, Aimé. <i>Discourse On Colonialism</i>. Monthly Review Press, 2001. Print.</span></li>
+<li><span id="mcgann_radiant_2001">McGann, J. <i>Radiant Textuality: Literary Studies After the World Wide Web</i>. 1st edition. Palgrave Macmillan, 2001. Print.</span></li>
+<li><span id="nakamura_race_2012">Nakamura, Lisa, and Peter Chow-White. <i>Race After the Internet</i>. Routledge, 2012. Print.</span></li></ol></p>
 
 </div>
 
@@ -190,20 +171,3 @@
     </script>
   </body>
 </html>
-=======
----
-layout: page
-title: Equipo
----
-
-<div class="biowrapper">
-    {% for page in site.pages %}
-      {% if page.bio == true %}
-        <div class="bio">
-          <img src="{{ page.img }}" class="photo">
-          <p>{{ page.content }}</p>
-        </div>
-      {% endif %}
-    {% endfor %}
-</div>
->>>>>>> origin/xml

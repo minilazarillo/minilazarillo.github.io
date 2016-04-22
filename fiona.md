@@ -1,7 +1,7 @@
 ---
 bio: true
 categories: [bio]
-img: assets/Freshman%20portrait.jpg 
+img: assets/Freshman%20portrait.jpg
 ---
 **Fiona Kibblewhite,** *Project Manager*. Fiona is currently an undergraduate student at Columbia College studying Hispanic Studies with concentrations in Business Management and Education. She currently serves as an editor on the board of *Portales: Latin American & Iberian Cultures Journal of Undergraudate Research* as well as the Tutoring Chair of Columbia's chapter of the Hispanic Scholarship Fund. Fiona loves sharing her passion for Spanish and has experience teaching and tutoring elementary, AP, and college level Spanish. In her free time, she enjoys traveling and immersing herself in different cultures.
 
