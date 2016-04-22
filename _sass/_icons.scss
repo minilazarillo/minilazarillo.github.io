@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'icomoon';
+    src:    url('/fonts/icomoon.eot?16u552');
+    src:    url('/fonts/icomoon.eot?16u552#iefix') format('embedded-opentype'),
+        url('/fonts/icomoon.ttf?16u552') format('truetype'),
+        url('/fonts/icomoon.woff?16u552') format('woff'),
+        url('/fonts/icomoon.svg?16u552#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.icons {
+  font-family: 'icomoon';
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+
+  a {
+
+    &:first-of-type {
+      margin-left: 20%;
+    }
+    &:last-of-type {
+      margin-right: 20%;
+    }
+    &:hover {
+      text-decoration: none;
+    }
+
+  }
+
+}

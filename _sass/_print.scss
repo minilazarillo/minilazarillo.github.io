@@ -1,0 +1,23 @@
+@media print {
+    .masthead-title {
+      text-align: center;
+    }
+    .masthead-title small {
+      display: none;
+    }
+
+    body {
+      color: black;
+    }
+
+    p {
+      font-size: 16pt;
+      text-indent: 0.5in;
+      margin-bottom: 0;
+      line-height: 1.5;
+      text-align: justify;
+      -webkit-hyphens: auto;
+      -ms-hyphens: auto;
+      hyphens: auto;
+    }
+}

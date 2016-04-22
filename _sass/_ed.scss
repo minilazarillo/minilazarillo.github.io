@@ -1,10 +1,10 @@
 /* Ed: the minimal edition theme.
- * ___________________   
- * \_   _____/\______ \  
- *  |    __)_  |    |  \ 
+ * ___________________
+ * \_   _____/\______ \
+ *  |    __)_  |    |  \
  *  |        \ |    `   \
  * /_______  //_______  /
- *         \/         \/ 
+ *         \/         \/
  * Designed, built, and released under an MIT license by @elotroalex.
  * Based on the Poole and Lanyon theme by @mdo. Learn more at
  * https://github.com/elotroalex/ed.
@@ -26,9 +26,9 @@ html {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-  font-weight: 400; 
+  font-weight: 400;
   font-size: 1.5rem;
-  color: #666;
+  color: $dark-grey;
   letter-spacing: -.025rem;
 }
 
@@ -50,7 +50,7 @@ h3, h4, h5 {
 
 
 a, .post-title a {
-  color: #aa3311;
+  color: $med-theme;
   text-decoration: none;
 }
 
@@ -68,7 +68,7 @@ ul {
 
 blockquote {
 	padding: 0rem 1.5rem 0rem 2rem;
-	margin: 0 0 20px 0; 
+	margin: 0 0 20px 0;
 	color: inherit;
 	border-left: none;
 	font-style: italic;
@@ -115,21 +115,21 @@ h3.masthead-title {
 }
 
 .masthead-title a {
-	color: #aa3311;;
+	color: $med-theme;
 }
 
 .masthead-title small {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   font-size: 1rem;
   font-weight: 400;
-  color: #c0c0c0;
+  color: $med-grey;
   letter-spacing: 0;
 }
 
 /* Sidebar styles */
 
 #sidebar {
-	background-color: #841212;
+	background-color: $dark-theme;
 }
 
 

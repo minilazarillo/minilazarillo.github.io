@@ -26,8 +26,11 @@
     {% endfor %}
 
     <!-- The code below is used for manually entered links  -->
-
-    <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+    <span class="sidebar-nav-item icons">
+      <a href="https://www.facebook.com/sharer/sharer.php?app_id=121049934664488&u=http%3A%2F%2Fminilazarillo.github.io%2F&display=popup&ref=plugin&src=share_button" target="_blank">&#xe902;</a> <!-- Facebook icon -->
+      <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://minilazarillo.github.io/" data-text="{{ site.title }}: {{ site.tagline | strip_html }}" data-size="large" target="_blank">&#xe904;</a> <!-- Twitter icon -->
+      <a href="https://github.com/minilazarillo/minilazarillo.github.io" target="_blank">&#xe901;</a> <!-- Github icon -->
+    </span>
   </nav>
 
   <div class="sidebar-item">
