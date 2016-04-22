@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en-us">
 
@@ -189,3 +190,20 @@
     </script>
   </body>
 </html>
+=======
+---
+layout: page
+title: About the team
+---
+
+<div class="biowrapper">
+    {% for page in site.pages %}
+      {% if page.bio == true %}
+        <div class="bio">
+          <img src="{{ page.img }}" class="photo">
+          <p>{{ page.content }}</p>
+        </div>
+      {% endif %}
+    {% endfor %}
+</div>
+>>>>>>> origin/xml

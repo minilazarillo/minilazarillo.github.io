@@ -1,0 +1,37 @@
+div.inline-nav {
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+
+  @media screen and (min-width: 760px) {
+    max-width: 60%;
+  }
+
+  a.previous {
+    display: inline-block;
+    float: left;
+
+    &:before {
+      content: "\2190\00a0" //Arrow left then space
+    }
+
+  }
+
+  a.following {
+    display: inline-block;
+    float: right;
+
+    &:after {
+      content: "\00a0\2192" //Space then arrow right
+    }
+
+  }
+
+  &:after {
+    display: block;
+    content: "";
+    visibility: none;
+    clear: both;
+    height: 0;
+  }
+}

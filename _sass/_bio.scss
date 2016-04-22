@@ -1,0 +1,33 @@
+.biowrapper {
+  margin-top: 40px;
+}
+
+.bio {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  position: relative;
+
+  img {
+    float: left;
+    max-width: 30%;
+    margin-bottom: 0;
+    margin-right: 20px;
+  }
+
+  p {
+    font-size: 0.9rem;
+    @media screen and (min-width: 800px) {
+      float: right;
+      max-width: 66%;
+    }
+  }
+
+  &:after {
+    display: block;
+    visibility: none;
+    content: "";
+    clear: both;
+    height: 0;
+  }
+
+}
