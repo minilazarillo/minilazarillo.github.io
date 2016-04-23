@@ -1557,61 +1557,62 @@
                             Dios lo ha hecho mejor y pasan adelante, abre, abre y ve por de
                             comer.</p>
                     </sp>
-                    <p><quote>Dejálos, señor, acaben de pasar la calle</quote> -dije yo.</p>
+                    <sp who="#Lazaro"><p>Dejálos, señor, acaben de pasar la calle -dije yo.</p></sp>
                     <p>Al fin vino mi amo a la puerta de la calle, y ábrela esforzándome, que bien
                         era menester, según el miedo y alteración, y me torno a encaminar. Mas,
                         aunque comimos bien aquel día, maldito el gusto yo tomaba en ello. Ni en
                         aquellos tres días torné en mi color. Y mi amo, muy risueño todas las veces
                         que se le acordaba aquella mi consideración.</p>
-                    <p>De esta manera estuve con mi tercero y pobre amo, que fue este escudero,
+                    <p>De esta manera estuve con mi tercero y pobre amo, que fue este <persName corresp="#escudero">escudero</persName>,
                         algunos días, y en todos deseando saber la intención de su venida y estada
                         en esta tierra; porque, desde el primer día que con él asenté, le conocí ser
                         extranjero, por el poco conocimiento y trato que con los naturales de ella
                         tenía.</p>
                     <p>Al fin se cumplió mi deseo y supe lo que deseaba; porque, un día que habíamos
                         comido razonablemente y estaba algo contento, contóme su hacienda y díjome
-                        ser de Castilla la Vieja, y que había dejado su tierra no más de por no
+                        ser de <placeName corresp="#Castilla">Castilla la Vieja,</placeName> y que había dejado su tierra no más de por no
                         quitar el bonete a un caballero, su vecino.</p>
-                    <p><quote>Señor</quote> -dije yo-, <quote>si él era lo que decía y tenía más que
+                    <sp who="#Lazaro"><p>-Señor -dije yo-, si él era lo que decía y tenía más que
                             vos, ¿no errábades en no quitárselo primero, pues decís que él también
-                            os lo quitaba?</quote></p>
-                    <p><quote>Sí es y sí tiene, y también me lo quitaba él a mí; mas, de cuantas
+                            os lo quitaba?</p></sp>
+                    <!-- Realmente es un ejemplo de dialogo?--><p><quote>Sí es y sí tiene, y también me lo quitaba él a mí; mas, de cuantas
                             veces yo se le quitaba primero, no fuera malo comedirse él alguna y
                             ganarme por la mano.</quote></p>
-                    <p><quote>Paréceme, señor</quote> -le dije yo-, <quote>que en eso no mirara,
-                            mayormente con mis mayores que yo y que tienen más.</quote></p>
-                    <p><quote>Eres muchacho</quote> -me respondió- <quote>y no sientes las cosas de
+                    <sp who="#Lazaro"><p>-Paréceme, señor -le dije yo-, que en eso no mirara,
+                        mayormente con mis mayores que yo y que tienen más.</p></sp>
+                    <sp who="#escudero"><p>-Eres muchacho -me respondió- y no sientes las cosas de
                             honra, en que el día de hoy está todo el caudal de los hombres de bien.
                             Pues te hago saber que yo soy, como ves, un escudero; mas ¡vótote a
-                            Dios!, si al Conde topo en la calle y no me quita muy bien quitado del
+                        <name type="religious">Dios!,</name> si al Conde topo en la calle y no me quita muy bien quitado del
                             todo el bonete, que otra vez que venga, me sepa yo entrar en una casa,
                             fingiendo yo en ella algún negocio, o atravesar otra calle, si la hay,
                             antes que llegue a mí, por no quitárselo. Que un hidalgo no debe a otro
                             que a Dios y al rey nada, ni es justo, siendo hombre de bien, se
                             descuide un punto de tener en mucho su persona. Acuérdome que un día
                             deshonré en mi tierra a un oficial y quise poner en él las manos, porque
-                            cada vez que le topaba, me decía: <quote>Mantenga Dios a <persName
+                            cada vez que le topaba, me decía: 
+                        <quote>Mantenga Dios a <persName
                                     corresp="#VuestraMerced">Vuestra Merced</persName>.</quote>
                             <quote>Vos, don villano ruin -le dije yo-, ¿por qué no sois bien criado?
                                 ¿Manténgaos Dios, me habéis de decir, como si fuese
                                 quienquiera?</quote> De allí adelante, de aquí acullá, me quitaba el
-                            bonete y hablaba como debía.</quote></p>
-                    <p><quote>¿Y no es buena manera de saludar un hombre a otro</quote> -dije yo-
-                            <quote>decirle que le mantenga Dios?</quote></p>
-                    <p><quote>¡Mira, mucho de enhoramala!</quote> -dijo él-. <quote>A los hombres de
+                        bonete y hablaba como debía.</p></sp>
+                    <sp who="#Lazaro"><p>-¿Y no es buena manera de saludar un hombre a otro -dije yo-
+                        decirle que le mantenga Dios?</p></sp>
+                    <sp who="#escudero"><p>-¡Mira, mucho de enhoramala! -dijo él-. A los hombres de
                             poca arte dicen eso; mas a los más altos, como yo, no les han de hablar
-                            menos de: <quote>Beso las manos de <persName corresp="#VuestraMerced"
-                                    >Vuestra Merced</persName></quote>, o por lo menos:
-                                <quote>Bésoos, señor, las manos</quote>, si el que me habla es
+                            menos de: Beso las manos de <persName corresp="#VuestraMerced"
+                                    >Vuestra Merced</persName>, o por lo menos:
+                               Bésoos, señor, las manos, si el que me habla es
                             caballero. Y así, de aquél de mi tierra que me atestaba de
                             mantenimiento, nunca más le quise sufrir, ni sufriría ni sufriré a
-                            hombre del mundo, del rey abajo, que: <quote>Manténgaos Dios</quote>, me
-                            diga.</quote></p>
-                    <p><quote>Pecador de mí</quote> -dije yo-, <quote>por eso tiene tan poco cuidado
-                            de mantenerte, pues no sufres que nadie se lo ruegue.</quote></p>
-                    <p><quote>Mayormente</quote> -dijo- <quote>que no soy tan pobre que no tengo en
+                            hombre del mundo, del rey abajo, que: Manténgaos Dios, me
+                        diga.</p></sp>
+                    <sp who="#Lazaro"><p>Pecador de mí -dije yo-, por eso tiene tan poco cuidado
+                        de mantenerte, pues no sufres que nadie se lo ruegue.</p></sp>
+                    <sp who="#escudero"><p>Mayormente -dijo- que no soy tan pobre que no tengo en
                             mi tierra un solar de casas, que, a estar ellas en pie y bien labradas,
-                            dieciséis leguas de donde nací, en aquella Costanilla de Valladolid,
+                            dieciséis leguas de donde nací, en aquella <placeName xml:id="Costanilla">Costanilla de Valladolid,</placeName>
                             valdrían más de doscientas veces mil maravedís, según se podrían hacer
                             grandes y buenas. Y tengo un palomar que, a no estar derribado como
                             está, daría cada año más de doscientos palominos. Y otras cosas que me
@@ -1621,7 +1622,7 @@
                             limitada que no los sacarán de su paso todo el mundo. Caballeros de
                             media talla también me ruegan; mas servir a éstos es gran trabajo,
                             porque de hombre os habéis de convertir en malilla, y, si no,
-                                <quote>andad con Dios</quote> os dicen. Y las más veces son los
+                                andad con Dios os dicen. Y las más veces son los
                             pagamentos a largos plazos, y las más y las más ciertas, comido por
                             servido. Ya, cuando quieren reformar consciencia y satisfaceros vuestros
                             sudores, sois librado en la recámara, en un sudado jubón o raída capa o
@@ -1645,7 +1646,7 @@
                             aborrecen y tienen en poco y llaman necios y que no son personas de
                             negocios, ni con quien el señor se puede descuidar. Y con éstos los
                             astutos usan, como digo, el día de hoy, de lo que yo usaría; mas no
-                            quiere mi ventura que le halle.</quote></p>
+                            quiere mi ventura que le halle.</p></sp>
                     <p>De esta manera lamentaba tan bien su adversa fortuna mi amo, dándome relación
                         de su persona valerosa.</p>
                     <p>Pues, estando en esto, entró por la puerta un hombre y una vieja. El hombre
