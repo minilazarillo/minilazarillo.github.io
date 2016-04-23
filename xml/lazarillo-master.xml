@@ -1774,7 +1774,7 @@
                         dado al diablo con aquello y, pensando qué hacer, se acordó de convidar al
                         pueblo para otro día de mañana despedir la bula.</p>
                     <p>Y esa noche, después de cenar, pusiéronse a jugar la colación él y el
-                            <persName corresp="#alguacil">alguacil</persName>. Y sobre el juego
+                            <persName xml:id="alguacil">alguacil</persName>. Y sobre el juego
                         vinieron a reñir y a haber malas palabras. Él llamó al <persName
                             corresp="#alguacil">alguacil</persName> ladrón y el otro a él falsario.
                         Sobre esto, el <persName corresp="#buldero">señor comisario</persName>, mi
@@ -2080,10 +2080,10 @@
                     pasó</head>
                 <div type="texto">
                     <p>Después de esto, asenté con <persName xml:id="pintor">un maestro de pintar
-                            panderos,</persName> para molelle los colores, y también sufrí mil
+                            panderos</persName>, para molelle los colores, y también sufrí mil
                         males.</p>
                     <p>Siendo ya en este tiempo buen mozuelo, entrando un día en la iglesia mayor,
-                            <persName corresp="#capellan">un capellán</persName> de ella me recibió
+                        un <persName corresp="#capellan">capellán</persName> de ella me recibió
                         por suyo, y púsome en poder un asno y cuatro cántaros y un azote, y comencé
                         a echar agua por la ciudad. Éste fue el primer escalón que yo subí para
                         venir a alcanzar buena vida, porque mi boca era medida. Daba cada día a
@@ -2103,11 +2103,11 @@
             <div xml:id="tratado7">
                 <head type="titulo">Tratado séptimo</head>
                 <head type="subtitulo">Cómo <persName corresp="#Lazaro">Lázaro</persName> se asentó
-                    con un, <persName corresp="#alguacil">alguacil</persName> y de lo que le acaeció
+                    con un, <persName xml:id="alguacil2">alguacil</persName> y de lo que le acaeció
                     con él</head>
                 <div type="texto">
-                    <p>Despedido del capellán, asenté por hombre de justicia con un <persName
-                            corresp="#alguacil">alguacil</persName>; mas muy poco viví con él, por
+                    <p>Despedido del <persName corresp="#capellan">capellán</persName>, asenté por hombre de justicia con un <persName
+                            corresp="#alguacil2">alguacil</persName>; mas muy poco viví con él, por
                         parecerme oficio peligroso. Mayormente que una noche nos corrieron a mí y a
                         mi amo a pedradas y a palos unos retraídos. Y a mi amo, que esperó, trataron
                         mal; mas a mí no me alcanzaron. Con esto renegué del trato.</p>
@@ -2134,7 +2134,7 @@
                             de Tormes</persName> no entiende en ello, hacen cuenta de no sacar
                         provecho.</p>
                     <p>En este tiempo, viendo mi habilidad y buen vivir, teniendo noticia de mi
-                        persona <persName xml:id="arcipreste">el señor arcipreste</persName> de
+                        persona el <persName xml:id="arcipreste">señor arcipreste</persName> de
                             <placeName>San Salvador</placeName>, mi señor, y servidor y amigo de
                             <persName corresp="#VuestraMerced">Vuestra Merced</persName>, porque le
                         pregonaba sus vinos, procuró casarme con una criada suya. Y visto por mí que
@@ -2151,22 +2151,22 @@
                         en este tiempo siempre he tenido alguna sospechuela y habido algunas malas
                         cenas por esperalla algunas noches hasta las laudes, y aún más, y se me ha
                         venido a la memoria lo que a mi amo el ciego me dijo en
-                            <placeName>Escalona</placeName>, estando asido del cuerno; aunque, de
+                            <placeName xml:id="Escalona">Escalona</placeName>, estando asido del cuerno; aunque, de
                         verdad, siempre pienso que el diablo me lo trae a la memoria por hacerme
                         malcasado, y no le aprovecha.</p>
                     <p>Porque allende de no ser ella mujer que se pague de estas burlas, mi señor me
                         ha prometido lo que pienso cumplirá; que él me habló un día muy largo
                         delante de ella y me dijo:</p>
-                    <p>-<persName corresp="#Lazaro">Lázaro de Tormes</persName>, quien ha de mirar a
+                    <sp who="#arcipreste"><p>-<persName corresp="#Lazaro">Lázaro de Tormes</persName>, quien ha de mirar a
                         dichos de malas lenguas nunca medrará. Digo esto, porque no me maravillaría
                         alguno, viendo entrar en mi casa a tu mujer y salir de ella. Ella entra muy
                         a tu honra y suya. Y esto te lo prometo. Por tanto, no mires a lo que pueden
-                        decir, sino a lo que te toca, digo, a tu provecho.</p>
-                    <p>-<persName corresp="#arcipreste">Señor</persName> -le dije-, yo determiné de
+                        decir, sino a lo que te toca, digo, a tu provecho.</p></sp>
+                    <sp who="#Lazaro"><p>-<persName corresp="#arcipreste">Señor</persName> -le dije-, yo determiné de
                         arrimarme a los buenos. Verdad es que algunos de mis amigos me han dicho
                         algo de eso, y aun por más de tres veces me han certificado que, antes que
                         conmigo casase, había parido tres veces, hablando con reverencia de Vuestra
-                        Merced, porque está ella delante.</p>
+                        Merced, porque está ella delante.</p></sp>
                     <p>Entonces mi mujer echó juramentos sobre sí, que yo pensé la casa se hundiera
                         con nosotros. Y después tomóse a llorar y a echar maldiciones sobre quien
                         conmigo la había casado, en tal manera que quisiera ser muerto antes que se
@@ -2177,13 +2177,13 @@
                         bien seguro de su bondad. Y así quedamos todos tres bien conformes.</p>
                     <p>Hasta el día de hoy nunca nadie nos oyó sobre el caso; antes, cuando alguno
                         siento que quiere decir algo de ella, le atajo y le digo:</p>
-                    <p>-Mirad, si sois mi amigo, no me digáis cosa con que me pese, que no tengo por
+                    <sp who="#Lazaro"><p>-Mirad, si sois mi amigo, no me digáis cosa con que me pese, que no tengo por
                         mi amigo al que me hace pesar, mayormente si me quieren meter mal con mi
                         mujer, que es la cosa del mundo que yo más quiero, y la amo más que a mí, y
                         me hace Dios con ella mil mercedes y más bien que yo merezco. Que yo juraré
                         sobre la hostia consagrada que es tan buena mujer como vive dentro de las
                         puertas de <placeName>Toledo</placeName>. Quien otra cosa me dijere, yo me
-                        mataré con él.</p>
+                        mataré con él.</p></sp>
                     <p>De esta manera no me dicen nada, y yo tengo paz en mi casa.</p>
                     <p>Esto fue el mismo año que nuestro victorioso Emperador en esta insigne ciudad
                         de <placeName>Toledo</placeName> entró y tuvo en ella Cortes, y se hicieron
