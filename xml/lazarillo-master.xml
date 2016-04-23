@@ -119,7 +119,7 @@
                         y fue de esta manera: mi padre, que <name type="religious" xml:id="Dios"
                             >Dios</name> perdone, tenía cargo de proveer una molienda de una aceña
                         que está ribera de aquel río, en la cual fue molinero más de quince años; y
-                        estando mi madre una noche en la aceña, preñada de mí, tomóle el parto y
+                        estando mi <persName corresp="#AntonaPerez">madre</persName> una noche en la aceña, preñada de mí, tomóle el parto y
                         parióme allí. De manera que con verdad me puedo decir nacido en el río.</p>
                     <p> Pues siendo yo niño de ocho años, achacaron a mi padre ciertas sangrías mal
                         hechas en los costales de los que allí a moler venían, por lo cual fue
@@ -130,7 +130,7 @@
                         contra moros, entre los cuales fue mi padre, que a la sazón estaba
                         desterrado por el desastre ya dicho, con cargo de acemilero de un caballero
                         que allá fue, y con su señor, como leal criado, feneció su vida. </p>
-                    <p> Mi viuda madre, como sin marido y sin abrigo se viese, determinó arrimarse a
+                    <p> Mi viuda <persName corresp="#AntonaPerez">madre</persName>, como sin marido y sin abrigo se viese, determinó arrimarse a
                         los buenos por ser uno de ellos, y vínose a vivir a la ciudad y alquiló una
                         casilla y metíase a guisar de comer a ciertos estudiantes, y lavaba la ropa
                         a ciertos mozos de caballos del <persName xml:id="Magdalena">Comendador de
@@ -144,11 +144,11 @@
                         miedo, viendo el color y mal gesto que tenía; mas de que vi que con su
                         venida mejoraba el comer, fuile queriendo bien, porque siempre traía pan,
                         pedazos de carne, y en el invierno leños a que nos calentábamos.</p>
-                    <p> De manera que continuando la posada y conversación, mi madre vino a darme
+                    <p> De manera que continuando la posada y conversación, mi <persName corresp="#AntonaPerez">madre</persName> vino a darme
                             <persName xml:id="hermanastro">un negrito</persName> muy bonito, el cual
                         yo brincaba y ayudaba a calentar. Y acuérdome que estando el negro de mi
-                        padrastro trebejando con el mozuelo, como el niño vía a mi madre y a mí
-                        blancos y a él no, huía de él con miedo para mi madre, y, señalando con el
+                        padrastro trebejando con el mozuelo, como el niño vía a mi <persName corresp="#AntonaPerez">madre</persName> y a mí
+                        blancos y a él no, huía de él con miedo para mi <persName corresp="#AntonaPerez">madre</persName>, y, señalando con el
                         dedo, decía: </p>
                     <sp who="#hermanastro">
                         <p>-¡Madre, coco! </p>
@@ -168,16 +168,16 @@
                         hecha pesquisa, hallóse que la mitad por medio de la cebada, que para las
                         bestias le daban, hurtaba, y salvados, leña, almohazas, mandiles, y las
                         mantas y sábanas de los caballos hacía perdidas; y, cuando otra cosa no
-                        tenía, las bestias desherraba, y con todo esto acudía a mi madre para criar
+                        tenía, las bestias desherraba, y con todo esto acudía a mi <persName corresp="#AntonaPerez">madre</persName> para criar
                         a mi hermanico. No nos maravillemos de un clérigo, ni de un fraile, porque
                         el uno hurta de los pobres y el otro de casa para sus devotas y para ayuda
                         de otro tanto, cuando a un pobre esclavo el amor le animaba a esto.</p>
                     <p> Y probósele cuanto digo, y aún más, porque a mí con amenazas me preguntaban,
                         y, como niño, respondía y descubría cuanto sabía con miedo, hasta ciertas
-                        herraduras que por mandado de mi madre a un herrero vendí. </p>
+                        herraduras que por mandado de mi <persName corresp="#AntonaPerez">madre</persName> a un herrero vendí. </p>
 
                     <p> Al triste de mi <persName corresp="#Zaide">padrastro</persName>
-                        <pb n="5v" facs="Medina-1554_006.jpg"/>azotaron y pringaron, y a mi madre
+                        <pb n="5v" facs="Medina-1554_006.jpg"/>azotaron y pringaron, y a mi <persName corresp="#AntonaPerez">madre</persName>
                         pusieron pena por justicia, sobre el acostumbrado centenario, que en casa
                         del sobredicho comendador no entrase ni al lastimado Zaide en la suya
                         acogiese. </p>
@@ -192,7 +192,7 @@
 
                     <p> En este tiempo vino a posar al mesón <persName xml:id="ciego">un
                             ciego</persName>, el cual, pareciéndole que yo sería para adestrarle, me
-                        pidió a mi madre, y ella me encomendó a él, diciéndole cómo era hijo de un
+                        pidió a mi <persName corresp="#AntonaPerez">madre</persName>, y ella me encomendó a él, diciéndole cómo era hijo de un
                         buen hombre, el cual, por ensalzar la fe, había muerto en la de <placeName
                             ref="Gelves">los Gelves</placeName>, y que ella confiaba <pb n="6r"
                             facs="Medina-1554_006.jpg"/> en <name type="religious" corresp="#Dios"
@@ -204,8 +204,8 @@
                     <p> Como estuvimos en <placeName corresp="#Salamanca">Salamanca</placeName>
                         algunos días, pareciéndole a mi amo que no era la ganancia a su contento,
                         determinó irse de allí; y cuando nos hubimos de partir, yo fui a ver a mi
-                        madre y, ambos llorando, me dio su bendición y dijo:</p>
-                    <sp who="#madre">
+                        <persName corresp="#AntonaPerez">madre</persName> y, ambos llorando, me dio su bendición y dijo:</p>
+                    <sp who="#AntonaPerez">
                         <p>-Hijo, ya sé que no te veré más. Procura de ser bueno, y <name
                                 type="religious" corresp="Dios">Dios</name> te guíe. Criado te he y
                             con buen amo te he puesto; válete por ti.</p>
@@ -410,7 +410,7 @@
                             <placeName corresp="#Salamanca">Salamanca</placeName>, su motivo fue
                         venir a tierra de <placeName corresp="#Toledo">Toledo</placeName>, porque
                         decía ser la gente más rica, aunque no muy limosnera. Arrimábase <pb n="12r"
-                        />a este refrán: «Más da el duro que el desnudo»<!-- SAT: refrán -->. Y
+                        />a este refrán: <quote>«Más da el duro que el desnudo»</quote><!-- SAT: refrán -->. Y
                         venimos a este camino por los mejores lugares. Donde hallaba buena acogida y
                         ganancia, deteníamonos; donde no, a tercero día hacíamos <placeName
                             ref="San Juan">San Juan</placeName>.</p>
@@ -774,10 +774,10 @@
                         siempre en mí.</p>
                     <p>Pensé muchas veces irme de aquel mezquino amo; mas por dos cosas lo dejaba:
                         la primera, por no me atrever a mis piernas, por temer de la flaqueza que de
-                        pura hambre me venía; y la otra, consideraba y decía: «Yo he tenido dos
+                        pura hambre me venía; y la otra, consideraba y decía: <said who="#Lazaro">«Yo he tenido dos
                         amos: el primero traíame muerto de hambre y, dejándole, topé con este otro,
                         que me tiene ya con ella en la sepultura; pues si de éste desisto y doy en
-                        otro más bajo, ¿qué será, sino fenecer?». Con esto no me osaba menear,
+                        otro más bajo, ¿qué será, sino fenecer?».</said> Con esto no me osaba menear,
                         porque tenía por fe que todos los grados había de hallar más ruines. Y a
                         abajar otro punto, no sonara <persName corresp="#Lazaro">Lázaro</persName>
                         ni se oyera en el mundo. Pues estando en tal aflicción, cual plega al Señor
@@ -817,8 +817,8 @@
                         mucho aquel descanso, porque luego, al tercero día, me vino la terciana
                         derecha. Y fue que veo a deshora al que me mataba de hambre sobre nuestro
                         arcaz, volviendo y revolviendo, contando y tornando a contar los panes. Yo
-                        disimulaba, y en mi secreta oración y devociones y plegarias decía: «¡San
-                        Juan y ciégale!»</p>
+                        disimulaba, y en mi secreta oración y devociones y plegarias decía: <said who="#Lazaro">«¡San
+                            Juan y ciégale!»</said></p>
                     <p>Después que estuvo un gran rato echando la cuenta, por días y dedos contando,
                         dijo:</p>
                     <sp who="#clerigo">
@@ -841,11 +841,11 @@
                         cosa no hacía, en viéndome solo, sino abrir y cerrar el arca y contemplar en
                         aquella cara de Dios, que así dicen los niños. Mas el mismo Dios, que
                         socorre a los afligidos, viéndome en tal estrecho, trajo a mi memoria un
-                        pequeño remedio, que, considerando entre mí, dije: «Este arquetón es viejo y
+                        pequeño remedio, que, considerando entre mí, dije: <said who="#Lazaro">«Este arquetón es viejo y
                         grande y roto por algunas partes, aunque pequeños agujeros. Puédese pensar
                         que ratones, entrando en él, hacen daño a este pan. Sacarlo entero no es
                         cosa conveniente, porque verá la falta el que en tanta me hace vivir. Esto
-                        bien se sufre».</p>
+                        bien se sufre».</said></p>
                     <p>Y comienzo a desmigajar el pan sobre unos no muy costosos manteles que allí
                         estaban, y tomo uno y dejo otro, de manera que en cada cual de tres o
                         cuatro desmigajé su poco. Después, como quien toma gragea, lo comí y algo me
@@ -1916,8 +1916,7 @@
                         arrepentimiento, que aquél, encaminado por el demonio y persuadido de la
                         muerte y pecado, le quisiese perdonar y dar vida y salud, para que se
                         arrepintiese y confesase sus pecados.</p>
-                    <p>Y esto hecho, mandó traer la bula y púsosela en la cabeza. Y luego el
-                            <persName corresp="#alguacil">pecador del alguacil</persName> comenzó
+                    <p>Y esto hecho, mandó traer la bula y púsosela en la cabeza. Y luego el pecador del <persName corresp="#alguacil">alguacil</persName> comenzó
                         poco a poco a estar mejor y tornar en sí. Y desque fue bien vuelto en su
                         acuerdo, echóse a los pies del <persName corresp="#buldero">señor
                             comisario</persName> y, demandándole perdón, confesó haber dicho aquello
@@ -2064,9 +2063,9 @@
                         que el temor de <persName corresp="#buldero">mi astuto amo</persName> no me
                         lo dejaba comunicar con nadie, ni nunca de mí salió, porque me tomó
                         juramento que no descubriese el milagro y así lo hice hasta agora.</p>
-                    <p>Y, aunque muchacho, cayóme mucho en gracia, y dije entre mí: <quote
-                            corresp="#Lazaro">«¡Cuántas de éstas deben hacer estos burladores entre
-                            la inocente gente!»</quote>.</p>
+                    <p>Y, aunque muchacho, cayóme mucho en gracia, y dije entre mí: <said
+                            who="#Lazaro">«¡Cuántas de éstas deben hacer estos burladores entre
+                            la inocente gente!»</said>.</p>
                     <p>Finalmente, estuve con este mi <persName corresp="#buldero">quinto
                             amo</persName> cerca de cuatro meses, en los cuales pasé también hartas
                         fatigas, aunque me daba bien de comer, a costa de los curas y otros clérigos
