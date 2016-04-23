@@ -1660,56 +1660,56 @@
                         solo, y fuime a las vecinas y contéles el caso y allí dormí.</p>
                     <p>Venida la mañana, los acreedores vuelven y preguntan por el vecino; mas a
                         esta otra puerta. Las mujeres le responden:</p>
-                    <p><quote>Veis aquí su mozo y la llave de la puerta.</quote></p>
+                    <sp who="#mujeres"><p>-Veis aquí su mozo y la llave de la puerta.</p></sp>
                     <p>Ellos me preguntaron por él, y díjele que no sabía adónde estaba, y que
                         tampoco había vuelto a casa desque salió a trocar la pieza, y que pensaba
                         que de mí y de ellos se había ido con el trueco.</p>
-                    <p>De que esto me oyeron, van por un <persName xml:id="alguacil"
+                    <p>De que esto me oyeron, van por un <persName xml:id="alguacil1"
                             >alguacil</persName> y un escribano. Y helos do vuelven luego con ellos,
                         y toman la llave, y llámanme, y llaman testigos, y abren la puerta y entran
                         a embargar la hacienda de mi amo hasta ser pagados de su deuda. Anduvieron
                         toda la casa y halláronla desembarazada, como he contado, y dícenme:</p>
-                    <p><quote>¿Qué es de la hacienda de tu amo, sus arcas y paños de pared y alhajas
-                            de casa?</quote></p>
-                    <p><quote>No sé yo eso</quote> -le respondí.</p>
-                    <p><quote>Sin duda</quote> -dicen ellos- <quote>esta noche lo deben de haber
-                            alzado y llevado a alguna parte. Señor <persName corresp="#alguacil"
+                    <sp who="#alguacilescribano"><p>¿Qué es de la hacienda de tu amo, sus arcas y paños de pared y alhajas
+                        de casa?</p></sp>
+                    <sp who="#Lazaro"><p>-No sé yo eso -le respondí.</p></sp>
+                    <sp who="alguacilescribano"><p>-Sin duda -dicen ellos- esta noche lo deben de haber
+                            alzado y llevado a alguna parte. Señor <persName corresp="#alguacil1"
                                 >alguacil</persName>, prended a este mozo, que él sabe dónde
-                            está.</quote></p>
-                    <p>En esto vino el <persName corresp="#alguacil">alguacil</persName> y echóme
+                        está.</p></sp>
+                    <p>En esto vino el <persName corresp="#alguacil1">alguacil</persName> y echóme
                         mano por el collar del jubón, diciendo:</p>
-                    <p><quote>Muchacho, tú eres preso, si no descubres los bienes de este tu
-                            amo.</quote></p>
+                    <sp who="#alguacil1"><p>-Muchacho, tú eres preso, si no descubres los bienes de este tu
+                        amo.</p></sp>
                     <p>Yo, como en otra tal no me hubiese visto (porque asido del collar sí había
                         sido muchas e infinitas veces, mas era mansamente de él trabado, para que
                         mostrase el camino al que no veía), yo hube mucho miedo y, llorando,
                         prometíle de decir lo que me preguntaban.</p>
-                    <p><quote>Bien está</quote> -dicen ellos-. <quote>Pues di todo lo que sabes y no
-                            hayas temor.</quote></p>
+                    <sp who="alguacilescribano"><p>-Bien está -dicen ellos-. Pues di todo lo que sabes y no
+                        hayas temor.</p></sp>
                     <p>Sentóse el escribano en un poyo para escribir el inventario, preguntándome
                         qué tenía.</p>
-                    <p><quote>Señores</quote> -dije yo-, <quote>lo que este mi amo tiene, según él
+                    <sp who="#Lazaro"><p>-Señores -dije yo-, lo que este mi amo tiene, según él
                             me dijo, es un muy buen solar de casas y un palomar
-                        derribado.</quote></p>
-                    <p><quote>Bien está</quote> -dicen ellos-; <quote>por poco que eso valga, hay
+                            derribado.</p></sp>
+                    <sp who="#alguacilescribano"><p>Bien está -dicen ellos-; por poco que eso valga, hay
                             para nos entregar de la deuda. ¿Y a qué parte de la ciudad tiene
-                            eso?</quote> -me preguntaron.</p>
-                    <p><quote>En su tierra</quote> -les respondí.</p>
-                    <p><quote>Por Dios, que está bueno el negocio</quote> -dijeron ellos-. <quote>¿Y
-                            adónde es su tierra?</quote></p>
-                    <p><quote>De Castilla la Vieja me dijo él que era</quote> -le dije.</p>
-                    <p>Riéronse mucho el <persName corresp="#alguacil">alguacil</persName> y el
-                        escribano, diciendo:</p>
-                    <p><quote>Bastante relación es ésta para cobrar vuestra deuda, aunque mejor
-                            fuese.</quote></p>
+                            eso? -me preguntaron.</p></sp>
+                    <sp who ="#Lazaro"><p>-En su tierra -les respondí.</p></sp>
+                    <sp who="alguacilescribano"><p>Por Dios, que está bueno el negocio -dijeron ellos-. ¿Y
+                        adónde es su tierra?</p></sp>
+                    <sp who="#Lazaro"><p>-De <placeName corresp="#Castilla">Castilla la Vieja</placeName> me dijo él que era -le dije.</p>
+                    <p>Riéronse mucho el <persName corresp="#alguacil1">alguacil</persName> y el
+                        escribano, diciendo:</p></sp>
+                    <sp who="#alguacilescribano"><p>-Bastante relación es ésta para cobrar vuestra deuda, aunque mejor
+                        fuese.</p></sp>
                     <p>Las vecinas, que estaban presentes, dijeron:</p>
-                    <p><quote>Señores, éste es un niño inocente y ha pocos días que está con ese
-                            escudero y no sabe de él más que vuestras mercedes; sino cuanto el
+                    <sp who="#vecinos"><p>-Señores, éste es un niño inocente y ha pocos días que está con ese <persName corresp="#escudero">
+                        escudero</persName> y no sabe de él más que vuestras mercedes; sino cuanto el
                             pecadorcico se llega aquí a nuestra casa, y le damos de comer lo que
                             podemos por amor de Dios, y a las noches se iba a dormir con
-                        él.</quote></p>
+                            él.</p></sp>
                     <p>Vista mi inocencia, dejáronme, dándome por libre. Y el <persName
-                            corresp="#alguacil">alguacil</persName> y el escribano piden al hombre y
+                            corresp="#alguacil1">alguacil</persName> y el escribano piden al hombre y
                         a la mujer sus derechos. Sobre lo cual tuvieron gran contienda y ruido,
                         porque ellos alegaron no ser obligados a pagar, pues no había de qué ni se
                         hacía el embargo. Los otros decían que habían dejado de ir a otro negocio,
