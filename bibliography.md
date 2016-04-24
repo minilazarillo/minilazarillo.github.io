@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bibliography
+title: Bibliografía
 order: 7
 --- 
 
