@@ -9,7 +9,7 @@ order: 2
       {% if page.bio == true %}
         <div class="bio">
           <img src="{{ page.img }}" class="photo">
-          <p>{{ page.content }}</p>
+          <p>{{ page.content | markdownify }}</p>
         </div>
       {% endif %}
     {% endfor %}
