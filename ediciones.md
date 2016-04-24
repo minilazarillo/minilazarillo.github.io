@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Las ediciones
+title: La Edición
+order: 5
 ---
 
 Acceda aquí a las tres ediciones: 

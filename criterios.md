@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Criterios de edición
+order: 4
 ---
 
 Para llevar a cabo nuestro trabajo nos hemos basado en la edición de 1554 publicada en Medina del Campo.

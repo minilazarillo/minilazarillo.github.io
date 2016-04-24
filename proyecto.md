@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Proyecto
+order: 1
 ---
 
 Descripción del proyecto
