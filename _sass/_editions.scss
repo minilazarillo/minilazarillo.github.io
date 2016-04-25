@@ -9,14 +9,24 @@ div.ediciones {
   a {
     display: block;
   }
+  font-size: 36px;
+  @media screen and (max-width: 900px) {
+    font-size: 30px;
+  }
+  @media screen and (max-width: 810px) {
+    font-size: 26px;
+  }
+  @media screen and (max-width: 650px) {
+    font-size: 20px;
+  }
 }
 
 $dark-theme-seethru: rgba($dark-theme, 0.8);
 
 .box {
   position: relative;
-  height: 17rem;
-  width: 17rem;
+  height: 9.44em;
+  width: 9.44em;
   overflow: hidden;
   .facsimilar {
     position: absolute;
@@ -25,7 +35,7 @@ $dark-theme-seethru: rgba($dark-theme, 0.8);
     width: 100%;
     height: 100%;
     background-image: url("/assets/facsimilar.jpg");
-    background-size: 17rem;
+    background-size: 9.44em;
     background-position: center;
     -webkit-filter: blur(2px);
     filter: blur(2px);
@@ -39,7 +49,7 @@ $dark-theme-seethru: rgba($dark-theme, 0.8);
     width: 100%;
     height: 100%;
     background-image: url("/assets/moderno.png");
-    background-sze: 17rem;
+    background-sze: 9.44em;
     -webkit-filter: blur(2px);
     filter: blur(2px);
     margin: -2px -4px -4px -2px;
@@ -68,7 +78,7 @@ $dark-theme-seethru: rgba($dark-theme, 0.8);
     width: 100%;
     font-weight: 700;
     padding-left: 10px;
-    font-size: 36px;
+    font-size: 1em;
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 
   }
