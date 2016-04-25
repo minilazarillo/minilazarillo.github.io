@@ -1,7 +1,7 @@
 ---
 bio: true
 categories: [bio]
-img: okay/shim.jpg 
+img: assets/shim.jpg 
 ---
 **Taewan Shim,** *Quality Manager and Cartographer*. Taewan is currently an undergraduate student at Columbia College studying Hispanic Studies and Statistics. He currently is a member of the Chess Club at Columbia and previously served on the board of Portales: Latin American & Iberian Cultures Journal of Undergraduate Research. Taewan took AP Spanish in his sophomore year and ever since then has loved the Spanish language and its culture. When Taewan is not in school, he works at Bois Capital, a boutique investment bank in Midtown as well as Gooroo, a start-up, which connects tutors to students.
 
