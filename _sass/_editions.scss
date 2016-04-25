@@ -1,0 +1,73 @@
+@mixin background-opacity($color, $opacity: 0.3) {
+    background-color: $color; /* The Fallback */
+    background-color: rgba($color, $opacity);
+}
+
+div.ediciones {
+  display: flex;
+  justify-content: space-between;
+  a {
+    display: block;
+  }
+}
+
+$dark-theme-seethru: rgba($dark-theme, 0.8);
+
+.box {
+  position: relative;
+  height: 17rem;
+  width: 17rem;
+  overflow: hidden;
+  .facsimilar {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url("/assets/facsimilar.jpg");
+    background-size: 17rem;
+    background-position: center;
+    -webkit-filter: blur(2px);
+    margin: -2px -4px -4px -2px;
+  }
+
+  .moderno {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url("/assets/moderno.png");
+    background-sze: 17rem;
+    -webkit-filter: blur(2px);
+    margin: -2px -4px -4px -2px;
+
+  }
+  .overlay {
+    position: absolute;
+    bottom: 0px;
+    height: 100%;
+    width: 100%;
+    padding-top: 69%;
+    transition: padding-top 0.5s, background 0.7s;
+    background: linear-gradient(to bottom, rgba(0,0,0,0) 69%, $dark-theme-seethru 69%);
+
+    &:hover {
+      padding-top: 0px;
+      transition: padding-top 0.5s, background 0.7s;
+      background: $dark-theme-seethru;
+    }
+  }
+  span {
+    display: block;
+    color: white;
+    position: absolute;
+    width: 100%;
+    font-weight: 700;
+    padding-left: 10px;
+    font-size: 36px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+
+  }
+
+}
