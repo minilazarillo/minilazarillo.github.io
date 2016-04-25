@@ -28,6 +28,7 @@ $dark-theme-seethru: rgba($dark-theme, 0.8);
     background-size: 17rem;
     background-position: center;
     -webkit-filter: blur(2px);
+    filter: blur(2px);
     margin: -2px -4px -4px -2px;
   }
 
@@ -40,6 +41,7 @@ $dark-theme-seethru: rgba($dark-theme, 0.8);
     background-image: url("/assets/moderno.png");
     background-sze: 17rem;
     -webkit-filter: blur(2px);
+    filter: blur(2px);
     margin: -2px -4px -4px -2px;
 
   }
@@ -50,6 +52,7 @@ $dark-theme-seethru: rgba($dark-theme, 0.8);
     width: 100%;
     padding-top: 69%;
     transition: padding-top 0.5s, background 0.7s;
+    background: $dark-theme-seethru;
     background: linear-gradient(to bottom, rgba(0,0,0,0) 69%, $dark-theme-seethru 69%);
 
     &:hover {
