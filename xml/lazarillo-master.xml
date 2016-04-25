@@ -81,11 +81,12 @@
                         el vivir? No por cierto, mas el deseo de alabanza le hace ponerse al
                         peligro; y así en las artes y letras es lo mismo. Predica muy bien el
                         presentado, y es hombre que desea mucho el provecho de las ánimas; mas
-                        pregunten a <persName xml:id="VuestraMerced">su merced</persName> si le pesa cuando le dicen: <quote>«¡Oh, qué
-                            maravillosamente lo ha hecho vuestra reverencia!»</quote>. Justó muy
-                        ruinmente el <persName corresp="#donFulano">señor don Fulano</persName>, y
-                        dio el sayete de armas al truhán, porque le loaba de haber llevado muy
-                        buenas lanzas: ¿qué hiciera si fuera verdad? </p>
+                        pregunten a <persName xml:id="VuestraMerced">su merced</persName> si le pesa
+                        cuando le dicen: <quote>«¡Oh, qué maravillosamente lo ha hecho vuestra
+                            reverencia!»</quote>. Justó muy ruinmente el <persName
+                            corresp="#donFulano">señor don Fulano</persName>, y dio el sayete de
+                        armas al truhán, porque le loaba de haber llevado muy buenas lanzas: ¿qué
+                        hiciera si fuera verdad? </p>
                     <!-- quién aquí es "su merced?" a quien corresponde este quote? -->
                     <!-- SAT: en realidad este <quote> es impersonal, correspondería a "gente" -->
                     <p> Y todo va de esta manera; que, confesando yo no ser más santo <pb n="3r"
@@ -95,18 +96,19 @@
                         tantas fortunas, peligros y adversidades.</p>
                     <p>Suplico a <persName corresp="#VuestraMerced">Vuestra Merced</persName> reciba
                         el pobre servicio de mano de quien lo hiciera más rico, si su poder y deseo
-                        se conformaran. Y pues <persName corresp="#VuestraMerced">Vuestra Merced</persName> escribe se le escriba y relate el caso
-                        muy por extenso, parecióme no tomarle por el medio, sino del principio,
-                        porque se tenga entera noticia de mi persona, y también porque consideren
-                        los que heredaron nobles estados cuán poco se les debe, pues Fortuna fue con
-                        ellos parcial y, cuánto más hicieron los que, siéndoles contraria, con
-                        fuerza y maña remando salieron a buen puerto.</p>
+                        se conformaran. Y pues <persName corresp="#VuestraMerced">Vuestra
+                            Merced</persName> escribe se le escriba y relate el caso muy por
+                        extenso, parecióme no tomarle por el medio, sino del principio, porque se
+                        tenga entera noticia de mi persona, y también porque consideren los que
+                        heredaron nobles estados cuán poco se les debe, pues Fortuna fue con ellos
+                        parcial y, cuánto más hicieron los que, siéndoles contraria, con fuerza y
+                        maña remando salieron a buen puerto.</p>
                 </div>
             </div>
             <div xml:id="tratado1">
                 <head type="titulo"><pb n="3v" facs="Medina-1554_004.jpg"/>Tratado primero</head>
-                <head type="subtitulo">Cuenta <persName corresp="#Lazaro">Lázaro</persName> su vida y
-                    cúyo hijo fue</head>
+                <head type="subtitulo">Cuenta <persName corresp="#Lazaro">Lázaro</persName> su vida
+                    y cúyo hijo fue</head>
                 <div type="texto">
                     <p> Pues sepa <persName corresp="#VuestraMerced">Vuestra Merced</persName>, ante
                         todas cosas, que a mí llaman <persName corresp="#Lazaro">Lázaro de
@@ -939,7 +941,7 @@
                         tal forma, que quien quisiera propiamente de ella hablar más corazas viejas
                         de otro tiempo que no arcaz la llamara, según la clavazón y tachuelas sobre
                         sí tenía.</p>
-                    <p>De que vio no aprovecharle nada su remedio, dijo:</p>
+                    <p>De que vio no le aprovechar nada su remedio, dijo:</p>
                     <sp who="#clerigo">
                         <p>-Este arcaz está tan maltratado y es de madera tan vieja y flaca, que no
                             habrá ratón a quien se defienda. Y va ya tal que, si andamos más con él,
@@ -956,9 +958,9 @@
                     <p>Como hallase el pan ratonado y el queso comido y no cayese el ratón que lo
                         comía, dábase al diablo, preguntaba a los vecinos qué podría ser comer el
                         queso y sacarlo de la ratonera y no caer ni quedar dentro el ratón, y hallar
-                        caída la trampilla del gato.</p>
-                    <p>Acordaron los vecinos no ser el ratón el que este daño hacía, porque no fuera
-                        menos de haber caído alguna vez. Díjole un vecino:</p>
+                        caída la trampilla del gato. Acordaron los vecinos no ser el ratón el que
+                        este daño hacía, porque no fuera menos de haber caído alguna vez. Díjole un
+                        vecino:</p>
                     <sp who="un vecino">
                         <p>-En vuestra casa yo me acuerdo que solía andar una culebra, y ésta debe
                             de ser sin duda. Y lleva razón, que como es larga, tiene lugar de tomar
@@ -968,11 +970,11 @@
                     <p>Cuadró a todos lo que aquél dijo y alteró mucho a mi amo, y dende en adelante
                         no dormía tan a sueño suelto, que cualquier gusano de la madera que de noche
                         sonase, pensaba ser la culebra que le roía el arca. Luego era puesto en pie,
-                        y con un garrote que a la cabecera, desde que aquello le dijeron, ponía,
+                        y con un garrote que a la cabecera (desde que aquello le dijeron) ponía,
                         daba en la pecadora del arca grandes garrotazos, pensando espantar la
-                        culebra. A los vecinos despertaba con el estruendo que hacía, y a mí no me
+                        culebra. A los vecinos despertaba con el estruendo que hacía, y a mí no
                         dejaba dormir. Íbase a mis pajas y trastornábalas, y a mí con ellas,
-                        pensando que se iba para mí y se envolvía en mis pajas o en mi sayo; porque
+                        pensando que se iba para mí, se envolvía en mis pajas o en mi sayo; porque
                         le decían que de noche acaecía a estos animales, buscando calor, irse a las
                         cunas donde están criaturas, y aún mordellas y hacerles peligrar.</p>
                     <p>Yo las más veces hacía del dormido, y en la mañana, decíame él:</p>
@@ -986,39 +988,39 @@
                             que harto miedo le tengo!</p>
                     </sp>
                     <p>De esta manera andaba tan elevado y levantado del sueño, que, mi fe, la
-                        culebra (o culebro por mejor decir) no osaba roer de noche ni levantarse al
+                        culebra, o culebro por mejor decir, no osaba roer de noche ni levantarse al
                         arca; mas de día, mientras estaba en la iglesia o por el lugar, hacía mis
                         saltos. Los cuales daños viendo él, y el poco remedio que les podía poner,
-                        andaba de noche, como digo, hecho trasgo.</p>
+                        andaba de noche (como digo) hecho trasgo.</p>
                     <p>Yo hube miedo que con aquellas diligencias no me topase con la llave, que
                         debajo de las pajas tenía, y parecióme lo más seguro metella de noche en la
                         boca, porque ya, desde que viví con el<persName corresp="#ciego"
                             >ciego</persName>, la tenía tan hecha bolsa que me acaeció tener en ella
                         doce o quince maravedís, todo en medias blancas, sin que me estorbase el
-                        comer, porque de otra manera no era señor de una blanca que el maldito
+                        comer. Porque de otra manera no era señor de una blanca que el maldito
                             <persName corresp="#ciego">ciego</persName> no cayese con ella, no
                         dejando costura ni remiendo que no me buscaba muy a menudo.</p>
                     <p>Pues, así como digo, metía cada noche la llave en la boca y dormía sin recelo
-                        que el brujo de mi amo cayese con ella; mas cuando la desdicha ha de venir,
-                        por demás es diligencia. Quisieron mis hados, o por mejor decir mis pecados,
+                        que el brujo de mi amo cayese con ella. Mas cuando la desdicha ha de venir,
+                        por demás es diligencia. Quisieron mis hados (o por mejor decir), mis pecados,
                         que, una noche que estaba durmiendo, la llave se me puso en la boca, que
                         abierta debía tener, de tal manera y postura que el aire y resoplo, que yo
-                        durmiendo echaba, salía por lo hueco de la llave, que de cañuto era, y
-                        silbaba, según mi desastre quiso, muy recio, de tal manera que el
-                        sobresaltado de mi amo lo oyó, y creyó sin duda ser el silbo de la culebra,
+                        durmiendo echaba, salía por lo hueco de la llave (que de cañuto era) y
+                        silbaba (según mi desastre quiso) muy recio, de tal manera que el
+                        sobresaltado de mi amo lo oyó y creyó sin duda ser el silbo de la culebra,
                         y cierto lo debía parecer.</p>
-                    <p>Levantóse muy paso con su garrote en la mano, y, al tiento y sonido de la
-                        culebra, se llegó a mí con mucha quietud, por no ser sentido de la culebra.
-                        Y, como cerca se vio, pensó que allí en las pajas, do yo estaba echado, al
+                    <p>Levantóse muy paso con su garrote en la mano, y al tiento y sonido de la
+                        culebra se llegó a mí con mucha quietud, por no ser sentido de la culebra.
+                        Y como cerca se vio, pensó que allí en las pajas, do yo estaba echado, al
                         calor mío se había venido. Levantando bien el palo, pensando tenerla debajo
                         y darle tal garrotazo que la matase, con toda su fuerza me descargó en la
-                        cabeza un tan gran golpe que sin ningún sentido y muy mal descalabrado me
+                        cabeza tan gran golpe, que sin ningún sentido y muy mal descalabrado me
                         dejó.</p>
                     <p>Como sintió que me había dado, según yo debía hacer gran sentimiento con el
-                        fiero golpe, contaba él que se había llegado a mí y, dándome grandes voces,
-                        llamándome, procuró recordarme. Mas, como me tocase con las manos, tentó la
-                        mucha sangre que se me iba, y conoció el daño que me había hecho. Y con
-                        mucha prisa fue a buscar lumbre y, llegando con ella, hallóme quejando,
+                        fiero golpe, contaba él que se había llegado a mí, y dándome grandes voces,
+                        llamándome, procuró recordarme. Mas como me tocase con las manos, tentó la
+                        mucha sangre que se me iba y conoció el daño que me había hecho. Y con
+                        mucha prisa fue a buscar lumbre, y llegando con ella, hallóme quejando,
                         todavía con mi llave en la boca, que nunca la desamparé, la mitad fuera,
                         bien de aquella manera que debía estar al tiempo que silbaba con ella.</p>
                     <p>Espantado el matador de culebras qué podría ser aquella llave, miróla
@@ -1027,11 +1029,11 @@
                         maleficio. Debió de decir el cruel cazador: <quote>«El ratón y culebra que
                             me daban guerra y me comían mi hacienda he hallado».</quote></p>
                     <p>De lo que sucedió en aquellos tres días siguientes ninguna fe daré, porque
-                        los tuve en el vientre de la ballena, mas, de cómo esto que he contado oí,
-                        después que en mí torné, decir a mi amo, el cual a cuantos allí venían lo
+                        los tuve en el vientre de la ballena, mas de cómo esto que he contado oí
+                        (después que en mí torné) decir a mi amo, el cual a cuantos allí venían lo
                         contaba por extenso.</p>
-                    <p>A cabo de tres días yo torné en mi sentido, y vime echado en mis pajas, la
-                        cabeza toda emplastada y llena de aceites y ungüentos, y, espantado,
+                    <p>A cabo de tres días yo torné en mi sentido y vime echado en mis pajas, la
+                        cabeza toda emplastada y llena de aceites y ungüentos, y espantado
                         dije:</p>
                     <sp who="#Lazaro">
                         <p>-¿Qué es esto?</p>
@@ -1040,9 +1042,9 @@
                     <sp who="#clerigo">
                         <p>-A fe que los ratones y culebras que me destruían ya los he cazado.</p>
                     </sp>
-                    <p>Y miré por mí, y vime tan maltratado que luego sospeché mi mal.</p>
+                    <p>Y miré por mí y vime tan maltratado que luego sospeché mi mal.</p>
                     <p>A esta hora entró una vieja que ensalmaba, y los vecinos. Y comiénzanme a
-                        quitar trapos de la cabeza y curar el garrotazo. Y, como me hallaron vuelto
+                        quitar trapos de la cabeza y curar el garrotazo. Y como me hallaron vuelto
                         en mi sentido, holgáronse mucho y dijeron:</p>
                     <sp who="los vecinos">
                         <p>-Pues ha tornado en su acuerdo, placerá a <name type="religious"
@@ -1051,16 +1053,16 @@
                     <p>Ahí tornaron de nuevo a contar mis cuitas y a reírlas, y yo, pecador, a
                         llorarlas. Con todo esto, diéronme de comer, que estaba transido de hambre,
                         y apenas me pudieron demediar. Y así, de poco en poco, a los quince días me
-                        levanté y estuve sin peligro (mas no sin hambre) y medio sano.</p>
+                        levanté y estuve sin peligro, mas no sin hambre, y medio sano.</p>
                     <p>Luego otro día que fui levantado, el señor mi amo me tomó por la mano y
                         sacóme la puerta fuera y, puesto en la calle, díjome:</p>
                     <sp who="#clerigo">
-                        <p>-<persName corresp="#Lazaro">Lázaro</persName>, de hoy más eres tuyo y no
+                        <p>-<persName corresp="#Lazaro">Lázaro</persName>, de hoy mas eres tuyo y no
                             mío. Busca amo y vete con <name type="religious">Dios,</name> que yo no
                             quiero en mi compañía tan diligente servidor. No es posible sino que
                             hayas sido mozo de <persName corresp="#ciego">ciego.</persName></p>
                     </sp>
-                    <p>Y santiguándose de mí, como si yo estuviera endemoniado, tórnase a meter en
+                    <p>Y santiguándose de mí, como si yo estuviera endemoniado, se torna a meter en
                         casa y cierra su puerta.</p>
                 </div>
             </div>
@@ -1074,14 +1076,14 @@
                         ayuda de las buenas gentes, di conmigo en esta insigne ciudad de Toledo,
                         adonde, con la merced de Dios, dende a quince días se me cerró la <pb
                             n="33r" facs="Medina-1554_033.jpg"/>herida. Y, mientras estaba malo,
-                        siempre me daban alguna limosna; mas, después que estuve sano, todos me
+                        siempre me daban alguna limosna. Mas después que estuve sano, todos me
                         decían:</p>
                     <sp who="#vecinos">
                         <p>-Tú, bellaco y gallofero eres. Busca, busca un amo a quien sirvas.</p>
                     </sp>
                     <sp who="#Lazaro">
-                        <p>-¿Y adónde se hallará ése -decía yo entre mí- si Dios agora de nuevo,
-                            como crió el mundo, no le criase?</p>
+                        <p>-¿Y adónde se hallará ése -decía yo entre mí- si Dios agora de nuevo
+                            (como crió el mundo) no le criase?</p>
                     </sp>
                     <p>Andando así discurriendo de puerta en puerta, con harto poco remedio, porque
                         ya la caridad se subió al cielo, topóme <name type="religious">Dios</name>
@@ -1121,20 +1123,20 @@
                         hombre, mi nuevo amo, que se proveía en junto, y que ya la comida estaría a
                         punto y tal como yo la deseaba y aun la había menester.</p>
                     <p>En este tiempo dio el reloj la una después de mediodía, y llegamos a una
-                        casa, ante la cual mi amo se paró, y yo con él, y, derribando el cabo de la
+                        casa, ante la cual mi amo se paró, y yo con él, y derribando el cabo de la
                         capa sobre el lado izquierdo, sacó una llave de la manga y abrió su puerta y
                         entramos en casa, la cual tenía la entrada oscura y lóbrega, de tal manera
-                        que parecia que ponía temor a los que en ella entraban, aunque dentro de
+                        que parecía que ponía temor a los que en ella entraban, aunque dentro de
                         ella estaba un patio pequeño y razonables cámaras.</p>
-                    <p>Desque fuimos entrados, quita de sobre sí su capa y, preguntando si tenía las
-                        manos limpias, la sacudimos y doblamos y, muy limpiamente soplando un poyo
+                    <p>Desque fuimos entrados, quita de sobre sí su capa, y, preguntando si tenía las
+                        manos limpias, la sacudimos y doblamos, y, muy limpiamente soplando un poyo
                         que allí estaba, la puso en él. Y hecho esto, sentóse cabo de ella,
                         preguntándome muy por ex<pb n="34r" facs="Medina-1554_034.jpg"/>tenso de
                         dónde era y cómo había venido a aquella ciudad. Y yo le di más larga cuenta
                         que quisiera, porque me parecía más conveniente hora de mandar poner la mesa
                         y escudillar la olla que de lo que me pedía. Con todo eso, yo le satisfice
                         de mi persona lo mejor que mentir supe, diciendo mis bienes y callando lo
-                        demás, porque me parecía no ser para en cámara. Esto hecho, estuvo ansí un
+                        demás, porque me parecía no ser para en cámara. Esto hecho, estuvo así un
                         poco, y yo luego vi mala señal por ser ya casi las dos y no le ver más
                         aliento de comer que a un muerto. Después de esto, consideraba aquel tener
                         cerrada la puerta con llave ni sentir arriba ni abajo pasos de viva persona
@@ -1624,14 +1626,19 @@
                             quitárselo. Que un hidalgo no debe a otro que a Dios y al rey nada, ni
                             es justo, siendo hombre de bien, se descuide un punto de tener en mucho
                             su persona. Acuérdome que un día deshonré en mi tierra a un oficial y
-                            quise poner en él las manos, porque cada vez que le topaba, me decía:</p></sp>
-                                <sp who="#escudero"><p>Mantenga Dios a <persName corresp="#VuestraMerced">Vuestra
-                                    Merced</persName>.</p></sp>
-                            <sp who="#Lazaro"><p>Vos, don villano ruin -le dije yo-, ¿por qué no sois bien criado?
-                                ¿Manténgaos Dios, me habéis de decir, como si fuese
-                                quienquiera? De allí adelante, de aquí acullá, me quitaba el
-                            bonete y hablaba como debía.</p></sp>
-                    
+                            quise poner en él las manos, porque cada vez que le topaba, me
+                            decía:</p>
+                    </sp>
+                    <sp who="#escudero">
+                        <p>Mantenga Dios a <persName corresp="#VuestraMerced">Vuestra
+                                Merced</persName>.</p>
+                    </sp>
+                    <sp who="#Lazaro">
+                        <p>Vos, don villano ruin -le dije yo-, ¿por qué no sois bien criado?
+                            ¿Manténgaos Dios, me habéis de decir, como si fuese quienquiera? De allí
+                            adelante, de aquí acullá, me quitaba el bonete y hablaba como debía.</p>
+                    </sp>
+
                     <sp who="#Lazaro">
                         <p>-¿Y no es buena manera de saludar un hombre a otro -dije yo- decirle que
                             le mantenga Dios?</p>
@@ -1934,18 +1941,22 @@
                             >alguacil</persName> cae de su estado y da tan gran golpe en el suelo
                         que la iglesia toda hizo resonar, y comenzó a bramar y echar espumajos por
                         la boca y torcella, y hacer visajes con el gesto, dando de pie y de mano,
-                        revolviéndose por aquel suelo a una parte y a otra.<!--dos puntos aqui--></p>
+                        revolviéndose por aquel suelo a una parte y a
+                        otra.<!--dos puntos aqui--></p>
                     <p>El estruendo y voces de la gente era tan grande, que no se oían unos a otros.
-                        Algunos estaban espantados y temerosos. Unos decían:</p> 
-                        <sp who="#congregation"><p>«<name
-                                type="religious" corresp="#Dios">El Señor</name> le socorra y
-                            valga».</p></sp> 
-                    <sp who="#congregation"><p>Otros: «Bien se le emplea, pues levantaba tan
-                        falso testimonio.»</p></sp>
+                        Algunos estaban espantados y temerosos. Unos decían:</p>
+                    <sp who="#congregation">
+                        <p>«<name type="religious" corresp="#Dios">El Señor</name> le socorra y
+                            valga».</p>
+                    </sp>
+                    <sp who="#congregation">
+                        <p>Otros: «Bien se le emplea, pues levantaba tan falso testimonio.»</p>
+                    </sp>
                     <p>Finalmente, algunos que allí estaban, y a mi parecer no sin harto temor, se
                         llegaron y le trabaron de los brazos, con los cuales daba fuertes puñadas a
-                        los que cerca de él estaban. Otros le tiraban por las piernas, y tuvieron <pb n="57r" facs="Medina-1554_057.jpg"/>
-                        reciamente, porque no había mula falsa en el mundo<!--hay coma en el manuscrito--> que tan recias coces
+                        los que cerca de él estaban. Otros le tiraban por las piernas, y tuvieron
+                            <pb n="57r" facs="Medina-1554_057.jpg"/> reciamente, porque no había
+                        mula falsa en el mundo<!--hay coma en el manuscrito--> que tan recias coces
                         tirase. Y así le tuvieron un gran rato. Porque más de quince hombres estaban
                         sobre él y a todos daba las manos llenas y, si se descuidaban, en los
                         hocicos.</p>
