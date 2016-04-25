@@ -1619,7 +1619,7 @@
                         <p>-Eres muchacho -me respondió- y no sientes las cosas de honra, en que el
                             día de hoy está todo el caudal de los hombres de bien. Pues te hago
                             saber que yo soy, como ves, un escudero; mas ¡vótote a <name
-                                type="religious">Dios!,</name> si al Conde topo en la calle y no me
+                                type="religious">Dios!,</name> si al <!--Quien es? es otro personaje-->Conde topo en la calle y no me
                             quita muy bien quitado del todo el bonete, que otra vez que venga, me
                             sepa yo entrar en una casa, fingiendo yo en ella algún negocio, o
                             atravesar otra calle, si la hay, antes que llegue a mí, por no
@@ -1627,11 +1627,10 @@
                             es justo, siendo hombre de bien, se descuide un punto de tener en mucho
                             su persona. Acuérdome que un día deshonré en mi tierra a un oficial y
                             quise poner en él las manos, porque cada vez que le topaba, me
-                            decía:</p>
-                    </sp>
-                    <sp who="#escudero">
-                        <p>Mantenga Dios a <persName corresp="#VuestraMerced">Vuestra
-                                Merced</persName>.</p>
+                            decía:
+                    <said who="#"><!--solucionar Conde-->
+                        Mantenga Dios a <persName corresp="#escudero">Vuestra
+                                Merced</persName>.</said></p>
                     </sp>
                     <sp who="#Lazaro">
                         <p>Vos, don villano ruin -le dije yo-, ¿por qué no sois bien criado?
