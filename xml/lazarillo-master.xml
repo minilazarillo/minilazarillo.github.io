@@ -81,7 +81,7 @@
                         el vivir? No por cierto, mas el deseo de alabanza le hace ponerse al
                         peligro; y así en las artes y letras es lo mismo. Predica muy bien el
                         presentado, y es hombre que desea mucho el provecho de las ánimas; mas
-                        pregunten a su merced si le pesa cuando le dicen: <quote>«¡Oh, qué
+                        pregunten a <persName xml:id="VuestraMerced">su merced</persName> si le pesa cuando le dicen: <quote>«¡Oh, qué
                             maravillosamente lo ha hecho vuestra reverencia!»</quote>. Justó muy
                         ruinmente el <persName corresp="#donFulano">señor don Fulano</persName>, y
                         dio el sayete de armas al truhán, porque le loaba de haber llevado muy
@@ -95,7 +95,7 @@
                         tantas fortunas, peligros y adversidades.</p>
                     <p>Suplico a <persName corresp="#VuestraMerced">Vuestra Merced</persName> reciba
                         el pobre servicio de mano de quien lo hiciera más rico, si su poder y deseo
-                        se conformaran. Y pues Vuestra Merced escribe se le escriba y relate el caso
+                        se conformaran. Y pues <persName corresp="#VuestraMerced">Vuestra Merced</persName> escribe se le escriba y relate el caso
                         muy por extenso, parecióme no tomarle por el medio, sino del principio,
                         porque se tenga entera noticia de mi persona, y también porque consideren
                         los que heredaron nobles estados cuán poco se les debe, pues Fortuna fue con
@@ -1624,14 +1624,14 @@
                             quitárselo. Que un hidalgo no debe a otro que a Dios y al rey nada, ni
                             es justo, siendo hombre de bien, se descuide un punto de tener en mucho
                             su persona. Acuérdome que un día deshonré en mi tierra a un oficial y
-                            quise poner en él las manos, porque cada vez que le topaba, me decía:
-                                <quote>Mantenga Dios a <persName corresp="#VuestraMerced">Vuestra
-                                    Merced</persName>.</quote>
-                            <quote>Vos, don villano ruin -le dije yo-, ¿por qué no sois bien criado?
+                            quise poner en él las manos, porque cada vez que le topaba, me decía:</p></sp>
+                                <sp who="#escudero"><p>Mantenga Dios a <persName corresp="#VuestraMerced">Vuestra
+                                    Merced</persName>.</p></sp>
+                            <sp who="#Lazaro"><p>Vos, don villano ruin -le dije yo-, ¿por qué no sois bien criado?
                                 ¿Manténgaos Dios, me habéis de decir, como si fuese
-                                quienquiera?</quote> De allí adelante, de aquí acullá, me quitaba el
-                            bonete y hablaba como debía.</p>
-                    </sp>
+                                quienquiera? De allí adelante, de aquí acullá, me quitaba el
+                            bonete y hablaba como debía.</p></sp>
+                    
                     <sp who="#Lazaro">
                         <p>-¿Y no es buena manera de saludar un hombre a otro -dije yo- decirle que
                             le mantenga Dios?</p>
@@ -1719,7 +1719,7 @@
                     <sp who="#Lazaro">
                         <p>-No sé yo eso -le respondí.</p>
                     </sp>
-                    <sp who="alguacilescribano">
+                    <sp who="#alguacilescribano">
                         <p>-Sin duda -dicen ellos- esta noche lo deben de haber alzado y llevado a
                             alguna parte. Señor <persName corresp="#alguacil1">alguacil</persName>,
                             prended a este mozo, que él sabe dónde está.</p>
@@ -1749,7 +1749,7 @@
                     <sp who="#Lazaro">
                         <p>-En su tierra -les respondí.</p>
                     </sp>
-                    <sp who="alguacilescribano">
+                    <sp who="#alguacilescribano">
                         <p>Por Dios, que está bueno el negocio -dijeron ellos-. ¿Y adónde es su
                             tierra?</p>
                     </sp>
@@ -1792,7 +1792,7 @@
                 <head type="titulo">Tratado cuatro</head>
                 <head type="subtitulo">Cómo Lázaro se asentó con un <persName corresp="#fraile"
                         >fraile de la Merced</persName>, y de lo que le acaeció con él</head>
-                <div type="text">
+                <div type="texto">
                     <p> Hube de buscar el cuarto, y éste fue un <persName corresp="#fraile">fraile
                             de la Merced</persName>, que las mujercillas que digo me encaminaron, al
                         cual ellas le llamaban pariente. Gran enemigo del coro y de comer en el
