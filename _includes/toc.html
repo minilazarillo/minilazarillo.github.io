@@ -1,4 +1,5 @@
 <div class="toc">
+  <h2>La edición de lecutra/The reading edition</h2>
   <ul class="post">
   {% for item in site.posts reversed %}
     {% if item.mode == "reading" %}
@@ -11,17 +12,19 @@
   {% endfor %}
   </ul>
 
-  <h2>The annotated edition</h2>
-  <ul class="post">
-  {% for item in site.posts reversed %}
-    {% if item.mode == "annotated" %}
-    <li class="post-title">
-      <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.title }}
-      </a>
-    </li>
-    {% endif %}
-  {% endfor %}
-  </ul>
+  <div id="annotatededition">
+    <h2>La edición anotada/The annotated edition</h2>
+    <ul class="post">
+    {% for item in site.posts reversed %}
+      {% if item.mode == "annotated" %}
+      <li class="post-title">
+        <a href="{{ site.baseurl }}{{ item.url }}">
+          {{ item.title }}
+        </a>
+      </li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+  </div>
 
 </div>

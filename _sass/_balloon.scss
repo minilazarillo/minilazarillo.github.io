@@ -11,6 +11,8 @@ $balloon-bg:             fade-out(#111, .1);
 $balloon-base-size:      10px;
 $balloon-arrow-height:   6px;
 
+$breakpoint:             1060px; //When to not show annotations
+
 
 //
 // Mixins
@@ -81,7 +83,7 @@ $balloon-arrow-height:   6px;
 // Styles
 // -----------------------------------------
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: $breakpoint) {
   [data-balloon] {
       position: relative; // alt. absolute or fixed
 
@@ -292,4 +294,10 @@ button {
   padding: 0;
   border-bottom: 1px dotted $dark-grey;
   cursor: help;
+}
+
+@media screen and (max-width: ($breakpoint - 1)) {
+  div#annotatededition {
+    visibility: hidden;
+  }
 }
