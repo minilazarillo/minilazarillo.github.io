@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0"
     xmlns:tei="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="#all">
 
-    <xsl:output encoding="UTF-8" method="text"></xsl:output>
+    <xsl:output encoding="UTF-8" method="text"/>
 
     <!-- SAT: Selecciona las <div> de primer nivel: -->
     <xsl:template match="/">
@@ -19,7 +19,7 @@
         para nombrar los ficheros.-->
         <xsl:result-document href="../indice.md">
           <!-- SAT: aquí se edita el header con yaml -->
-          <xsl:text>---&#x0A;layout: post&#x0A;</xsl:text>
+          <xsl:text>---&#x0A;layout: page&#x0A;</xsl:text>
           <xsl:text>title: Índice de personajes</xsl:text>
           <xsl:value-of select="tei:head[@type='titulo']"/>
           <xsl:text>&#x0A;</xsl:text>
@@ -33,21 +33,32 @@
     </xsl:template>
 
     <!-- AJL: Aquí se recupera los persNames y la nota asociada -->
+    <xsl:template match="tei:listPerson">
+        <xsl:apply-templates select="*">
+            <xsl:sort select="." />
+        </xsl:apply-templates>
+        <xsl:text>&#x0A;</xsl:text>
+    </xsl:template>
+
     <xsl:template match="tei:listPerson/person">
       <xsl:apply-templates />
     </xsl:template>
 
-    <xsl:template match="tei:head"/>
+    <xsl:template match="tei:head">
+        <xsl:text>&#x0A;</xsl:text>
+        <xsl:text>##</xsl:text>
+        <xsl:apply-templates />
+        <xsl:text>&#x0A;</xsl:text>
+    </xsl:template>
 
     <xsl:template match="tei:persName">
-      <xsl:text>- **</xsl:text>
+      <xsl:text>&#x0A;- **</xsl:text>
       <xsl:apply-templates />
       <xsl:text>**: </xsl:text>
     </xsl:template>
 
     <xsl:template match="tei:note">
         <xsl:apply-templates/>
-        <xsl:text>&#x0A;</xsl:text>
     </xsl:template>
 
     <xsl:template match="text()">
