@@ -22,18 +22,18 @@ order: 9
 - **alguacil**:   
 - **Antona Pérez**:   
 - **buldero**:   
-- **clérigo**:   
-- **Comendador de la Magdalena**:   
-- **escribano**:   
-- **escudero**:   
-- **fraile de la Merced**:   
-- **Lázaro**:   
-- **señor arcipreste de San Salvador**:   
-- **Tomé González**:   
 - **un capellán**:   
 - **un ciego**:   
-- **un maestro de pintar panderos**:   
+- **clérigo**:   
+- **Comendador de la Magdalena**:   
 - **un negrito**:   
+- **escudero**:   
+- **escribano**:   
+- **fraile de la Merced**:   
+- **Lázaro**:   
+- **un maestro de pintar panderos**:   
+- **señor arcipreste de San Salvador**:   
+- **Tomé González**:   
 - **Vuestra Merced**:   
 - **Zaide**:  
   

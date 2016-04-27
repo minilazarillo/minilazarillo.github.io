@@ -34,12 +34,13 @@
 
     <!-- AJL: Aquí se recupera los persNames y la nota asociada -->
     <xsl:template match="tei:listPerson">
-        <xsl:apply-templates select="*">
-            <xsl:sort select="." />
+        <xsl:apply-templates select="tei:head"/>
+        <xsl:apply-templates select="tei:person">
+            <xsl:sort select="translate(lower-case(.),'un ','')" />
         </xsl:apply-templates>
         <xsl:text>&#x0A;</xsl:text>
     </xsl:template>
-
+    
     <xsl:template match="tei:listPerson/person">
       <xsl:apply-templates />
     </xsl:template>
