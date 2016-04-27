@@ -2,18 +2,18 @@
 layout: narrative
 title: 
 author:
-mode: reading
+mode: annotated
 editor: Minimal Edition Class
 rights: Public Domain
 ---
 
  
-##  Cómo Lázaro se asentó con un clérigo, y de las cosas que con él pasó.
+##  Cómo <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="">Lázaro</button> se asentó con un <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="">clérigo</button>, y de las cosas que con él pasó.
 
   
-Otro día, no pareciéndome estar allí seguro, fuime a un lugar que llaman Maqueda, adonde me toparon mis pecados con un clérigo, que, llegando a pedir limosna, me preguntó si sabía ayudar a misa. Yo dije que sí, como era verdad; que, aunque maltratado, mil cosas buenas me mostró el pecador del ciego, y una de ellas fue ésta. Finalmente, el clérigo me recibió por suyo. 
+Otro día, no pareciéndome estar allí seguro, fuime a un lugar que llaman Maqueda, adonde me toparon mis pecados con un <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="">clérigo</button>, que, llegando a pedir limosna, me preguntó si sabía ayudar a misa. Yo dije que sí, como era verdad; que, aunque maltratado, mil cosas buenas me mostró el pecador del <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="">ciego</button>, y una de ellas fue ésta. Finalmente, el <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="">clérigo</button> me recibió por suyo. 
  
-Escapé del trueno y di en el relámpago, porque era el ciego para con éste un Alejandro Magno, con ser la misma avaricia, como he contado. No digo más, sino que toda la lacería del mundo estaba encerrada en éste: no sé si de su cosecha era o lo había anejado con el hábito de clerecía.
+Escapé del trueno y di en el relámpago, porque era el <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="">ciego</button> para con éste un <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="">Alejandro Magno</button>, con ser la misma avaricia, como he contado. No digo más, sino que toda la lacería del mundo estaba encerrada en éste: no sé si de su cosecha era o lo había anejado con el hábito de clerecía.
  
 Él tenía un arcaz viejo y cerrado con su llave, la cual traía atada con una agujeta del paletoque. Y en viniendo el bodigo de la iglesia, por su mano era luego allí lanzado y tornada a cerrar el arca. Y en toda la casa no había ninguna cosa de comer, como suele estar en otras algún tocino colgado al humero, algún queso puesto en alguna tabla o en el armario, algún canastillo con algunos pedazos de pan que de la mesa sobran; que me parece a mí que, aunque de ello no me aprovechara, con la vista de ello me consolara.
  
@@ -39,11 +39,11 @@ Y por ocultar su gran mezquindad, decíame:
   
 —Mira, mozo, los sacerdotes han de ser muy templados en su comer y beber, y por esto yo no me desmando como otros.
   
-Mas el lacerado mentía falsamente, porque en cofradías y mortuorios que rezamos, a costa ajena comía como lobo y bebía más que un saludador.Y porque dije de mortuorios, Dios me perdone, que jamás fui enemigo de la naturaleza humana sino entonces. Y esto era porque comíamos bien y me hartaban. Deseaba y aun rogaba a Dios que cada día matase el suyo. Y cuando dábamos sacramento a los enfermos, especialmente la extremaunción, como manda el clérigo rezar a los que están allí, yo cierto no era el postrero de la oración, y con todo mi corazón y buena voluntad rogaba al Señor, no que le echase a la parte que más servido fuese, como se suele decir, mas que le llevase de aqueste mundo.
+Mas el lacerado mentía falsamente, porque en cofradías y mortuorios que rezamos, a costa ajena comía como lobo y bebía más que un saludador.Y porque dije de mortuorios, Dios me perdone, que jamás fui enemigo de la naturaleza humana sino entonces. Y esto era porque comíamos bien y me hartaban. Deseaba y aun rogaba a Dios que cada día matase el suyo. Y cuando dábamos sacramento a los enfermos, especialmente la extremaunción, como manda el <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="">clérigo</button> rezar a los que están allí, yo cierto no era el postrero de la oración, y con todo mi corazón y buena voluntad rogaba al Señor, no que le echase a la parte que más servido fuese, como se suele decir, mas que le llevase de aqueste mundo.
  
 Y cuando alguno de éstos escapaba, Dios me lo perdone, que mil veces le daba al diablo; y el que se moría, otras tantas bendiciones llevaba de mí dichas. Porque en todo el tiempo que allí estuve, que serían casi seis meses, solo veinte personas fallecieron, y éstas bien creo que las maté yo, o, por mejor decir, murieron a mi recuesta; porque, viendo el Señor mi rabiosa y continua muerte, pienso que holgaba de matarlos por darme a mí vida. Mas de lo que al presente padecía, remedio no hallaba; que, si el día que enterrábamos yo vivía, los días que no había muerto, por quedar bien vezado de la hartura, tornando a mi cotidiana hambre, más lo sentía. De manera que en nada hallaba descanso, salvo en la muerte, que yo también para mí, como para los otros deseaba algunas veces; mas no la veía, aunque estaba siempre en mí.
  
-Pensé muchas veces irme de aquel mezquino amo; mas por dos cosas lo dejaba: la primera, por no me atrever a mis piernas, por temer de la flaqueza que de pura hambre me venía; y la otra, consideraba y decía: «Yo he tenido dos amos: el primero traíame muerto de hambre y, dejándole, topé con este otro, que me tiene ya con ella en la sepultura; pues si de éste desisto y doy en otro más bajo, ¿qué será, sino fenecer?». Con esto no me osaba menear, porque tenía por fe que todos los grados había de hallar más ruines. Y a abajar otro punto, no sonara Lázaro ni se oyera en el mundo. Pues estando en tal aflicción, cual plega al señor librar de ella a todo fiel cristiano, y sin saber darme consejo, viéndome ir de mal en peor, un día que el cuitado, ruin y lacerado de mi amo había ido fuera del lugar, llegóse acaso a mi puerta un calderero, el cual yo creo que fue ángel enviado a mí por la mano de Dios en aquel hábito. Preguntóme si tenía algo que adobar.
+Pensé muchas veces irme de aquel mezquino amo; mas por dos cosas lo dejaba: la primera, por no me atrever a mis piernas, por temer de la flaqueza que de pura hambre me venía; y la otra, consideraba y decía: «Yo he tenido dos amos: el primero traíame muerto de hambre y, dejándole, topé con este otro, que me tiene ya con ella en la sepultura; pues si de éste desisto y doy en otro más bajo, ¿qué será, sino fenecer?». Con esto no me osaba menear, porque tenía por fe que todos los grados había de hallar más ruines. Y a abajar otro punto, no sonara <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="">Lázaro</button> ni se oyera en el mundo. Pues estando en tal aflicción, cual plega al señor librar de ella a todo fiel cristiano, y sin saber darme consejo, viéndome ir de mal en peor, un día que el cuitado, ruin y lacerado de mi amo había ido fuera del lugar, llegóse acaso a mi puerta un calderero, el cual yo creo que fue ángel enviado a mí por la mano de Dios en aquel hábito. Preguntóme si tenía algo que adobar.
  
 «En mí teníades bien que hacer, y no haríades poco, si me remediásedes» —dije paso, que no me oyó.
  
@@ -73,7 +73,7 @@ Mas, como la hambre creciese, mayormente que tenía el estómago hecho a más pa
  
 Y comienzo a desmigajar el pan sobre unos no muy costosos manteles que allí estaban, y tomo uno y dejo otro, de manera que en cada cual de tres o cuatro desmigajé su poco. Después, como quien toma gragea, lo comí y algo me consolé. Mas él, como viniese a comer y abriese el arca, vio el mal pesar y sin duda creyó ser ratones los que el daño habían hecho, porque estaba muy al propio contrahecho de como ellos lo suelen hacer. Miró todo el arcaz de un cabo a otro y viole ciertos agujeros por do sospechaba habían entrado. Llamóme, diciendo:
   
-—¡Lázaro, mira! ¡Mira, qué persecución ha venido aquesta noche por nuestro pan!
+—¡<button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="">Lázaro</button>, mira! ¡Mira, qué persecución ha venido aquesta noche por nuestro pan!
   
 Yo híceme muy maravillado, preguntándole qué sería.
   
@@ -103,7 +103,7 @@ Otro día fue por el señor mi amo visto el daño, así del pan como del agujero
   
 Y sin duda debía de decir verdad, porque si casa había de haber en el reino justamente de ellos privilegiada, aquella de razón había de ser, porque no suelen morar donde no hay qué comer. Torna a buscar clavos por la casa y por las paredes, y tablillas a atapárselos. Venida la noche y su reposo, luego yo era puesto en pie con mi aparejo, y cuantos él tapaba de día destapaba yo de noche.
  
-En tal manera fue y tal prisa nos dimos, que sin duda por esto se debió decir: «Donde una puerta se cierra, otra se abre». Finalmente, parecíamos tener a destajo la tela de Penélope, pues cuanto él tejía de día rompía yo de noche, y en pocos días y noches pusimos la pobre despensa de tal forma, que quien quisiera propiamente de ella hablar más corazas viejas de otro tiempo que no arcaz la llamara, según la clavazón y tachuelas sobre sí tenía.
+En tal manera fue y tal prisa nos dimos, que sin duda por esto se debió decir: «Donde una puerta se cierra, otra se abre». Finalmente, parecíamos tener a destajo la tela de <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="">Penélope</button>, pues cuanto él tejía de día rompía yo de noche, y en pocos días y noches pusimos la pobre despensa de tal forma, que quien quisiera propiamente de ella hablar más corazas viejas de otro tiempo que no arcaz la llamara, según la clavazón y tachuelas sobre sí tenía.
  
 De que vio no le aprovechar nada su remedio, dijo:
   
@@ -125,7 +125,7 @@ Yo las más veces hacía del dormido, y en la mañana, decíame él:
   
 De esta manera andaba tan elevado y levantado del sueño, que, mi fe, la culebra, o culebro por mejor decir, no osaba roer de noche ni levantarse al arca; mas de día, mientras estaba en la iglesia o por el lugar, hacía mis saltos. Los cuales daños viendo él, y el poco remedio que les podía poner, andaba de noche (como digo) hecho trasgo.
  
-Yo hube miedo que con aquellas diligencias no me topase con la llave, que debajo de las pajas tenía, y parecióme lo más seguro metella de noche en la boca, porque ya, desde que viví con elciego, la tenía tan hecha bolsa que me acaeció tener en ella doce o quince maravedís, todo en medias blancas, sin que me estorbase el comer. Porque de otra manera no era señor de una blanca que el maldito ciego no cayese con ella, no dejando costura ni remiendo que no me buscaba muy a menudo.
+Yo hube miedo que con aquellas diligencias no me topase con la llave, que debajo de las pajas tenía, y parecióme lo más seguro metella de noche en la boca, porque ya, desde que viví con el<button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="">ciego</button>, la tenía tan hecha bolsa que me acaeció tener en ella doce o quince maravedís, todo en medias blancas, sin que me estorbase el comer. Porque de otra manera no era señor de una blanca que el maldito <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="">ciego</button> no cayese con ella, no dejando costura ni remiendo que no me buscaba muy a menudo.
  
 Pues, así como digo, metía cada noche la llave en la boca y dormía sin recelo que el brujo de mi amo cayese con ella. Mas cuando la desdicha ha de venir, por demás es diligencia. Quisieron mis hados (o por mejor decir), mis pecados, que, una noche que estaba durmiendo, la llave se me puso en la boca, que abierta debía tener, de tal manera y postura que el aire y resoplo, que yo durmiendo echaba, salía por lo hueco de la llave (que de cañuto era) y silbaba (según mi desastre quiso) muy recio, de tal manera que el sobresaltado de mi amo lo oyó y creyó sin duda ser el silbo de la culebra, y cierto lo debía parecer.
  
@@ -141,7 +141,7 @@ A cabo de tres días yo torné en mi sentido y vime echado en mis pajas, la cabe
   
 —¿Qué es esto?
   
-Respondióme el cruel sacerdote:
+Respondióme el cruel <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="">sacerdote</button>:
   
 —A fe que los ratones y culebras que me destruían ya los he cazado.
   
@@ -155,13 +155,13 @@ Ahí tornaron de nuevo a contar mis cuitas y a reírlas, y yo, pecador, a llorar
  
 Luego otro día que fui levantado, el señor mi amo me tomó por la mano y sacóme la puerta fuera y, puesto en la calle, díjome:
   
-—Lázaro, de hoy mas eres tuyo y no mío. Busca amo y vete con Dios, que yo no quiero en mi compañía tan diligente servidor. No es posible sino que hayas sido mozo de ciego.
+—<button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="">Lázaro</button>, de hoy mas eres tuyo y no mío. Busca amo y vete con Dios, que yo no quiero en mi compañía tan diligente servidor. No es posible sino que hayas sido mozo de <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="">ciego.</button>
   
 Y santiguándose de mí, como si yo estuviera endemoniado, se torna a meter en casa y cierra su puerta.
   
 
 <div class="inline-nav" markdown="1">
-[Tratado primero]({% post_url 2016-03-14-tratado1 %}){:.previous}
-[Tratado tercero]({% post_url 2016-03-14-tratado3 %}){:.following}
+[Tratado primero]({% post_url 2016-03-14-tratado1-annotated %}){:.previous}
+[Tratado tercero]({% post_url 2016-03-14-tratado3-annotated %}){:.following}
 
 </div>

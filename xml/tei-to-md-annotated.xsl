@@ -19,7 +19,7 @@
         para nombrar los ficheros.-->
         <xsl:variable name="sect_id" select="@xml:id"/>
         <xsl:result-document method="text" encoding="utf-8"
-            href="../_posts/2016-03-14-{$sect_id}.md" omit-xml-declaration="yes">
+             href="../_posts/2016-03-14-{$sect_id}-annotated.md" omit-xml-declaration="yes">
 
             <!-- SAT: aquí se edita el header con yaml -->
             <xsl:text>---&#x0A;layout: narrative&#x0A;</xsl:text>
@@ -28,7 +28,7 @@
             <xsl:text>&#x0A;</xsl:text>
             <xsl:text>author:</xsl:text>
             <xsl:text>&#x0A;</xsl:text>
-            <xsl:text>mode: reading</xsl:text>
+            <xsl:text>mode: annotated</xsl:text>
             <xsl:text>&#x0A;</xsl:text>
             <xsl:value-of select="tei:teiHeader/fileDesc/titleStmt/author"/>
             <xsl:text>editor: Minimal Edition Class&#x0A;</xsl:text>
@@ -47,7 +47,7 @@
               <xsl:text>]</xsl:text>
               <xsl:text>({% post_url 2016-03-14-</xsl:text>
               <xsl:value-of select="preceding-sibling::tei:div[1]/@xml:id"/>
-              <xsl:text> %}){:.previous}&#x0A;</xsl:text>
+              <xsl:text>-annotated %}){:.previous}&#x0A;</xsl:text>
             </xsl:if>
 
             <xsl:if test="following-sibling::tei:div[1]"> <!-- following chapter -->
@@ -56,7 +56,7 @@
               <xsl:text>]</xsl:text>
               <xsl:text>({% post_url 2016-03-14-</xsl:text>
               <xsl:value-of select="following-sibling::tei:div[1]/@xml:id"/>
-              <xsl:text> %}){:.following}&#x0A;</xsl:text>
+              <xsl:text>-annotated %}){:.following}&#x0A;</xsl:text>
             </xsl:if>
 
             <xsl:text>&#x0A;&lt;/div&gt;</xsl:text> <!-- close the div -->
@@ -66,22 +66,12 @@
 
     <!-- SAT: Tipografía -->
     <xsl:template match="tei:head[@type='titulo']"/>
-       <!-- <xsl:text>&#xa;</xsl:text>
-        <xsl:text>## </xsl:text>
-        <xsl:value-of select="normalize-space(.)"></xsl:value-of>
-        <xsl:text>&#xa; &#xa;</xsl:text>
-    </xsl:template>
-    -->
 
     <xsl:template match="tei:head[@type='subtitulo']">
         <xsl:text>&#xa;</xsl:text>
         <xsl:text>## </xsl:text>
         <xsl:apply-templates></xsl:apply-templates>
         <xsl:text>&#xa;&#xa;</xsl:text>
-
-        <!--<p class="centered large">
-            <xsl:apply-templates/>
-        </p>-->
     </xsl:template>
 
     <xsl:template match="tei:p">
@@ -90,10 +80,13 @@
         <xsl:text>&#x0A;</xsl:text>
     </xsl:template>
 
-    <!--Problema con el espacio del texto  -->
-   <!-- <xsl:template match="text()">
-        <xsl:value-of select="normalize-space()"/>
-    </xsl:template>-->
+    <xsl:template match="tei:persName">
+      <xsl:text>&lt;button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="</xsl:text>
+        <xsl:value-of select="/tei:TEI/tei:text/tei:back/tei:div/tei:listPerson/tei:person[@xml:id=translate(current()/@corresp, '#', '')]/tei:note" />
+      <xsl:text>"&gt;</xsl:text>
+      <xsl:apply-templates />
+      <xsl:text>&lt;/button&gt;</xsl:text>
+    </xsl:template>
 
     <xsl:template match="text()">
         <xsl:value-of select="replace(replace(., '-', '—'), '\s+', ' ')"></xsl:value-of>
