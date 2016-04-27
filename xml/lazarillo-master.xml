@@ -83,8 +83,7 @@
                         presentado, y es hombre que desea mucho el provecho de las ánimas; mas
                         pregunten a <persName corresp="#VuestraMerced">su merced</persName> si le pesa
                         cuando le dicen: <quote>«¡Oh, qué maravillosamente lo ha hecho vuestra
-                            reverencia!»</quote>. Justó muy ruinmente el <persName
-                            corresp="#donFulano">señor don Fulano</persName>, y dio el sayete de
+                            reverencia!»</quote>. Justó muy ruinmente el señor don Fulano, y dio el sayete de
                         armas al truhán, porque le loaba de haber llevado muy buenas lanzas: ¿qué
                         hiciera si fuera verdad? </p>
                     <!-- quién aquí es "su merced?" a quien corresponde este quote? -->
@@ -2316,6 +2315,10 @@
                         <persName>santo Tomás</persName>
                         <note>Tomás de Aquino es uno de los filósofos más relevantes de la Edad Media. Él es también conocido como Doctor Angélico, Doctor Común y Doctor de la Humanidad. Su obra más famosas es la Summa theologiae.</note>
                     </person>
+                    <person xml:id="Antonio">
+                      <persName>Antonio</persName>
+                      <note>El escudero se refiere a un espadero famoso que, como explica R. Menéndez Pidal y F. Rico (p. 51), firmó la espada del mismo rey Fernando el Católico, conservada en la actualidad en la Armería Real de Madrid.</note>
+                    </person>
                 </listPerson>
 
                 <listPerson type="per_Laz">
@@ -2398,12 +2401,9 @@
                 </listPerson>
 
                 <listPerson type="genericos">
-                    <person xml:id="donFulano">
-                        <persName>señor don Fulano</persName>
-                    </person>
                     <person xml:id="Macias">
                         <persName>Macías</persName>
-                        <note>Macias es un trovador gallego y uno de los últimos poetas medievales gallegos, del que poco sabemos. Fue el sucesor y compatriota de Juan Rodríguez de la Cámara, escritor español del Prerrenacimiento.</note>
+                        <note>Macías es un trovador gallego y uno de los últimos poetas medievales gallegos, del que poco sabemos. Fue el sucesor y compatriota de Juan Rodríguez de la Cámara, escritor español del Prerrenacimiento.</note>
                     </person>
                     <person xml:id="PascasioGomez">
                         <persName>licenciado Pascasio Gómez</persName>
