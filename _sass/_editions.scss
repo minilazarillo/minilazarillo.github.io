@@ -85,3 +85,16 @@ $dark-theme-seethru: rgba($dark-theme, 0.8);
   }
 
 }
+
+.fascimile {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: flex-start;
+
+  a {
+    display: inline-block;
+    width: 20%;
+  }
+
+}
