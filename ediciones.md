@@ -6,8 +6,9 @@ order: 5
 
 Acceda aquí a las dos ediciones:
 
-1. [Edición moderna]({{ site.baseurl }}/moderno.html) 
-2. Edición facsimilar
+{% include ediciones.html %}
+
+
 
 Para llevar a cabo nuestro trabajo nos hemos basado en la edición de 1554 publicada en Medina del Campo.
 
