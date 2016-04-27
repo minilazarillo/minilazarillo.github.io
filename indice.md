@@ -10,6 +10,7 @@ order: 9
 ##Lista de personajes históricos
  
 - **Alejandro Magno**:  Un rey famoso de Macedonia conocido por su imperio largo de Asia y África. Lázaro compara la avaricia del ciego con la avaricia de Alejandro Magno.  
+- **Antonio**:  El escudero se refiere a un espadero famoso que, como explica R. Menéndez Pidal y F. Rico (p. 51), firmó la espada del mismo rey Fernando el Católico, conservada en la actualidad en la Armería Real de Madrid.  
 - **Cicerón**:  Marco Tulio Cicerón (104 a. C.—43 a. C.) fue un abogado, escritor, filósofo y político romano. Es conocido por ser el maestro de la retórica y la elocuencia latina. Muchas de sus obras tratan sobre la historia romana con un enfoque político.Cicerón participó activamente en la vida pública, llegando a ser cónsul. Uno de los episodios más famosos fue el descubrimiento de la conspiración de Catilina, en la que se pretendía derrocar al gobierno. Después de la muerte de César, Cicerón desafió a Marco Antonio y como consecuencia, terminó sus días en el exilio.  
 - **Ovidio**:  Ovidio es un poeta romano que vivió durante el reinado de Augusto. A menudo es clasificado como uno de los tres poetas canónicos de la literatura latina junto con Virgilio y Horacio.  
 - **Penélope**:  La esposa de Odiseo que cada noche por muchos años desató su tejido para retrasar su boda con uno de los pretendientes. Como Lázaro, ella también hace engaños en la noche para cuidar a sus propios deseos.  
@@ -38,6 +39,5 @@ order: 9
 - **Zaide**:  Zaide es el padrastro de Lázaro. El texto le describe como “un hombre moreno” que se cuida de “las bestias.” Su relación con Zaide muestra la clase social muy baja de Lázaro y su madre, especialmente después que su padrastro es arrestado por tomando parte de la comida de los animales para su familia. 
   
 - **licenciado Pascasio Gómez**:  No se trata de ningún personaje histórico, sino de una exclamación con uso de un nombre propio para reflejar admiración o maravilla.  
-- **Macías**:  Macias es un trovador gallego y uno de los últimos poetas medievales gallegos, del que poco sabemos. Fue el sucesor y compatriota de Juan Rodríguez de la Cámara, escritor español del Prerrenacimiento.  
-- **señor don Fulano**:  
+- **Macías**:  Macías es un trovador gallego y uno de los últimos poetas medievales gallegos, del que poco sabemos. Fue el sucesor y compatriota de Juan Rodríguez de la Cámara, escritor español del Prerrenacimiento. 
  
