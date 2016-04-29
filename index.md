@@ -1,9 +1,10 @@
 ---
 layout: homepage
 title: Home
+order: 1
 ---
 
-# The MiniLazarillo Project
+# The Mini Lazarillo Project
 
 ## A minimal edition of the 1554 novella, *Lazarillo de Tormes.*
 

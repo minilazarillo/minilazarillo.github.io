@@ -5,7 +5,7 @@ materiales: true
 order: 5
 ---
 
-## Contexto histórico<sup><a href="#fn1" id="ref1">1</a></sup>
+## Contexto histórico[^1]
 
 El *Lazarillo de Tormes* aparece a mediados  del siglo XVI, en una Europa repleta de nuevos movimientos políticos, religiosos y artísticos, y donde la Reforma protestante y el Renacimiento juegan un papel fundamental. Las nuevas corrientes procedentes de Italia, arraigan por todo el continente, se expanden nuevos horizontes comerciales, se desarrollan potentes núcleos urbanos, las artes florecen y van dejándose a un lado viejas ideas: el individualismo, el redescubrimiento del pensamiento greco-romano, el escepticismo racional, nuevos modos de arte y música, y una clara disposición verso la crítica religiosa. Galileo, Maquiavelo, Copérnico, Cervantes, Shakespeare, Hobbes, Bruegel, Miguel Ángel, no son más que pocas de las grandes figuras de esta época.
 
@@ -55,7 +55,7 @@ Se trata de una edición de ocho cuadernos, el primero con veintitrés líneas p
 
 > consideramos que el texto que nos ofrece la edición de Medina del Campo es, en su conjunto, más fiel al de la primera edición del Lazarillo. Ello no invalida la posible existencia de más de una edición anterior a las conocidas, aunque sin diferencias textuales significativas. (Moll, 1055)
 
-Hay semejanzas y diferencias entre la edición de Medina del Campo y las otras tres publicadas en el año 1554, como es por ejemplo, la ausencia del episodio del zapatero en el Tratado 1. Además, los dibujos del protagonista son muy similares a los de la edición de Burgos. Sin embargo, las letras capitulares difieren de las otras. Hay también una errata en la publicación pues los impresores no numeraron correctamente los tratados<sup><a href="#fn2" id="ref2">2</a></sup>. Pese a estas divergencias, Rico considera esta edición como la más antigua:
+Hay semejanzas y diferencias entre la edición de Medina del Campo y las otras tres publicadas en el año 1554, como es por ejemplo, la ausencia del episodio del zapatero en el Tratado 1. Además, los dibujos del protagonista son muy similares a los de la edición de Burgos. Sin embargo, las letras capitulares difieren de las otras. Hay también una errata en la publicación pues los impresores no numeraron correctamente los tratados[^2]. Pese a estas divergencias, Rico considera esta edición como la más antigua:
 
 > La edición de Medina, en ocho pliegos, possee los requisitos básicos para ser contemplada como calco de una princeps dada a la luz por los mismo hermanos Mateo y Francisco del Canto en 1553 o 1552. (...) el tomito medinés constituye sin duda el testimonio materialmente más cercano al primer Lazarillo que salió al mercado (Rico 100)
 
@@ -77,5 +77,6 @@ En el siglo XX, se han publicado continuaciones más modernas de la obra, en las
 A todo ello deben sumarse las varias adaptaciones cinematográficas de la novela. En 1925, se estrenó [la primera adaptación](http://www.imdb.com/title/tt0016012/) muda en blanco y negro dirigida por Florián Rey. La siguiente [adaptación de 1959](http://www.imdb.com/title/tt0052995/) fue dirigida por César Fernández Ardavín y ganó premios en el Festival de Cine Internacional de Berlín, el Círculo de Escritores Cinematográficos, el Sindicato Nacional del Espectáculo y los premios Sant Jordi. La adaptación más reciente, titulada [*Lázaro de Tormes*](http://www.imdb.com/title/tt0244624/) (2001), ha corrido a cargo de Fernando Fernán Gómez y José Luis García Sánchez, siendo nominada a cinco premios Goya y ganando dos de ellos. Como todas las obra que trascienden en el tiempo, el *Lazarillo* sigue siendo adaptado, modernizado, traducido, leído y estudiado debido no sólo a su singular y entrañable historia, sino por la universalidad de los valores que transmite.
 
 
-<sup id="fn1">1</sup> Las referencias bibliográficas se encuentran en la sección ["Bibliografía & Recursos Web"]({{ site.baseurl }}/bibliography.html). [&#x21a9;&#xfe0e;](#ref1) <br/>
-<sup id="fn2">2</sup> El único ejemplar de esta edición se conserva en la Biblioteca de Extremadura y existe una versión comparada de las ediciones de Alcalá, de Burgos, de Amberes y de Medina del Campo en el artículo de Murillo. [&#x21a9;&#xfe0e;](#ref2)
+[^1]: Las referencias bibliográficas se encuentran en la sección ["Bibliografía & Recursos Web"]({{ site.baseurl }}/bibliography.html).
+
+[^2]: El único ejemplar de esta edición se conserva en la Biblioteca de Extremadura y existe una versión comparada de las ediciones de Alcalá, de Burgos, de Amberes y de Medina del Campo en el artículo de Murillo.
