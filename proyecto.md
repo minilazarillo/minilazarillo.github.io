@@ -1,5 +1,5 @@
 ---
-title: Projecto
+title: Proyecto
 layout: page
 order: 2
 Proyecto: true
