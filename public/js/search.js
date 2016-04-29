@@ -24,12 +24,26 @@ index.addDoc({
   content: {{text.content | jsonify | strip_html}},
   id: {{count}}
 });{% assign count = count | plus: 1 %}{% endif %}{% endfor %}
+{% for text in site.pages %}{% if text.materiales == true %}
+index.addDoc({
+  title: {{text.title | jsonify}},
+  author: {{text.author | jsonify}},
+  layout: {{text.layout | jsonify}},
+  content: {{text.content | jsonify | strip_html}},
+  id: {{count}}
+});{% assign count = count | plus: 1 %}{% endif %}{% endfor %}
 console.log( jQuery.type(index) );
 
 // Builds reference data (maybe not necessary for us, to check)
 
 
 var store = [{% for text in site.posts %}{% if text.mode == "annotated" %}{
+  "title": {{text.title | jsonify}},
+  "author": {{text.author | jsonify}},
+  "layout": {{ text.layout | jsonify }},
+  "link": {{text.url | jsonify}},
+}
+,{% endif %}{% endfor %}{% for text in site.pages %}{% if text.materiales == true %}{
   "title": {{text.title | jsonify}},
   "author": {{text.author | jsonify}},
   "layout": {{ text.layout | jsonify }},
