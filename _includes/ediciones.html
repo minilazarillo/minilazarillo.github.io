@@ -18,14 +18,3 @@
   </a>
 
 </div>
-
-<div class="materiales">
-  {% assign pages_list = site.pages | sort:"order" %}
-  {% for item in pages_list %}
-    {% if item.materiales == true %}
-      <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.title }}
-      </a>
-    {% endif %}
-  {% endfor %}
-</div>
