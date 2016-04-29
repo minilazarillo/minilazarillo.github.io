@@ -2477,12 +2477,12 @@
                             es un personaje corrupto interesado solamente en vender las indulgencias
                             para mejorar su hacienda.</note>
                     </person>
-                    <person xml:id="alguacil3">
+                   <!-- <person xml:id="alguacil3">
                         <persName>alguacil</persName>
                     </person>
                     <person xml:id="alguacil2">
                         <persName>alguacil</persName>
-                    </person>
+                    </person>-->
                     <person xml:id="escribano">
                         <persName>Escribano</persName>
                         <note>Un oficial público que copia y da fe de ciertos documentos oficiales.
