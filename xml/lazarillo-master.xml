@@ -2445,10 +2445,10 @@
                         </note>
                     </person>
                     <person xml:id="alguacil1">
-                        <persName>El Alguacil</persName>
-                        <note>El alguacil aparece en varios tratados ejerciendo encargos públicos, y
-                            siempre es retratado como una persona
-                            corrupta.<!--necesitamos una nueva porque tenemos mas alguaciles?--></note>
+                        <persName>Alguacil</persName>
+                        <note>esta figura aparece en varios tratados ejerciendo encargos públicos, y
+                            siempre es retratado como una persona corrupta.
+                            <!--necesitamos una nueva porque tenemos mas alguaciles?--></note>
                     </person>
                     <person xml:id="fraile">
                         <persName>Fraile de la Merced</persName>
@@ -2493,14 +2493,15 @@
                     <person xml:id="alcaldes">
                         <persName>Alcaldes</persName>
                         <note>El oficial público secular que se encarga de una área municipal. En el
-                            <title>Lazarillo</title>, unos ayudan al clérigo a remitir sus bulas e indulgencias y
-                            otros aceptan la bulas e indulgencias para ellos mismos.</note>
+                                <title>Lazarillo</title>, unos ayudan al clérigo a remitir sus bulas
+                            e indulgencias y otros aceptan la bulas e indulgencias para ellos
+                            mismos.</note>
                     </person>
                     <person xml:id="arcipreste">
                         <persName>Arcipreste de San Salvador</persName>
-                        <note>pertenece a la clase eclesiástica y gestiona las
-                            iglesias del área. Después de los servicios prestados al alguacil, el
-                            arcipreste propone a Lázaro un matrimonio con una de sus sirvientas.</note>
+                        <note>pertenece a la clase eclesiástica y gestiona las iglesias del área.
+                            Después de los servicios prestados al alguacil, el arcipreste propone a
+                            Lázaro un matrimonio con una de sus sirvientas.</note>
                     </person>
                 </listPerson>
 
@@ -2514,8 +2515,8 @@
                     </person>
                     <person xml:id="PascasioGomez">
                         <persName>Licenciado Pascasio Gómez</persName>
-                        <note>no es ningún personaje histórico, sino una exclamación con
-                            un nombre propio para reflejar admiración o maravilla.</note>
+                        <note>no es ningún personaje histórico, sino una exclamación con un nombre
+                            propio para reflejar admiración o maravilla.</note>
                     </person>
                 </listPerson>
             </div>
