@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Criterios
+title: Criterios de edición
 materiales: true
 order: 8
 ---
