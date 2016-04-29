@@ -8,7 +8,18 @@ rights: Public Domain
 ---
 
   
-## Cómo <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="Lázaro, o “Lazarillo”, es el protagonista de la obra desde cuya perspectiva el libro está escrito. Nacido en el seno de una familia pobre que no puede alimentarlo, Lazarillo pasa al servicio de  diversos amos que le infligen duras condiciones de vida siendo el hambre su principal preocupación. A lo largo de su niñez y adolescencia y de las aventuras en las que se ve envuelto, Lazarillo aprende a ser asusto y a sobrevivir.">Lázaro</button> se asentó con un <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="">escudero</button> y de lo que le acaeció con él
+## Cómo <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="es el protagonista de la obra desde cuya perspectiva el libro está
+                            escrito. Nacido en el seno de una familia pobre que no puede
+                            alimentarlo, Lázaro pasa al servicio de diversos amos que le infligen
+                            duras condiciones de vida siendo el hambre su principal preocupación. A
+                            lo largo de su niñez y adolescencia y de las aventuras en las que se ve
+                            envuelto, aprende a ser asusto y a sobrevivir.">Lázaro</button> se asentó con un <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="es el tercer amo de Lázaro. Al conocerlo y verlo bien vestido, el
+                            protagonista cree que con éste se acabarán sus penúrias, pero se
+                            equivoca. El escudero está anclado los antiguos principios de la nobleza
+                            y la honra, que le impiden trabajar y por consiguiente satisfacer sus
+                            necesidades mínimas, como pagar un alquiler o alimentarse. Con este
+                            personaje, es Lázaro el que tendrá que proveer comida para ambos.
+                        ">escudero</button> y de lo que le acaeció con él
 
   
 De esta manera me fue forzado sacar fuerzas de flaqueza, y poco a poco, con ayuda de las buenas gentes, di conmigo en esta insigne ciudad de Toledo, adonde, con la merced de Dios, dende a quince días se me cerró la herida. Y, mientras estaba malo, siempre me daban alguna limosna. Mas después que estuve sano, todos me decían:
@@ -17,7 +28,13 @@ De esta manera me fue forzado sacar fuerzas de flaqueza, y poco a poco, con ayud
    
 —¿Y adónde se hallará ése —decía yo entre mí— si Dios agora de nuevo (como crió el mundo) no le criase?
   
-Andando así discurriendo de puerta en puerta, con harto poco remedio, porque ya la caridad se subió al cielo, topóme Dios con un <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="">escudero</button> que iba por la calle, con razonable vestido, bien peinado, su paso y compás en orden. Miróme, y yo a él, y díjome:
+Andando así discurriendo de puerta en puerta, con harto poco remedio, porque ya la caridad se subió al cielo, topóme Dios con un <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="es el tercer amo de Lázaro. Al conocerlo y verlo bien vestido, el
+                            protagonista cree que con éste se acabarán sus penúrias, pero se
+                            equivoca. El escudero está anclado los antiguos principios de la nobleza
+                            y la honra, que le impiden trabajar y por consiguiente satisfacer sus
+                            necesidades mínimas, como pagar un alquiler o alimentarse. Con este
+                            personaje, es Lázaro el que tendrá que proveer comida para ambos.
+                        ">escudero</button> que iba por la calle, con razonable vestido, bien peinado, su paso y compás en orden. Miróme, y yo a él, y díjome:
   
 —Muchacho, ¿buscas amo?
   
@@ -45,7 +62,12 @@ Desque fuimos entrados, quita de sobre sí su capa, y, preguntando si tenía las
    
 —Pues, aunque de mañana, yo había almorzado, y, cuando así como algo, hágote saber que hasta la noche me estoy así. Por eso, pásate como pudieres, que después cenaremos.
   
-<button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="Vuestra Merced se refiere al lector a quien Lázaro se dirige. El término es el equivalente al “usted” moderno  e implica respeto así como la consciencia de dirigirse a un público.">Vuestra Merced</button> crea, cuando esto le oí, que estuve en poco de caer de mi estado, no tanto de hambre como por conocer de todo en todo la fortuna serme adversa. Allí se me representaron de nuevo mis fatigas y torné a llorar mis trabajos; allí se me vino a la memoria la consideración que hacía cuando me pensaba ir del <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="El clérigo es el segundo amo de Lázaro, después del ciego. Es parte de la clase media baja y tampoco le da suficiente comida para sobrevivir, el mayor problema de Lázaro. Aunque no es tan sardónico que el ciego, es tan cruel.">clérigo,</button> diciendo que, aunque aquel era desventurado y mísero, por ventura toparía con otro peor. Finalmente, allí lloré mi trabajosa vida pasada y mi cercana muerte venidera. Y con todo disimulando lo mejor que pude, le dije:
+<button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon=" se refiere al lector a quien Lázaro se dirige. El término es el
+                            equivalente al “usted” moderno e implica respeto así como la consciencia
+                            de dirigirse a un público.">Vuestra Merced</button> crea, cuando esto le oí, que estuve en poco de caer de mi estado, no tanto de hambre como por conocer de todo en todo la fortuna serme adversa. Allí se me representaron de nuevo mis fatigas y torné a llorar mis trabajos; allí se me vino a la memoria la consideración que hacía cuando me pensaba ir del <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="es el segundo amo de Lázaro, después del ciego. Es parte de la clase
+                            media baja y tampoco le da suficiente comida para sobrevivir, el mayor
+                            problema de Lázaro. Aunque no es tan astuto como el ciego, es muy
+                            cruel.">clérigo,</button> diciendo que, aunque aquel era desventurado y mísero, por ventura toparía con otro peor. Finalmente, allí lloré mi trabajosa vida pasada y mi cercana muerte venidera. Y con todo disimulando lo mejor que pude, le dije:
   
 —Señor, mozo soy que no me fatigo mucho por comer, bendito Dios. De eso me podré yo alabar entre todos mis iguales por de mejor garganta, y así fui yo loado de ella hasta hoy día de los amos que yo he tenido.
    
@@ -89,7 +111,12 @@ Púseme de un cabo y él del otro, e hicimos la negra cama, en la cual no había
  
 Hecha la cama, y la noche venida, díjome:
   
-—<button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="Lázaro, o “Lazarillo”, es el protagonista de la obra desde cuya perspectiva el libro está escrito. Nacido en el seno de una familia pobre que no puede alimentarlo, Lazarillo pasa al servicio de  diversos amos que le infligen duras condiciones de vida siendo el hambre su principal preocupación. A lo largo de su niñez y adolescencia y de las aventuras en las que se ve envuelto, Lazarillo aprende a ser asusto y a sobrevivir.">Lázaro</button>, ya es tarde, y de aquí a la plaza hay gran trecho. También en esta ciudad andan muchos ladrones, que, siendo de noche, capean. Pasemos como podamos, y mañana, venido el día, Dios hará merced; porque yo, por estar solo, no estoy proveído, antes he comido estos días por allá fuera. Mas agora hacerlo hemos de otra manera.
+—<button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="es el protagonista de la obra desde cuya perspectiva el libro está
+                            escrito. Nacido en el seno de una familia pobre que no puede
+                            alimentarlo, Lázaro pasa al servicio de diversos amos que le infligen
+                            duras condiciones de vida siendo el hambre su principal preocupación. A
+                            lo largo de su niñez y adolescencia y de las aventuras en las que se ve
+                            envuelto, aprende a ser asusto y a sobrevivir.">Lázaro</button>, ya es tarde, y de aquí a la plaza hay gran trecho. También en esta ciudad andan muchos ladrones, que, siendo de noche, capean. Pasemos como podamos, y mañana, venido el día, Dios hará merced; porque yo, por estar solo, no estoy proveído, antes he comido estos días por allá fuera. Mas agora hacerlo hemos de otra manera.
    
 —Señor, de mí —dije yo— ninguna pena tenga Vuestra Merced, que bien sé pasar una noche y aún más, si es menester.
    
@@ -101,7 +128,10 @@ Y acostóse en la cama, poniendo por cabecera las calzas y el jubón, y mandóme
  
 La mañana venida, levantámonos, y comienza a limpiar y sacudir sus calzas y jubón y sayo y capa. ¡Y yo que le servía de pelillo! Y vísteseme muy a su placer de espacio. Echéle aguamanos, peinóse y púsose su espada en el talabarte, y, al tiempo que la ponía, díjome:
   
-—¡Oh, si supieses, mozo, qué pieza es ésta! No hay marco de oro en el mundo por que yo la diese; mas así, ninguna de cuantas <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="El escudero se refiere a un espadero famoso que, como explica R. Menéndez Pidal y F. Rico (p. 51), firmó la espada del mismo rey Fernando el Católico, conservada en la actualidad en la Armería Real de Madrid.">Antonio</button> hizo no acertó a ponelle los aceros tan prestos como ésta los tiene.
+—¡Oh, si supieses, mozo, qué pieza es ésta! No hay marco de oro en el mundo por que yo la diese; mas así, ninguna de cuantas <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="El escudero se refiere a un espadero famoso que, como explican R.
+                            Menéndez Pidal y F. Rico (p. 51), firmó la espada del mismo rey Fernando
+                            el Católico, conservada en la actualidad en la Armería Real de
+                            Madrid.">Antonio</button> hizo no acertó a ponelle los aceros tan prestos como ésta los tiene.
   
 Y sacóla de la vaina y tentóla con los dedos, diciendo:
   
@@ -111,21 +141,38 @@ Y yo dije entre mí: Y yo con mis dientes, aunque no son de acero, un pan de cua
  
 Tornóla a meter y ciñósela, y un sartal de cuentas gruesas del talabarte. Y con un paso sosegado y el cuerpo derecho, haciendo con él y con la cabeza muy gentiles meneos, echando el cabo de la capa sobre el hombro y a veces so el brazo, y poniendo la mano derecha en el costado, salió por la puerta, diciendo:
   
-—<button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="Lázaro, o “Lazarillo”, es el protagonista de la obra desde cuya perspectiva el libro está escrito. Nacido en el seno de una familia pobre que no puede alimentarlo, Lazarillo pasa al servicio de  diversos amos que le infligen duras condiciones de vida siendo el hambre su principal preocupación. A lo largo de su niñez y adolescencia y de las aventuras en las que se ve envuelto, Lazarillo aprende a ser asusto y a sobrevivir.">Lázaro</button>, mira por la casa en tanto que voy a oír misa, y haz la cama y ve por la vasija de agua al río, que aquí bajo está, y cierra la puerta con llave, no nos hurten algo, y ponla aquí al quicio porque, si yo viniere en tanto, pueda entrar.
+—<button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="es el protagonista de la obra desde cuya perspectiva el libro está
+                            escrito. Nacido en el seno de una familia pobre que no puede
+                            alimentarlo, Lázaro pasa al servicio de diversos amos que le infligen
+                            duras condiciones de vida siendo el hambre su principal preocupación. A
+                            lo largo de su niñez y adolescencia y de las aventuras en las que se ve
+                            envuelto, aprende a ser asusto y a sobrevivir.">Lázaro</button>, mira por la casa en tanto que voy a oír misa, y haz la cama y ve por la vasija de agua al río, que aquí bajo está, y cierra la puerta con llave, no nos hurten algo, y ponla aquí al quicio porque, si yo viniere en tanto, pueda entrar.
   
 Y súbese por la calle arriba con tan gentil semblante y continente, que quien no le conociera pensara ser muy cercano pariente al conde de Arcos, o, alomenos, camarero que le daba de vestir. 
   
-—¡Bendito seáis Vos, Señor —quedé yo diciendo— que dais la enfermedad y ponéis el remedio! ¿Quién encontrará a aquel mi señor que no piense, según el contento de sí lleva, haber anoche bien cenado y dormido en buena cama, y, aunque agora es de mañana, no le cuenten por muy bien almorzado? ¡Grandes secretos son, Señor, los que vos hacéis y las gentes ignoran! ¿A quién no engañará aquella buena disposición y razonable capa y sayo? ¿Y quién pensará que aquel gentil hombre se pasó ayer todo el día con aquel mendrugo de pan que su criado <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="Lázaro, o “Lazarillo”, es el protagonista de la obra desde cuya perspectiva el libro está escrito. Nacido en el seno de una familia pobre que no puede alimentarlo, Lazarillo pasa al servicio de  diversos amos que le infligen duras condiciones de vida siendo el hambre su principal preocupación. A lo largo de su niñez y adolescencia y de las aventuras en las que se ve envuelto, Lazarillo aprende a ser asusto y a sobrevivir.">Lázaro</button> trajo un día y una noche en el arca de su seno, do no se le podía pegar mucha limpieza, y hoy, lavándose las manos y cara, a falta de paño de manos, se hacía servir de la halda del sayo? Nadie por cierto lo sospechará. ¡Oh Señor, y cuántos de aquéstos debéis Vos tener por el mundo derramados, que padecen por la negra que llaman honra, lo que por Vos no sufrirán!
+—¡Bendito seáis Vos, Señor —quedé yo diciendo— que dais la enfermedad y ponéis el remedio! ¿Quién encontrará a aquel mi señor que no piense, según el contento de sí lleva, haber anoche bien cenado y dormido en buena cama, y, aunque agora es de mañana, no le cuenten por muy bien almorzado? ¡Grandes secretos son, Señor, los que vos hacéis y las gentes ignoran! ¿A quién no engañará aquella buena disposición y razonable capa y sayo? ¿Y quién pensará que aquel gentil hombre se pasó ayer todo el día con aquel mendrugo de pan que su criado <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="es el protagonista de la obra desde cuya perspectiva el libro está
+                            escrito. Nacido en el seno de una familia pobre que no puede
+                            alimentarlo, Lázaro pasa al servicio de diversos amos que le infligen
+                            duras condiciones de vida siendo el hambre su principal preocupación. A
+                            lo largo de su niñez y adolescencia y de las aventuras en las que se ve
+                            envuelto, aprende a ser asusto y a sobrevivir.">Lázaro</button> trajo un día y una noche en el arca de su seno, do no se le podía pegar mucha limpieza, y hoy, lavándose las manos y cara, a falta de paño de manos, se hacía servir de la halda del sayo? Nadie por cierto lo sospechará. ¡Oh Señor, y cuántos de aquéstos debéis Vos tener por el mundo derramados, que padecen por la negra que llaman honra, lo que por Vos no sufrirán!
   
 Así estaba yo a la puerta, mirando y considerando estas cosas hasta que el señor mi amo traspuso la larga y angosta calle. Tornéme a entrar en casa y en un credo la anduve toda, alto y bajo, sin hacer represa, ni hallar en qué. Hago la negra dura cama y tomo el jarro y doy conmigo en el río, donde en una huerta vi a mi amo en gran recuesta con dos rebozadas mujeres, al parecer de las que en aquel lugar no hacen falta, antes muchas tienen por estilo de irse a las mañanicas del verano a refrescar y almorzar sin llevar qué, por aquellas frescas riberas, con confianza que no ha de faltar quién se lo dé, según las tienen puestas en esta costumbre aquellos hidalgos del lugar.
  
-Y como digo, él estaba entre ellas hecho un <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="Macías es un trovador gallego y uno de los últimos poetas medievales gallegos, del que poco sabemos. Fue el sucesor y compatriota de Juan Rodríguez de la Cámara, escritor español del Prerrenacimiento.">Macías</button>, diciéndoles más dulzuras que <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="Ovidio es un poeta romano que vivió durante el reinado de Augusto. A menudo es clasificado como uno de los tres poetas canónicos de la literatura latina junto con Virgilio y Horacio.">Ovidio</button> escribió. Pero, como sintieron de él que estaba bien enternecido, no se les hizo de vergüenza pedirle de almorzar con el acostumbrado pago.
+Y como digo, él estaba entre ellas hecho un <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="es un trovador gallego y uno de los últimos poetas medievales
+                            gallegos, del que poco sabemos. Fue el sucesor y compatriota de Juan
+                            Rodríguez de la Cámara, escritor español del Prerrenacimiento.">Macías</button>, diciéndoles más dulzuras que <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="Ovidio es un poeta romano que vivió durante el reinado de Augusto. A
+                            menudo es clasificado como uno de los tres poetas canónicos de la
+                            literatura latina junto con Virgilio y Horacio.">Ovidio</button> escribió. Pero, como sintieron de él que estaba bien enternecido, no se les hizo de vergüenza pedirle de almorzar con el acostumbrado pago.
  
 Él, sintiéndose tan frío de bolsa cuanto caliente del estómago, tomóle tal calofrío que le robó la color del gesto, y comenzó a turbarse en la plática y a poner excusas no válidas. Ellas, que debían ser bien instituidas, como le sintieron la enfermedad, dejáronle para el que era.
  
 Yo, que estaba comiendo ciertos tronchos de berzas, con los cuales me desayuné, con mucha diligencia, como mozo nuevo, sin ser visto de mi amo, torné a casa. De la cual pensé barrer alguna parte, que bien era menester; mas no hallé con qué. Púseme a pensar qué haría, y parecióme esperar a mi amo hasta que el día demediase, y si viniese y por ventura trajese algo que comiésemos; mas en vano fue mi experiencia.
  
-Desque vi ser las dos y no venía y la hambre me aquejaba, cierro mi puerta y pongo la llave do mandó, y tórnome a mi menester. Con baja y enferma voz y inclinadas mis manos en los senos, puesto Dios ante mis ojos y la lengua en su nombre, comienzo a pedir pan por las puertas y casas más grandes que me parecía. Mas como yo este oficio le hubiese mamado en la leche (quiero decir que con el gran maestro, <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon=" El ciego es el primer amo de Lázaro. De este personaje, Lázaro aprende la mayoría de sus engaños. Al fin, Lázaro decide huir cansado de las penurias y el hambre que el ciego le hace sufrir. El ciego, en este tratado, es referido como “el cruel ciego,” “el maldito ciego” y “el mal ciego.”">el ciego</button>, lo aprendí), tan suficiente discípulo salí, que, aunque en este pueblo no había caridad, ni el año fuese muy abundante, tan buena maña me di, que, antes que el reloj diese las cuatro, ya yo tenía otras tantas libras de pan ensiladas en el cuerpo, y más de otras dos en las mangas y senos. Volvíme a la posada y, al pasar por la tripería, pedí a una de aquellas mujeres, y diome un pedazo de uña de vaca con otras pocas de tripas cocidas.
+Desque vi ser las dos y no venía y la hambre me aquejaba, cierro mi puerta y pongo la llave do mandó, y tórnome a mi menester. Con baja y enferma voz y inclinadas mis manos en los senos, puesto Dios ante mis ojos y la lengua en su nombre, comienzo a pedir pan por las puertas y casas más grandes que me parecía. Mas como yo este oficio le hubiese mamado en la leche (quiero decir que con el gran maestro, <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="es el primer amo de Lázaro. De este personaje aprende la mayoría de
+                            sus engaños. Al fin, Lázaro decide huir cansado de las penurias y el
+                            hambre que el ciego le hace sufrir. En este primer tratado es calificado
+                            como “el cruel ciego,” “el maldito ciego” y “el mal ciego.”">el ciego</button>, lo aprendí), tan suficiente discípulo salí, que, aunque en este pueblo no había caridad, ni el año fuese muy abundante, tan buena maña me di, que, antes que el reloj diese las cuatro, ya yo tenía otras tantas libras de pan ensiladas en el cuerpo, y más de otras dos en las mangas y senos. Volvíme a la posada y, al pasar por la tripería, pedí a una de aquellas mujeres, y diome un pedazo de uña de vaca con otras pocas de tripas cocidas.
  
 Cuando llegué a casa, ya el bueno de mi amo estaba en ella, doblada su capa y puesta en el poyo, y él paseándose por el patio. Como entré, vínose para mí. Pensé que me quería reñir por la tardanza; mas mejor lo hizo Dios. Preguntóme dó venía. Yo le dije:
   
@@ -145,7 +192,12 @@ Sentéme al cabo del poyo y, porque no me tuviese por glotón, callé la meriend
  
 Quiso Dios cumplir mi deseo, y aun pienso que el suyo; porque como comencé a comer y él se andaba paseando, llegóse a mí y díjome:
   
-—Dígote, <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="Lázaro, o “Lazarillo”, es el protagonista de la obra desde cuya perspectiva el libro está escrito. Nacido en el seno de una familia pobre que no puede alimentarlo, Lazarillo pasa al servicio de  diversos amos que le infligen duras condiciones de vida siendo el hambre su principal preocupación. A lo largo de su niñez y adolescencia y de las aventuras en las que se ve envuelto, Lazarillo aprende a ser asusto y a sobrevivir.">Lázaro</button>, que tienes en comer la mejor gracia que en mi vida vi a hombre, y que nadie te lo ve hacer que no le pongas gana, aunque no la tenga.
+—Dígote, <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="es el protagonista de la obra desde cuya perspectiva el libro está
+                            escrito. Nacido en el seno de una familia pobre que no puede
+                            alimentarlo, Lázaro pasa al servicio de diversos amos que le infligen
+                            duras condiciones de vida siendo el hambre su principal preocupación. A
+                            lo largo de su niñez y adolescencia y de las aventuras en las que se ve
+                            envuelto, aprende a ser asusto y a sobrevivir.">Lázaro</button>, que tienes en comer la mejor gracia que en mi vida vi a hombre, y que nadie te lo ve hacer que no le pongas gana, aunque no la tenga.
   
 —La muy buena que tú tienes —dije yo entre mí— te hace parecer la mía hermosa.
  
@@ -173,7 +225,12 @@ Póngole en las uñas la otra, y tres o cuatro raciones de pan de lo más blanco
  
 Pidióme el jarro del agua y díselo como lo había traído. Es señal que, pues no le faltaba el agua, que no le había a mi amo sobrado la comida. Bebimos, y muy contentos nos fuimos a dormir, como la noche pasada.
  
-Y por evitar prolijidad, de esta manera estuvimos ocho o diez días, yéndose el pecador en la mañana con aquel contento y paso contado a papar aire por las calles, teniendo en el pobre <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="Lázaro, o “Lazarillo”, es el protagonista de la obra desde cuya perspectiva el libro está escrito. Nacido en el seno de una familia pobre que no puede alimentarlo, Lazarillo pasa al servicio de  diversos amos que le infligen duras condiciones de vida siendo el hambre su principal preocupación. A lo largo de su niñez y adolescencia y de las aventuras en las que se ve envuelto, Lazarillo aprende a ser asusto y a sobrevivir.">Lázaro</button> una cabeza de lobo.
+Y por evitar prolijidad, de esta manera estuvimos ocho o diez días, yéndose el pecador en la mañana con aquel contento y paso contado a papar aire por las calles, teniendo en el pobre <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="es el protagonista de la obra desde cuya perspectiva el libro está
+                            escrito. Nacido en el seno de una familia pobre que no puede
+                            alimentarlo, Lázaro pasa al servicio de diversos amos que le infligen
+                            duras condiciones de vida siendo el hambre su principal preocupación. A
+                            lo largo de su niñez y adolescencia y de las aventuras en las que se ve
+                            envuelto, aprende a ser asusto y a sobrevivir.">Lázaro</button> una cabeza de lobo.
  
 Contemplaba yo muchas veces mi desastre, que, escapando de los amos ruines que había tenido y buscando mejoría, viniese a topar con quien no sólo no me mantuviese, mas a quien yo había de mantener. Con todo, le quería bien, con ver que no tenía ni podía más, y antes le había lástima que enemistad. Y muchas veces, por llevar a la posada con que él lo pasase, yo lo pasaba mal. Porque una mañana, levantándose el triste en camisa, subió a lo alto de la casa a hacer sus menesteres y, en tanto yo, por salir de sospecha, desenvolvíle el jubón y las calzas, que a la cabecera dejó, y hallé una bolsilla de terciopelo raso, hecha cien dobleces y sin maldita la blanca ni señal que la hubiese tenido mucho tiempo.
   
@@ -191,7 +248,12 @@ Y no tenía tanta lástima de mí como del lastimado de mi amo, que en ocho día
   
 Pues estando en esta afligida y hambrienta persecución, un día, no sé por cuál dicha o ventura, en el pobre poder de mi amo entró un real, con el cual él vino a casa tan ufano como si tuviera el tesoro de Venecia, y con gesto muy alegre y risueño me lo dio, diciendo: 
   
-—Toma, <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="Lázaro, o “Lazarillo”, es el protagonista de la obra desde cuya perspectiva el libro está escrito. Nacido en el seno de una familia pobre que no puede alimentarlo, Lazarillo pasa al servicio de  diversos amos que le infligen duras condiciones de vida siendo el hambre su principal preocupación. A lo largo de su niñez y adolescencia y de las aventuras en las que se ve envuelto, Lazarillo aprende a ser asusto y a sobrevivir.">Lázaro</button>, que Dios ya va abriendo su mano. Ve a la plaza y merca pan y vino y carne: ¡quebremos el ojo al diablo! Y más te hago saber, porque te huelgues: que he alquilado otra casa y en ésta desastrada no hemos de estar más de en cumpliendo el mes. ¡Maldita sea ella y el que en ella puso la primera teja, que con mal en ella entré! Por nuestro Señor, cuanto ha que en ella vivo, gota de vino ni bocado de carne no he comido, ni he habido descanso ninguno; mas ¡tal vista tiene y tal oscuridad y tristeza! Ve y ven presto y comamos hoy como condes.
+—Toma, <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="es el protagonista de la obra desde cuya perspectiva el libro está
+                            escrito. Nacido en el seno de una familia pobre que no puede
+                            alimentarlo, Lázaro pasa al servicio de diversos amos que le infligen
+                            duras condiciones de vida siendo el hambre su principal preocupación. A
+                            lo largo de su niñez y adolescencia y de las aventuras en las que se ve
+                            envuelto, aprende a ser asusto y a sobrevivir.">Lázaro</button>, que Dios ya va abriendo su mano. Ve a la plaza y merca pan y vino y carne: ¡quebremos el ojo al diablo! Y más te hago saber, porque te huelgues: que he alquilado otra casa y en ésta desastrada no hemos de estar más de en cumpliendo el mes. ¡Maldita sea ella y el que en ella puso la primera teja, que con mal en ella entré! Por nuestro Señor, cuanto ha que en ella vivo, gota de vino ni bocado de carne no he comido, ni he habido descanso ninguno; mas ¡tal vista tiene y tal oscuridad y tristeza! Ve y ven presto y comamos hoy como condes.
   
 Tomo mi real y jarro y, a los pies dándoles prisa, comienzo a subir mi calle encaminando mis pasos para la plaza, muy contento y alegre. Mas, ¿qué me aprovecha, si está constituido en mi triste fortuna que ningún gozo me venga sin zozobra? Y así fue éste, porque, yendo la calle arriba, echando mi cuenta en lo que le emplearía que fuese mejor y más provechosamente gastado, dando infinitas gracias a Dios que a mi amo había hecho con dinero, a deshora me vino al encuentro un muerto, que por la calle abajo muchos clérigos y gente que en unas andas traían. Arriméme a la pared por darles lugar, y, desque el cuerpo pasó, venía luego a par del lecho una que debía ser su mujer del difunto, cargada de luto, y con ella otras muchas mujeres; la cual iba llorando a grandes voces y diciendo:
   
@@ -215,13 +277,24 @@ Aquí arriba lo encontré y venía diciendo su mujer:
   
 Y ciertamente, cuando mi amo esto oyó, aunque no tenía por qué estar muy risueño, rió tanto que muy gran rato estuvo sin poder hablar. En este tiempo tenía ya yo echada el aldaba a la puerta y puesto el hombro en ella por más defensa. Pasó la gente con su muerto, y yo todavía me recelaba que nos le habían de meter en casa. Y, desque fue ya más harto de reír que de comer, el bueno de mi amo, díjome:
   
-—Verdad es, <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="Lázaro, o “Lazarillo”, es el protagonista de la obra desde cuya perspectiva el libro está escrito. Nacido en el seno de una familia pobre que no puede alimentarlo, Lazarillo pasa al servicio de  diversos amos que le infligen duras condiciones de vida siendo el hambre su principal preocupación. A lo largo de su niñez y adolescencia y de las aventuras en las que se ve envuelto, Lazarillo aprende a ser asusto y a sobrevivir.">Lázaro</button>, según la viuda lo va diciendo, tú tuviste razón de pensar lo que pensaste; mas, pues Dios lo ha hecho mejor y pasan adelante, abre, abre y ve por de comer.
+—Verdad es, <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="es el protagonista de la obra desde cuya perspectiva el libro está
+                            escrito. Nacido en el seno de una familia pobre que no puede
+                            alimentarlo, Lázaro pasa al servicio de diversos amos que le infligen
+                            duras condiciones de vida siendo el hambre su principal preocupación. A
+                            lo largo de su niñez y adolescencia y de las aventuras en las que se ve
+                            envuelto, aprende a ser asusto y a sobrevivir.">Lázaro</button>, según la viuda lo va diciendo, tú tuviste razón de pensar lo que pensaste; mas, pues Dios lo ha hecho mejor y pasan adelante, abre, abre y ve por de comer.
    
 Dejálos, señor, acaben de pasar la calle —dije yo.
   
 Al fin vino mi amo a la puerta de la calle, y ábrela esforzándome, que bien era menester, según el miedo y alteración, y me torno a encaminar. Mas, aunque comimos bien aquel día, maldito el gusto yo tomaba en ello. Ni en aquellos tres días torné en mi color. Y mi amo, muy risueño todas las veces que se le acordaba aquella mi consideración.
  
-De esta manera estuve con mi tercero y pobre amo, que fue este <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="">escudero</button>, algunos días, y en todos deseando saber la intención de su venida y estada en esta tierra; porque, desde el primer día que con él asenté, le conocí ser extranjero, por el poco conocimiento y trato que con los naturales de ella tenía.
+De esta manera estuve con mi tercero y pobre amo, que fue este <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="es el tercer amo de Lázaro. Al conocerlo y verlo bien vestido, el
+                            protagonista cree que con éste se acabarán sus penúrias, pero se
+                            equivoca. El escudero está anclado los antiguos principios de la nobleza
+                            y la honra, que le impiden trabajar y por consiguiente satisfacer sus
+                            necesidades mínimas, como pagar un alquiler o alimentarse. Con este
+                            personaje, es Lázaro el que tendrá que proveer comida para ambos.
+                        ">escudero</button>, algunos días, y en todos deseando saber la intención de su venida y estada en esta tierra; porque, desde el primer día que con él asenté, le conocí ser extranjero, por el poco conocimiento y trato que con los naturales de ella tenía.
  
 Al fin se cumplió mi deseo y supe lo que deseaba; porque, un día que habíamos comido razonablemente y estaba algo contento, contóme su hacienda y díjome ser de Castilla la Vieja, y que había dejado su tierra no más de por no quitar el bonete a un caballero, su vecino.
   
@@ -231,13 +304,25 @@ Sí es y sí tiene, y también me lo quitaba él a mí; mas, de cuantas veces yo
   
 —Paréceme, señor —le dije yo—, que en eso no mirara, mayormente con mis mayores que yo y que tienen más.
    
-—Eres muchacho —me respondió— y no sientes las cosas de honra, en que el día de hoy está todo el caudal de los hombres de bien. Pues te hago saber que yo soy, como ves, un escudero; mas ¡vótote a Dios!, si al <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="">Conde</button> topo en la calle y no me quita muy bien quitado del todo el bonete, que otra vez que venga, me sepa yo entrar en una casa, fingiendo yo en ella algún negocio, o atravesar otra calle, si la hay, antes que llegue a mí, por no quitárselo. Que un hidalgo no debe a otro que a Dios y al rey nada, ni es justo, siendo hombre de bien, se descuide un punto de tener en mucho su persona. Acuérdome que un día deshonré en mi tierra a un oficial y quise poner en él las manos, porque cada vez que le topaba, me decía:  Mantenga Dios a <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="">Vuestra Merced</button>.
+—Eres muchacho —me respondió— y no sientes las cosas de honra, en que el día de hoy está todo el caudal de los hombres de bien. Pues te hago saber que yo soy, como ves, un escudero; mas ¡vótote a Dios!, si al <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="">Conde</button> topo en la calle y no me quita muy bien quitado del todo el bonete, que otra vez que venga, me sepa yo entrar en una casa, fingiendo yo en ella algún negocio, o atravesar otra calle, si la hay, antes que llegue a mí, por no quitárselo. Que un hidalgo no debe a otro que a Dios y al rey nada, ni es justo, siendo hombre de bien, se descuide un punto de tener en mucho su persona. Acuérdome que un día deshonré en mi tierra a un oficial y quise poner en él las manos, porque cada vez que le topaba, me decía:  Mantenga Dios a <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="es el tercer amo de Lázaro. Al conocerlo y verlo bien vestido, el
+                            protagonista cree que con éste se acabarán sus penúrias, pero se
+                            equivoca. El escudero está anclado los antiguos principios de la nobleza
+                            y la honra, que le impiden trabajar y por consiguiente satisfacer sus
+                            necesidades mínimas, como pagar un alquiler o alimentarse. Con este
+                            personaje, es Lázaro el que tendrá que proveer comida para ambos.
+                        ">Vuestra Merced</button>.
    
 Vos, don villano ruin —le dije yo—, ¿por qué no sois bien criado? ¿Manténgaos Dios, me habéis de decir, como si fuese quienquiera? De allí adelante, de aquí acullá, me quitaba el bonete y hablaba como debía.
    
 —¿Y no es buena manera de saludar un hombre a otro —dije yo— decirle que le mantenga Dios?
    
-—¡Mira, mucho de enhoramala! —dijo él—. A los hombres de poca arte dicen eso; mas a los más altos, como yo, no les han de hablar menos de: Beso las manos de <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="Vuestra Merced se refiere al lector a quien Lázaro se dirige. El término es el equivalente al “usted” moderno  e implica respeto así como la consciencia de dirigirse a un público.">Vuestra Merced</button>, o por lo menos: Bésoos, señor, las manos, si el que me habla es caballero. Y así, de aquél de mi tierra que me atestaba de mantenimiento, nunca más le quise sufrir, ni sufriría ni sufriré a hombre del mundo, del rey abajo, que: Manténgaos Dios, me diga.
+—¡Mira, mucho de enhoramala! —dijo él—. A los hombres de poca arte dicen eso; mas a los más altos, como yo, no les han de hablar menos de: Beso las manos de <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="es el tercer amo de Lázaro. Al conocerlo y verlo bien vestido, el
+                            protagonista cree que con éste se acabarán sus penúrias, pero se
+                            equivoca. El escudero está anclado los antiguos principios de la nobleza
+                            y la honra, que le impiden trabajar y por consiguiente satisfacer sus
+                            necesidades mínimas, como pagar un alquiler o alimentarse. Con este
+                            personaje, es Lázaro el que tendrá que proveer comida para ambos.
+                        ">Vuestra Merced</button>, o por lo menos: Bésoos, señor, las manos, si el que me habla es caballero. Y así, de aquél de mi tierra que me atestaba de mantenimiento, nunca más le quise sufrir, ni sufriría ni sufriré a hombre del mundo, del rey abajo, que: Manténgaos Dios, me diga.
    
 Pecador de mí —dije yo—, por eso tiene tan poco cuidado de mantenerte, pues no sufres que nadie se lo ruegue.
    
@@ -255,15 +340,24 @@ Venida la mañana, los acreedores vuelven y preguntan por el vecino; mas a esta 
   
 Ellos me preguntaron por él, y díjele que no sabía adónde estaba, y que tampoco había vuelto a casa desque salió a trocar la pieza, y que pensaba que de mí y de ellos se había ido con el trueco.
  
-De que esto me oyeron, van por un <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="El alguacil aparece en varios tratados ejerciendo encargos públicos, y siempre es retratado como una persona corrupta.">alguacil</button> y un <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="Un oficial público que copia y da fe de ciertos documentos oficiales. Aquí en el Lazarillo, sirve para copiar y certificar bulas e indulgencias que demanda el clérigo.">escribano</button>. Y helos do vuelven luego con ellos, y toman la llave, y llámanme, y llaman testigos, y abren la puerta y entran a embargar la hacienda de mi amo hasta ser pagados de su deuda. Anduvieron toda la casa y halláronla desembarazada, como he contado, y dícenme:
+De que esto me oyeron, van por un <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="El alguacil aparece en varios tratados ejerciendo encargos públicos, y
+                            siempre es retratado como una persona
+                            corrupta.">alguacil</button> y un <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="Un oficial público que copia y da fe de ciertos documentos oficiales.
+                            Aquí en el Lazarillo, sirve para copiar y certificar
+                            bulas e indulgencias que demanda el
+                            clérigo.">escribano</button>. Y helos do vuelven luego con ellos, y toman la llave, y llámanme, y llaman testigos, y abren la puerta y entran a embargar la hacienda de mi amo hasta ser pagados de su deuda. Anduvieron toda la casa y halláronla desembarazada, como he contado, y dícenme:
   
 ¿Qué es de la hacienda de tu amo, sus arcas y paños de pared y alhajas de casa?
    
 —No sé yo eso —le respondí.
    
-—Sin duda —dicen ellos— esta noche lo deben de haber alzado y llevado a alguna parte. Señor <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="El alguacil aparece en varios tratados ejerciendo encargos públicos, y siempre es retratado como una persona corrupta.">alguacil</button>, prended a este mozo, que él sabe dónde está.
+—Sin duda —dicen ellos— esta noche lo deben de haber alzado y llevado a alguna parte. Señor <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="El alguacil aparece en varios tratados ejerciendo encargos públicos, y
+                            siempre es retratado como una persona
+                            corrupta.">alguacil</button>, prended a este mozo, que él sabe dónde está.
   
-En esto vino el <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="El alguacil aparece en varios tratados ejerciendo encargos públicos, y siempre es retratado como una persona corrupta.">alguacil</button> y echóme mano por el collar del jubón, diciendo:
+En esto vino el <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="El alguacil aparece en varios tratados ejerciendo encargos públicos, y
+                            siempre es retratado como una persona
+                            corrupta.">alguacil</button> y echóme mano por el collar del jubón, diciendo:
   
 —Muchacho, tú eres preso, si no descubres los bienes de este tu amo.
   
@@ -271,7 +365,10 @@ Yo, como en otra tal no me hubiese visto (porque asido del collar sí había sid
   
 —Bien está —dicen ellos—. Pues di todo lo que sabes y no hayas temor.
   
-Sentóse el <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="Un oficial público que copia y da fe de ciertos documentos oficiales. Aquí en el Lazarillo, sirve para copiar y certificar bulas e indulgencias que demanda el clérigo.">escribano</button> en un poyo para escribir el inventario, preguntándome qué tenía.
+Sentóse el <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="Un oficial público que copia y da fe de ciertos documentos oficiales.
+                            Aquí en el Lazarillo, sirve para copiar y certificar
+                            bulas e indulgencias que demanda el
+                            clérigo.">escribano</button> en un poyo para escribir el inventario, preguntándome qué tenía.
   
 —Señores —dije yo—, lo que este mi amo tiene, según él me dijo, es un muy buen solar de casas y un palomar derribado.
    
@@ -283,15 +380,28 @@ Por Dios, que está bueno el negocio —dijeron ellos—. ¿Y adónde es su tier
    
 —De Castilla la Vieja me dijo él que era —le dije.
  
-Riéronse mucho el <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="El alguacil aparece en varios tratados ejerciendo encargos públicos, y siempre es retratado como una persona corrupta.">alguacil</button> y el escribano, diciendo:
+Riéronse mucho el <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="El alguacil aparece en varios tratados ejerciendo encargos públicos, y
+                            siempre es retratado como una persona
+                            corrupta.">alguacil</button> y el escribano, diciendo:
    
 —Bastante relación es ésta para cobrar vuestra deuda, aunque mejor fuese.
   
 Las vecinas, que estaban presentes, dijeron:
   
-—Señores, éste es un niño inocente y ha pocos días que está con ese <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon=""> escudero</button> y no sabe de él más que vuestras mercedes; sino cuanto el pecadorcico se llega aquí a nuestra casa, y le damos de comer lo que podemos por amor de Dios, y a las noches se iba a dormir con él.
+—Señores, éste es un niño inocente y ha pocos días que está con ese <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="es el tercer amo de Lázaro. Al conocerlo y verlo bien vestido, el
+                            protagonista cree que con éste se acabarán sus penúrias, pero se
+                            equivoca. El escudero está anclado los antiguos principios de la nobleza
+                            y la honra, que le impiden trabajar y por consiguiente satisfacer sus
+                            necesidades mínimas, como pagar un alquiler o alimentarse. Con este
+                            personaje, es Lázaro el que tendrá que proveer comida para ambos.
+                        "> escudero</button> y no sabe de él más que vuestras mercedes; sino cuanto el pecadorcico se llega aquí a nuestra casa, y le damos de comer lo que podemos por amor de Dios, y a las noches se iba a dormir con él.
   
-Vista mi inocencia, dejáronme, dándome por libre. Y el <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="El alguacil aparece en varios tratados ejerciendo encargos públicos, y siempre es retratado como una persona corrupta.">alguacil</button> y el <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="Un oficial público que copia y da fe de ciertos documentos oficiales. Aquí en el Lazarillo, sirve para copiar y certificar bulas e indulgencias que demanda el clérigo.">escribano</button> piden al hombre y a la mujer sus derechos. Sobre lo cual tuvieron gran contienda y ruido, porque ellos alegaron no ser obligados a pagar, pues no había de qué ni se hacía el embargo. Los otros decían que habían dejado de ir a otro negocio, que les importaba más, por venir a aquél.
+Vista mi inocencia, dejáronme, dándome por libre. Y el <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="El alguacil aparece en varios tratados ejerciendo encargos públicos, y
+                            siempre es retratado como una persona
+                            corrupta.">alguacil</button> y el <button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon="Un oficial público que copia y da fe de ciertos documentos oficiales.
+                            Aquí en el Lazarillo, sirve para copiar y certificar
+                            bulas e indulgencias que demanda el
+                            clérigo.">escribano</button> piden al hombre y a la mujer sus derechos. Sobre lo cual tuvieron gran contienda y ruido, porque ellos alegaron no ser obligados a pagar, pues no había de qué ni se hacía el embargo. Los otros decían que habían dejado de ir a otro negocio, que les importaba más, por venir a aquél.
  
 Finalmente, después de dadas muchas voces, al cabo carga un porquerón con el viejo alfamar de la vieja, aunque no iba muy cargado, allá van todos cinco dando voces. No sé en qué paró. Creo yo que el pecador alfamar pagara por todos. Y bien se empleaba, pues el tiempo que había de reposar y descansar de los trabajos pasados, se andaba alquilando.
  
