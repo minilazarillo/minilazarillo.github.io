@@ -9,6 +9,7 @@ Acceda aquí a las dos ediciones:
 {% include ediciones.html %}
 
 
+## Criterios de edición 
 
 Para llevar a cabo nuestro trabajo nos hemos basado en la edición de 1554 publicada en Medina del Campo.
 

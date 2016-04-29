@@ -3,7 +3,7 @@ layout: homepage
 title: Home
 ---
 
-# minilazarillo
+# The MiniLazarillo Project
 
 ## A minimal edition of the 1554 novella, *Lazarillo de Tormes.*
 

@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Proyecto
-order: 1
+Proyecto: true
+categories: [Proyecto]
 ---
 
 Descripción del proyecto
