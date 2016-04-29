@@ -16,4 +16,12 @@
       </div>
     </div>
   </a>
+
 </div>
+
+{% assign pages_list = site.pages | sort:"order" %}
+{% for item in pages_list %}
+  {% if item.materiales == true %}
+    <span>{{ item.title }}</span><br/>
+  {% endif %}
+{% endfor %}

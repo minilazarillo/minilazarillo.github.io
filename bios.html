@@ -1,17 +1,9 @@
 ---
 layout: page
-title: Proyecto & Equipo
-order: 2
+title: Equipo
+order: 3
 ---
 
-<h1>El Proyecto MiniLazarillo</h1>
-{% for page in site.pages %}
-      {% if page.Proyecto == true %}    
-          <p>{{ page.content | markdownify }}</p>
-      {% endif %}
-    {% endfor %}
-
-<h1>El Equipo</h1>
 <div class="biowrapper">
     {% for page in site.pages %}
       {% if page.bio == true %}

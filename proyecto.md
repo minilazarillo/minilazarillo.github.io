@@ -1,4 +1,7 @@
 ---
+title: Projecto
+layout: page
+order: 2
 Proyecto: true
 categories: [Proyecto]
 ---
@@ -11,6 +14,6 @@ Objetivos del curso: crítica textual + tecnologías implicadas en el proceso ed
 
 Trabajo en equipo
 
-Resultados 
+Resultados
 
-Experiencia 
+Experiencia

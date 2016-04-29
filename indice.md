@@ -2,13 +2,13 @@
 layout: page
 title: Índice de personajes
 editor: Minimal Edition Class
-rights: Public Domain
-order: 9
+materiales: true
+order: 7
 ---
 
- 
+
 ##Lista de personajes históricos
- 
+
 - **Alejandro Magno (356 a.C. — 323 a.C.)**:  fue un rey famoso de Macedonia conocido por extender su imperio en Asia y África. Lázaro compara la avaricia del ciego con la avaricia de Alejandro Magno.  
 - **Antonio**:  El escudero se refiere a un espadero famoso que, como explican R. Menéndez Pidal y F. Rico (p. 51), firmó la espada del mismo rey Fernando el Católico, conservada en la actualidad en la Armería Real de Madrid.  
 - **Carlos I de España y V del Sacro Imperio Romano Germánico (1500 — 1558)**:  fue hijo de Juana I de Castilla (la Loca) y Felipe I el Hermoso. Reinó los territorios hispánicos con el nombre de Carlos I hasta el 1516, una vez muerto su abuelo paterno, Maximiliano I de Hasburgo, heredó el Sacro Imperio Romano Germánico adoptando el nombre de Carlos V.  
@@ -16,10 +16,10 @@ order: 9
 - **Marco Tulio Cicerón (104 a. C.—43 a. C.)**:  fue un abogado, escritor, filósofo y político romano. Es conocido por ser el maestro de la retórica y la elocuencia latina. Muchas de sus obras tratan sobre la historia romana con un enfoque político. Cicerón participó activamente en la vida pública, llegando a ser cónsul. Uno de los episodios más famosos fue el descubrimiento de la conspiración de Catilina, en la que se pretendía derrocar al gobierno. Después de la muerte de César, Cicerón desafió a Marco Antonio y como consecuencia, terminó sus días en el exilio.  
 - **Ovidio (43 a.C.— 17)**:  Ovidio es un poeta romano que vivió durante el reinado de Augusto. A menudo es clasificado como uno de los tres poetas canónicos de la literatura latina junto con Virgilio y Horacio.  
 - **Penélope**:  La esposa de Odiseo que cada noche durante muchos años destejía por la noche lo que había tejido durante el día para retrasar su boda con uno de los pretendientes. Como ella, Lázaro también planea engaños durante la noche para velar por sus propios intereses.  
-- **Tomás de Aquino (1224/1225 — 1274)**:  es uno de los filósofos más relevantes de la Edad Media. Él es también conocido como Doctor Angélico, Doctor Común y Doctor de la Humanidad. Su obra más famosas es la Summa theologiae. 
- 
+- **Tomás de Aquino (1224/1225 — 1274)**:  es uno de los filósofos más relevantes de la Edad Media. Él es también conocido como Doctor Angélico, Doctor Común y Doctor de la Humanidad. Su obra más famosas es la Summa theologiae.
+
 ##Lista de personajes en la novela
- 
+
 - **Alcaldes**:  El oficial público secular que se encarga de una área municipal. En el Lazarillo, unos ayudan al clérigo a remitir sus bulas e indulgencias y otros aceptan la bulas e indulgencias para ellos mismos.  
 - **Alguacil**:  esta figura aparece en varios tratados ejerciendo encargos públicos, y siempre es retratado como una persona corrupta.   
 - **Arcipreste de San Salvador**:  pertenece a la clase eclesiástica y gestiona las iglesias del área. Después de los servicios prestados al alguacil, el arcipreste propone a Lázaro un matrimonio con una de sus sirvientas.  
@@ -37,10 +37,9 @@ order: 9
 - **Maestro de pintar panderos**:  es el sexto amo de Lázaro, para el cual empieza a trabajar por dinero a cambio de mezclar los colores para sus pinturas. Esta figura permite al protagonista presentar la nueva clase de los artesanos que empezaba a consolidarse en estos años del Renacimiento.  
 - **Tomé González**:  es el padre biológico de Lázaro. Molinero de profesión durante más de quince años, es detenido por robar y obligado a servir en la armada contra los moros, donde encuentra la muerte, cuando Lázaro contaba sólo con ocho años.  
 - **Vuestra Merced**:   se refiere al lector a quien Lázaro se dirige. El término es el equivalente al “usted” moderno e implica respeto así como la consciencia de dirigirse a un público.  
-- **Zaide**:  es el padrastro de Lázaro, pues mantiene una relación amorosa con su madre de la que nace un niño. El texto le describe como “un hombre moreno” que se encarga de “las bestias”. Zaide es arrestado por robar comida y utensilios que ofrecía a Antona Pérez y sus hijos. 
- 
+- **Zaide**:  es el padrastro de Lázaro, pues mantiene una relación amorosa con su madre de la que nace un niño. El texto le describe como “un hombre moreno” que se encarga de “las bestias”. Zaide es arrestado por robar comida y utensilios que ofrecía a Antona Pérez y sus hijos.
+
 ##Lista de personajes genéricos
- 
+
 - **Licenciado Pascasio Gómez**:  no es ningún personaje histórico, sino una exclamación con un nombre propio para reflejar admiración o maravilla.  
-- **Macías**:  es un trovador gallego y uno de los últimos poetas medievales gallegos, del que poco sabemos. Fue el sucesor y compatriota de Juan Rodríguez de la Cámara, escritor español del Prerrenacimiento. 
- 
+- **Macías**:  es un trovador gallego y uno de los últimos poetas medievales gallegos, del que poco sabemos. Fue el sucesor y compatriota de Juan Rodríguez de la Cámara, escritor español del Prerrenacimiento.

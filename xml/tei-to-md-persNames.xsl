@@ -26,7 +26,8 @@
           <xsl:value-of select="tei:teiHeader/fileDesc/titleStmt/author"/>
           <xsl:text>editor: Minimal Edition Class&#x0A;</xsl:text>
           <xsl:text>rights: Public Domain&#x0A;</xsl:text>
-          <xsl:text>order: 9&#x0A;</xsl:text>
+          <xsl:text>materiales: true&#x0A;</xsl:text>
+          <xsl:text>order: 7&#x0A;</xsl:text>
           <xsl:text>---&#x0A;&#x0A;</xsl:text>
           <xsl:apply-templates />
         </xsl:result-document>
@@ -40,7 +41,7 @@
         </xsl:apply-templates>
         <xsl:text>&#x0A;</xsl:text>
     </xsl:template>
-    
+
     <xsl:template match="tei:listPerson/person">
       <xsl:apply-templates />
     </xsl:template>
