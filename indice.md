@@ -7,7 +7,7 @@ order: 9
 ---
 
  
-## Lista de personajes históricos
+##Lista de personajes históricos
  
 - **Alejandro Magno (356 a.C. — 323 a.C.)**:  fue un rey famoso de Macedonia conocido por extender su imperio en Asia y África. Lázaro compara la avaricia del ciego con la avaricia de Alejandro Magno.  
 - **Antonio**:  El escudero se refiere a un espadero famoso que, como explican R. Menéndez Pidal y F. Rico (p. 51), firmó la espada del mismo rey Fernando el Católico, conservada en la actualidad en la Armería Real de Madrid.  
@@ -18,17 +18,15 @@ order: 9
 - **Penélope**:  La esposa de Odiseo que cada noche durante muchos años destejía por la noche lo que había tejido durante el día para retrasar su boda con uno de los pretendientes. Como ella, Lázaro también planea engaños durante la noche para velar por sus propios intereses.  
 - **Tomás de Aquino (1224/1225 — 1274)**:  es uno de los filósofos más relevantes de la Edad Media. Él es también conocido como Doctor Angélico, Doctor Común y Doctor de la Humanidad. Su obra más famosas es la Summa theologiae. 
  
-## Lista de personajes en la novela
+##Lista de personajes en la novela
  
 - **Alcaldes**:  El oficial público secular que se encarga de una área municipal. En el Lazarillo, unos ayudan al clérigo a remitir sus bulas e indulgencias y otros aceptan la bulas e indulgencias para ellos mismos.  
-- **alguacil**:   
-- **alguacil**:   
+- **Alguacil**:  esta figura aparece en varios tratados ejerciendo encargos públicos, y siempre es retratado como una persona corrupta.   
 - **Arcipreste de San Salvador**:  pertenece a la clase eclesiástica y gestiona las iglesias del área. Después de los servicios prestados al alguacil, el arcipreste propone a Lázaro un matrimonio con una de sus sirvientas.  
 - **Antona Pérez**:  es la madre de Lázaro. Después de la muerte de su primer esposo Tomé, Antona establece una relación con Zaide, con quien tiene otro hijo. Debido a las duras condiciones de vida es castigada por robar, y al no poder hacerse cargo de sus hijos, decide confiar a su hijo mayor al que será su primer amo, el ciego.  
 - **Buldero**:  es el quinto amo de Lázaro. A pesar de su oficio religioso, el buldero es un personaje corrupto interesado solamente en vender las indulgencias para mejorar su hacienda.  
 - **Capellán**:  es el séptimo amo de Lázaro, después de haber trabajado al servicio de un pintor. Por primera vez, Lázaro empieza a trabajar a cambio de dinero en lugar de sólo por alimento. Con este amo logra comprarse ropa buena y, al fin, se despide con vistas a un trabajo mejor.  
 - **Comendador de la Magdalena**:  es un personaje todavía no identificado. Para las diversas propuestas ofrecidas, véase el artículo de Vaquero Serrano.  
-- **El Alguacil**:  El alguacil aparece en varios tratados ejerciendo encargos públicos, y siempre es retratado como una persona corrupta.  
 - **El Ciego**:  es el primer amo de Lázaro. De este personaje aprende la mayoría de sus engaños. Al fin, Lázaro decide huir cansado de las penurias y el hambre que el ciego le hace sufrir. En este primer tratado es calificado como “el cruel ciego,” “el maldito ciego” y “el mal ciego.”  
 - **El Clérigo**:  es el segundo amo de Lázaro, después del ciego. Es parte de la clase media baja y tampoco le da suficiente comida para sobrevivir, el mayor problema de Lázaro. Aunque no es tan astuto como el ciego, es muy cruel.  
 - **El Escudero**:  es el tercer amo de Lázaro. Al conocerlo y verlo bien vestido, el protagonista cree que con éste se acabarán sus penúrias, pero se equivoca. El escudero está anclado los antiguos principios de la nobleza y la honra, que le impiden trabajar y por consiguiente satisfacer sus necesidades mínimas, como pagar un alquiler o alimentarse. Con este personaje, es Lázaro el que tendrá que proveer comida para ambos.   
@@ -41,7 +39,7 @@ order: 9
 - **Vuestra Merced**:   se refiere al lector a quien Lázaro se dirige. El término es el equivalente al “usted” moderno e implica respeto así como la consciencia de dirigirse a un público.  
 - **Zaide**:  es el padrastro de Lázaro, pues mantiene una relación amorosa con su madre de la que nace un niño. El texto le describe como “un hombre moreno” que se encarga de “las bestias”. Zaide es arrestado por robar comida y utensilios que ofrecía a Antona Pérez y sus hijos. 
  
-## Lista de personajes genéricos
+##Lista de personajes genéricos
  
 - **Licenciado Pascasio Gómez**:  no es ningún personaje histórico, sino una exclamación con un nombre propio para reflejar admiración o maravilla.  
 - **Macías**:  es un trovador gallego y uno de los últimos poetas medievales gallegos, del que poco sabemos. Fue el sucesor y compatriota de Juan Rodríguez de la Cámara, escritor español del Prerrenacimiento. 

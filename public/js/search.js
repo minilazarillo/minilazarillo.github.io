@@ -16,26 +16,26 @@ var index = elasticlunr(function () {
 //Add to this index the proper metadata from the Jekyll content
 
 
-{% assign count = 0 %}{% for text in site.posts %}
+{% assign count = 0 %}{% for text in site.posts %}{% if text.mode == "annotated" %}
 index.addDoc({
   title: {{text.title | jsonify}},
   author: {{text.author | jsonify}},
   layout: {{text.layout | jsonify}},
   content: {{text.content | jsonify | strip_html}},
   id: {{count}}
-});{% assign count = count | plus: 1 %}{% endfor %}
+});{% assign count = count | plus: 1 %}{% endif %}{% endfor %}
 console.log( jQuery.type(index) );
 
 // Builds reference data (maybe not necessary for us, to check)
 
 
-var store = [{% for text in site.posts %}{
+var store = [{% for text in site.posts %}{% if text.mode == "annotated" %}{
   "title": {{text.title | jsonify}},
   "author": {{text.author | jsonify}},
   "layout": {{ text.layout | jsonify }},
   "link": {{text.url | jsonify}},
 }
-{% unless forloop.last %},{% endunless %}{% endfor %}]
+{% unless forloop.last %},{% endunless %}{% endif %}{% endfor %}]
 
 //Query
 
