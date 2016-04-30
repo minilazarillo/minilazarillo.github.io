@@ -7,7 +7,7 @@ order: 7
 ---
 
 
-##Lista de personajes históricos
+## Lista de personajes históricos
 
 - **Alejandro Magno (356 a.C. — 323 a.C.)**:  fue un rey famoso de Macedonia conocido por extender su imperio en Asia y África. Lázaro compara la avaricia del ciego con la avaricia de Alejandro Magno.  
 - **Antonio**:  El escudero se refiere a un espadero famoso que, como explican R. Menéndez Pidal y F. Rico (p. 51), firmó la espada del mismo rey Fernando el Católico, conservada en la actualidad en la Armería Real de Madrid.  
@@ -18,7 +18,7 @@ order: 7
 - **Penélope**:  La esposa de Odiseo que cada noche durante muchos años destejía por la noche lo que había tejido durante el día para retrasar su boda con uno de los pretendientes. Como ella, Lázaro también planea engaños durante la noche para velar por sus propios intereses.  
 - **Tomás de Aquino (1224/1225 — 1274)**:  es uno de los filósofos más relevantes de la Edad Media. Él es también conocido como Doctor Angélico, Doctor Común y Doctor de la Humanidad. Su obra más famosas es la Summa theologiae.
 
-##Lista de personajes en la novela
+## Lista de personajes en la novela
 
 - **Alcaldes**:  El oficial público secular que se encarga de una área municipal. En el Lazarillo, unos ayudan al clérigo a remitir sus bulas e indulgencias y otros aceptan la bulas e indulgencias para ellos mismos.  
 - **Alguacil**:  esta figura aparece en varios tratados ejerciendo encargos públicos, y siempre es retratado como una persona corrupta.   
@@ -39,7 +39,7 @@ order: 7
 - **Vuestra Merced**:   se refiere al lector a quien Lázaro se dirige. El término es el equivalente al “usted” moderno e implica respeto así como la consciencia de dirigirse a un público.  
 - **Zaide**:  es el padrastro de Lázaro, pues mantiene una relación amorosa con su madre de la que nace un niño. El texto le describe como “un hombre moreno” que se encarga de “las bestias”. Zaide es arrestado por robar comida y utensilios que ofrecía a Antona Pérez y sus hijos.
 
-##Lista de personajes genéricos
+## Lista de personajes genéricos
 
 - **Licenciado Pascasio Gómez**:  no es ningún personaje histórico, sino una exclamación con un nombre propio para reflejar admiración o maravilla.  
 - **Macías**:  es un trovador gallego y uno de los últimos poetas medievales gallegos, del que poco sabemos. Fue el sucesor y compatriota de Juan Rodríguez de la Cámara, escritor español del Prerrenacimiento.
