@@ -25,7 +25,7 @@
         </div>
       </div>
 
-      <div class="container content">
+      <div class="container content" id="main">
         {{ content }}
       </div>
     </div>
@@ -48,6 +48,19 @@
           checkbox.checked = false;
         }, false);
       })(document);
+      var qd = {}; //Gets values from the URL
+      location.search.substr(1).split("&").forEach(function(item) {
+          var s = item.split("="),
+              k = s[0],
+              v = s[1] && decodeURIComponent(s[1]);
+          (k in qd) ? qd[k].push(v) : qd[k] = [v]
+      });
+      if(qd.q) {
+        var query = new RegExp("(\\b" + qd.q + "\\b)", "gim");
+        var e = document.getElementById("main").innerHTML;
+        var newe = e.replace(query, "<mark>$1</mark>");
+        document.getElementById("main").innerHTML = newe;
+      }
     </script>
   </body>
 </html>
