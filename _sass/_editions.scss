@@ -1,0 +1,122 @@
+@mixin background-opacity($color, $opacity: 0.3) {
+    background-color: $color; /* The Fallback */
+    background-color: rgba($color, $opacity);
+}
+
+div.ediciones {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+  a {
+    display: block;
+  }
+  font-size: 36px;
+  @media screen and (max-width: 900px) {
+    font-size: 30px;
+  }
+  @media screen and (max-width: 810px) {
+    font-size: 26px;
+  }
+  @media screen and (max-width: 650px) {
+    font-size: 20px;
+  }
+}
+
+$dark-theme-seethru: rgba($dark-theme, 0.8);
+
+div.materiales {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+
+  a {
+    flex-grow: 1;
+    display: block;
+    background-color: $dark-theme-seethru;
+    color: white;
+    padding: 0;
+    margin-left: 2.5px;
+    margin-right: 2.5px;
+    margin-bottom: 5px;
+    font-weight: 700;
+    padding-left: 10px;
+    font-size: 1.5em;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    text-transform: lowercase;
+  }
+}
+
+.box {
+  position: relative;
+  height: 9.44em;
+  width: 9.44em;
+  overflow: hidden;
+  .facsimilar {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url("/assets/facsimilar.png");
+    background-size: 9.44em;
+    background-position: center;
+    -webkit-filter: blur(2px);
+    filter: blur(2px);
+    margin: -2px -4px -4px -2px;
+  }
+
+  .moderno {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url("/assets/moderno.png");
+    background-sze: 9.44em;
+    -webkit-filter: blur(2px);
+    filter: blur(2px);
+    margin: -2px -4px -4px -2px;
+
+  }
+  .overlay {
+    position: absolute;
+    bottom: 0px;
+    height: 100%;
+    width: 100%;
+    padding-top: 69%;
+    transition: padding-top 0.5s, background 0.7s;
+    background: $dark-theme-seethru;
+    background: linear-gradient(to bottom, rgba(0,0,0,0) 69%, $dark-theme-seethru 69%);
+
+    &:hover {
+      padding-top: 0px;
+      transition: padding-top 0.5s, background 0.7s;
+      background: $dark-theme-seethru;
+    }
+  }
+  span {
+    display: block;
+    color: white;
+    position: absolute;
+    width: 100%;
+    font-weight: 700;
+    padding-left: 10px;
+    font-size: 1em;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+
+  }
+
+}
+
+.fascimile {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: flex-start;
+
+  a {
+    display: inline-block;
+    width: 20%;
+  }
+
+}

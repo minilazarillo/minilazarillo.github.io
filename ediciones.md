@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Las ediciones
+title: La Edición
+order: 5
 ---
 
-Acceda aquí a las tres ediciones: 
+{% include ediciones.html %}
 
-1. Edición facsimilar
-2. Edición anotada
-3. Edición diplomática??
-4. "Reading edition" 
+{% include materiales.html %}

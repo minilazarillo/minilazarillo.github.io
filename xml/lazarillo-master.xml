@@ -81,12 +81,11 @@
                         el vivir? No por cierto, mas el deseo de alabanza le hace ponerse al
                         peligro; y así en las artes y letras es lo mismo. Predica muy bien el
                         presentado, y es hombre que desea mucho el provecho de las ánimas; mas
-                        pregunten a <persName xml:id="VuestraMerced">su merced</persName> si le pesa
-                        cuando le dicen: <quote>«¡Oh, qué maravillosamente lo ha hecho vuestra
-                            reverencia!»</quote>. Justó muy ruinmente el <persName
-                            corresp="#donFulano">señor don Fulano</persName>, y dio el sayete de
-                        armas al truhán, porque le loaba de haber llevado muy buenas lanzas: ¿qué
-                        hiciera si fuera verdad? </p>
+                        pregunten a <persName corresp="#VuestraMerced">su merced</persName> si le
+                        pesa cuando le dicen: <quote>«¡Oh, qué maravillosamente lo ha hecho vuestra
+                            reverencia!»</quote>. Justó muy ruinmente el señor don Fulano, y dio el
+                        sayete de armas al truhán, porque le loaba de haber llevado muy buenas
+                        lanzas: ¿qué hiciera si fuera verdad? </p>
                     <!-- quién aquí es "su merced?" a quien corresponde este quote? -->
                     <!-- SAT: en realidad este <quote> es impersonal, correspondería a "gente" -->
                     <p> Y todo va de esta manera; que, confesando yo no ser más santo <pb n="3r"
@@ -137,8 +136,8 @@
                         y sin abrigo se viese, determinó arrimarse a los buenos por ser uno de
                         ellos, y vínose a vivir a la ciudad y alquiló una casilla y metíase a guisar
                         de comer a ciertos estudiantes, y lavaba la ropa a ciertos mozos de caballos
-                        del <name type="religious">Comendador de la Magdalena</name>, de
-                        manera que fue frecuentando las caballerizas.</p>
+                        del <name type="religious">Comendador de la Magdalena</name>, de manera que
+                        fue frecuentando las caballerizas.</p>
                     <p> Ella y <persName corresp="#Zaide">un hombre moreno</persName> de aquellos
                         que las bestias curaban vinieron en conocimiento. Éste algunas veces se
                         venía a nuestra casa y se iba a la mañana. Otras veces de día llegaba a la
@@ -151,7 +150,7 @@
                             corresp="#AntonaPerez">madre</persName> vino a darme <persName
                             corresp="#hermanastro">un negrito</persName> muy bonito, el cual yo
                         brincaba y ayudaba a calentar. Y acuérdome que estando el negro de mi
-                        <persName corresp="#Zaide">padrastro</persName> trebejando con el mozuelo, como el niño vía a mi <persName
+                        padrastro trebejando con el mozuelo, como el niño vía a mi <persName
                             corresp="#AntonaPerez">madre</persName> y a mí blancos y a él no, huía
                         de él con miedo para mi <persName corresp="#AntonaPerez">madre</persName>,
                         y, señalando con el dedo, decía: </p>
@@ -174,7 +173,7 @@
                         bestias le daban, hurtaba, y salvados, leña, almohazas, mandiles, y las
                         mantas y sábanas de los caballos hacía perdidas; y, cuando otra cosa no
                         tenía, las bestias desherraba, y con todo esto acudía a mi <persName
-                            corresp="#AntonaPerez">madre</persName> para criar a mi <!--que es? el hermenastro?-->hermanico. No
+                            corresp="#AntonaPerez">madre</persName> para criar a mi hermanico. No
                         nos maravillemos de un clérigo, ni de un fraile, porque el uno hurta de los
                         pobres y el otro de casa para sus devotas y para ayuda de otro tanto, cuando
                         a un pobre esclavo el amor le animaba a esto.</p>
@@ -271,8 +270,8 @@
                             facs="Medina-1554_008.jpg"/>no parían, para las que estaban de parto,
                         para las que eran malcasadas, que sus maridos las quisiesen bien. Echaba
                         pronósticos a las preñadas si traían hijo o hija. Pues en caso de medicina
-                        decía que <placeName ref="Galeno">Galeno</placeName> no supo la mitad que él
-                        para <choice>
+                        decía que <persName xml:id="Galeno">Galeno</persName> no supo la mitad que
+                        él para <choice>
                             <orig>muela</orig>
                             <reg>muelas</reg>
                         </choice>, desmayos, males de madre. Finalmente, nadie le decía padecer
@@ -391,13 +390,13 @@
                             ensayara otra tal hazaña.</p>
                     </sp>
                     <p>Santiguándose los que lo oían, decían:</p>
-                    <sp who="#">
+                    <sp who="#gente">
                         <!-- SAT: esto no lo dice el ciego -->
                         <p>-¡Mirá quién pensara de un muchacho tan pequeño tal ruindad!</p>
 
                     </sp>
                     <p>Y reían mucho el artificio y decíanle:</p>
-                    <sp who="#">
+                    <sp who="#gente">
                         <!-- SAT: esto tampoco lo dice el ciego -->
                         <p>-¡Castigadlo, castigadlo, que de <name type="religious" corresp="#Dios"
                                 >Dios</name> lo habréis!</p>
@@ -683,6 +682,7 @@
                 </div>
             </div>
             <div xml:id="tratado2">
+                <head type="titulo">Tratado segundo</head>
                 <head type="subtitulo"> Cómo <persName corresp="#Lazaro">Lázaro</persName> se asentó
                     con un <persName corresp="#clerigo">clérigo</persName>, y de las cosas que con
                     él pasó.</head>
@@ -1002,16 +1002,16 @@
                         dejando costura ni remiendo que no me buscaba muy a menudo.</p>
                     <p>Pues, así como digo, metía cada noche la llave en la boca y dormía sin recelo
                         que el brujo de mi amo cayese con ella. Mas cuando la desdicha ha de venir,
-                        por demás es diligencia. Quisieron mis hados (o por mejor decir), mis pecados,
-                        que, una noche que estaba durmiendo, la llave se me puso en la boca, que
-                        abierta debía tener, de tal manera y postura que el aire y resoplo, que yo
-                        durmiendo echaba, salía por lo hueco de la llave (que de cañuto era) y
-                        silbaba (según mi desastre quiso) muy recio, de tal manera que el
-                        sobresaltado de mi amo lo oyó y creyó sin duda ser el silbo de la culebra,
-                        y cierto lo debía parecer.</p>
+                        por demás es diligencia. Quisieron mis hados (o por mejor decir), mis
+                        pecados, que, una noche que estaba durmiendo, la llave se me puso en la
+                        boca, que abierta debía tener, de tal manera y postura que el aire y
+                        resoplo, que yo durmiendo echaba, salía por lo hueco de la llave (que de
+                        cañuto era) y silbaba (según mi desastre quiso) muy recio, de tal manera que
+                        el sobresaltado de mi amo lo oyó y creyó sin duda ser el silbo de la
+                        culebra, y cierto lo debía parecer.</p>
                     <p>Levantóse muy paso con su garrote en la mano, y al tiento y sonido de la
-                        culebra se llegó a mí con mucha quietud, por no ser sentido de la culebra.
-                        Y como cerca se vio, pensó que allí en las pajas, do yo estaba echado, al
+                        culebra se llegó a mí con mucha quietud, por no ser sentido de la culebra. Y
+                        como cerca se vio, pensó que allí en las pajas, do yo estaba echado, al
                         calor mío se había venido. Levantando bien el palo, pensando tenerla debajo
                         y darle tal garrotazo que la matase, con toda su fuerza me descargó en la
                         cabeza tan gran golpe, que sin ningún sentido y muy mal descalabrado me
@@ -1019,10 +1019,10 @@
                     <p>Como sintió que me había dado, según yo debía hacer gran sentimiento con el
                         fiero golpe, contaba él que se había llegado a mí, y dándome grandes voces,
                         llamándome, procuró recordarme. Mas como me tocase con las manos, tentó la
-                        mucha sangre que se me iba y conoció el daño que me había hecho. Y con
-                        mucha prisa fue a buscar lumbre, y llegando con ella, hallóme quejando,
-                        todavía con mi llave en la boca, que nunca la desamparé, la mitad fuera,
-                        bien de aquella manera que debía estar al tiempo que silbaba con ella.</p>
+                        mucha sangre que se me iba y conoció el daño que me había hecho. Y con mucha
+                        prisa fue a buscar lumbre, y llegando con ella, hallóme quejando, todavía
+                        con mi llave en la boca, que nunca la desamparé, la mitad fuera, bien de
+                        aquella manera que debía estar al tiempo que silbaba con ella.</p>
                     <p>Espantado el matador de culebras qué podría ser aquella llave, miróla
                         sacándomela del todo de la boca, y vio lo que era, porque en las guardas
                         nada de la suya diferenciaba. Fue luego a proballa, y con ella probó el
@@ -1033,8 +1033,7 @@
                         (después que en mí torné) decir a mi amo, el cual a cuantos allí venían lo
                         contaba por extenso.</p>
                     <p>A cabo de tres días yo torné en mi sentido y vime echado en mis pajas, la
-                        cabeza toda emplastada y llena de aceites y ungüentos, y espantado
-                        dije:</p>
+                        cabeza toda emplastada y llena de aceites y ungüentos, y espantado dije:</p>
                     <sp who="#Lazaro">
                         <p>-¿Qué es esto?</p>
                     </sp>
@@ -1128,9 +1127,9 @@
                         entramos en casa, la cual tenía la entrada oscura y lóbrega, de tal manera
                         que parecía que ponía temor a los que en ella entraban, aunque dentro de
                         ella estaba un patio pequeño y razonables cámaras.</p>
-                    <p>Desque fuimos entrados, quita de sobre sí su capa, y, preguntando si tenía las
-                        manos limpias, la sacudimos y doblamos, y, muy limpiamente soplando un poyo
-                        que allí estaba, la puso en él. Y hecho esto, sentóse cabo de ella,
+                    <p>Desque fuimos entrados, quita de sobre sí su capa, y, preguntando si tenía
+                        las manos limpias, la sacudimos y doblamos, y, muy limpiamente soplando un
+                        poyo que allí estaba, la puso en él. Y hecho esto, sentóse cabo de ella,
                         preguntándome muy por ex<pb n="34r" facs="Medina-1554_034.jpg"/>tenso de
                         dónde era y cómo había venido a aquella ciudad. Y yo le di más larga cuenta
                         que quisiera, porque me parecía más conveniente hora de mandar poner la mesa
@@ -1491,10 +1490,9 @@
                         Ayuntamiento que todos los pobres extranjeros se fuesen de la ciudad, con
                         pregón que el que de allí adelante topasen fuese punido con azotes. Y así,
                         ejecutando la ley, desde a cuatro días que el pregón se dio, vi llevar una
-                        procesión de pobres azotando por las <placeName
-                            ref="https://www.google.com/maps/place/Calle+de+las+Cuatro+Calles,+28742+Lozoya,+Madrid,+Spain/@40.9496409,-3.7964853,17z/data=!4m2!3m1!1s0xd415ee5832f8111:0x9aa62545bee65f22"
-                            >Cuatro Calles</placeName>. Lo cual me puso tan gran espanto que nunca
-                        osé desmandarme a demandar.</p>
+                        procesión de pobres azotando por las <placeName ref="CuatroCalles">Cuatro
+                            Calles</placeName>. Lo cual me puso tan gran espanto que nunca osé
+                        desmandarme a demandar.</p>
                     <p>Aquí viera, quien vello pudiera, la abstinencia de mi casa y la tristeza y
                         silencio de los moradores de ella, tanto que nos acaeció estar dos o tres
                         días sin comer bocado ni hablar palabra. A mí diéronme la vida unas
@@ -1608,9 +1606,11 @@
                             quitaba?</p>
                     </sp>
                     <!-- Realmente es un ejemplo de dialogo?-->
-                    <p><quote>Sí es y sí tiene, y también me lo quitaba él a mí; mas, de cuantas
-                            veces yo se le quitaba primero, no fuera malo comedirse él alguna y
-                            ganarme por la mano.</quote></p>
+                    <sp who="#escudero">
+                        <p>-Sí es y sí tiene, y también me lo quitaba él a mí; mas, de cuantas veces
+                            yo se le quitaba primero, no fuera malo comedirse él alguna y ganarme
+                            por la mano.</p>
+                    </sp>
                     <sp who="#Lazaro">
                         <p>-Paréceme, señor -le dije yo-, que en eso no mirara, mayormente con mis
                             mayores que yo y que tienen más.</p>
@@ -1619,18 +1619,17 @@
                         <p>-Eres muchacho -me respondió- y no sientes las cosas de honra, en que el
                             día de hoy está todo el caudal de los hombres de bien. Pues te hago
                             saber que yo soy, como ves, un escudero; mas ¡vótote a <name
-                                type="religious">Dios!,</name> si al <!--Quien es? es otro personaje-->Conde topo en la calle y no me
-                            quita muy bien quitado del todo el bonete, que otra vez que venga, me
-                            sepa yo entrar en una casa, fingiendo yo en ella algún negocio, o
-                            atravesar otra calle, si la hay, antes que llegue a mí, por no
-                            quitárselo. Que un hidalgo no debe a otro que a Dios y al rey nada, ni
-                            es justo, siendo hombre de bien, se descuide un punto de tener en mucho
-                            su persona. Acuérdome que un día deshonré en mi tierra a un oficial y
-                            quise poner en él las manos, porque cada vez que le topaba, me
-                            decía:
-                    <said who="#"><!--solucionar Conde-->
-                        Mantenga Dios a <persName corresp="#escudero">Vuestra
-                                Merced</persName>.</said></p>
+                                type="religious">Dios!,</name> si al <persName xml:id="Conde"
+                                >Conde</persName> topo en la calle y no me quita muy bien quitado
+                            del todo el bonete, que otra vez que venga, me sepa yo entrar en una
+                            casa, fingiendo yo en ella algún negocio, o atravesar otra calle, si la
+                            hay, antes que llegue a mí, por no quitárselo. Que un hidalgo no debe a
+                            otro que a Dios y al rey nada, ni es justo, siendo hombre de bien, se
+                            descuide un punto de tener en mucho su persona. Acuérdome que un día
+                            deshonré en mi tierra a un oficial y quise poner en él las manos, porque
+                            cada vez que le topaba, me decía: <said who="#Conde"> Mantenga Dios a
+                                    <persName corresp="#escudero">Vuestra
+                            Merced</persName>.</said></p>
                     </sp>
                     <sp who="#Lazaro">
                         <p>Vos, don villano ruin -le dije yo-, ¿por qué no sois bien criado?
@@ -1645,11 +1644,11 @@
                     <sp who="#escudero">
                         <p>-¡Mira, mucho de enhoramala! -dijo él-. A los hombres de poca arte dicen
                             eso; mas a los más altos, como yo, no les han de hablar menos de: Beso
-                            las manos de <persName corresp="#VuestraMerced">Vuestra
-                                Merced</persName>, o por lo menos: Bésoos, señor, las manos, si el
-                            que me habla es caballero. Y así, de aquél de mi tierra que me atestaba
-                            de mantenimiento, nunca más le quise sufrir, ni sufriría ni sufriré a
-                            hombre del mundo, del rey abajo, que: Manténgaos Dios, me diga.</p>
+                            las manos de <persName corresp="#escudero">Vuestra Merced</persName>, o
+                            por lo menos: Bésoos, señor, las manos, si el que me habla es caballero.
+                            Y así, de aquél de mi tierra que me atestaba de mantenimiento, nunca más
+                            le quise sufrir, ni sufriría ni sufriré a hombre del mundo, del rey
+                            abajo, que: Manténgaos Dios, me diga.</p>
                     </sp>
                     <sp who="#Lazaro">
                         <p>Pecador de mí -dije yo-, por eso tiene tan poco cuidado de mantenerte,
@@ -1714,18 +1713,19 @@
                         tampoco había vuelto a casa desque salió a trocar la pieza, y que pensaba
                         que de mí y de ellos se había ido con el trueco.</p>
                     <p>De que esto me oyeron, van por un <persName corresp="#alguacil1"
-                        >alguacil</persName> y un <persName xml:id="escribano1">escribano</persName>. Y helos do vuelven luego con ellos,
-                        y toman la llave, y llámanme, y llaman testigos, y abren la puerta y entran
-                        a embargar la hacienda de mi amo hasta ser pagados de su deuda. Anduvieron
-                        toda la casa y halláronla desembarazada, como he contado, y dícenme:</p>
-                    <sp who="#alguacil_escribano">
+                            >alguacil</persName> y un <persName corresp="#escribano"
+                            >escribano</persName>. Y helos do vuelven luego con ellos, y toman la
+                        llave, y llámanme, y llaman testigos, y abren la puerta y entran a embargar
+                        la hacienda de mi amo hasta ser pagados de su deuda. Anduvieron toda la casa
+                        y halláronla desembarazada, como he contado, y dícenme:</p>
+                    <sp who="#alguacil1_escribano">
                         <p>¿Qué es de la hacienda de tu amo, sus arcas y paños de pared y alhajas de
                             casa?</p>
                     </sp>
                     <sp who="#Lazaro">
                         <p>-No sé yo eso -le respondí.</p>
                     </sp>
-                    <sp who="#alguacil_escribano">
+                    <sp who="#alguacil1_escribano">
                         <p>-Sin duda -dicen ellos- esta noche lo deben de haber alzado y llevado a
                             alguna parte. Señor <persName corresp="#alguacil1">alguacil</persName>,
                             prended a este mozo, que él sabe dónde está.</p>
@@ -1739,23 +1739,23 @@
                         sido muchas e infinitas veces, mas era mansamente de él trabado, para que
                         mostrase el camino al que no veía), yo hube mucho miedo y, llorando,
                         prometíle de decir lo que me preguntaban.</p>
-                    <sp who="alguacil_escribano">
+                    <sp who="alguacil1_escribano">
                         <p>-Bien está -dicen ellos-. Pues di todo lo que sabes y no hayas temor.</p>
                     </sp>
-                    <p>Sentóse el <persName corresp="#escribano1">escribano</persName> en un poyo para escribir el inventario, preguntándome
-                        qué tenía.</p>
+                    <p>Sentóse el <persName corresp="#escribano">escribano</persName> en un poyo
+                        para escribir el inventario, preguntándome qué tenía.</p>
                     <sp who="#Lazaro">
                         <p>-Señores -dije yo-, lo que este mi amo tiene, según él me dijo, es un muy
                             buen solar de casas y un palomar derribado.</p>
                     </sp>
-                    <sp who="#alguacil_escribano">
+                    <sp who="#alguacil1_escribano">
                         <p>Bien está -dicen ellos-; por poco que eso valga, hay para nos entregar de
                             la deuda. ¿Y a qué parte de la ciudad tiene eso? -me preguntaron.</p>
                     </sp>
                     <sp who="#Lazaro">
                         <p>-En su tierra -les respondí.</p>
                     </sp>
-                    <sp who="#alguacil_escribano">
+                    <sp who="#alguacil1_escribano">
                         <p>Por Dios, que está bueno el negocio -dijeron ellos-. ¿Y adónde es su
                             tierra?</p>
                     </sp>
@@ -1763,9 +1763,9 @@
                         <p>-De <placeName corresp="#Castilla">Castilla la Vieja</placeName> me dijo
                             él que era -le dije.</p>
                         <p>Riéronse mucho el <persName corresp="#alguacil1">alguacil</persName> y el
-                            <persName corresp="#escribano1">escribano</persName>, diciendo:</p>
+                            escribano, diciendo:</p>
                     </sp>
-                    <sp who="#alguacil_escribano">
+                    <sp who="#alguacil1_escribano">
                         <p>-Bastante relación es ésta para cobrar vuestra deuda, aunque mejor
                             fuese.</p>
                     </sp>
@@ -1778,11 +1778,12 @@
                             las noches se iba a dormir con él.</p>
                     </sp>
                     <p>Vista mi inocencia, dejáronme, dándome por libre. Y el <persName
-                        corresp="#alguacil1">alguacil</persName> y el <persName corresp="#escribano1">escribano</persName> piden al hombre
-                        y a la mujer sus derechos. Sobre lo cual tuvieron gran contienda y ruido,
-                        porque ellos alegaron no ser obligados a pagar, pues no había de qué ni se
-                        hacía el embargo. Los otros decían que habían dejado de ir a otro negocio,
-                        que les importaba más, por venir a aquél.</p>
+                            corresp="#alguacil1">alguacil</persName> y el <persName
+                            corresp="#escribano">escribano</persName> piden al hombre y a la mujer
+                        sus derechos. Sobre lo cual tuvieron gran contienda y ruido, porque ellos
+                        alegaron no ser obligados a pagar, pues no había de qué ni se hacía el
+                        embargo. Los otros decían que habían dejado de ir a otro negocio, que les
+                        importaba más, por venir a aquél.</p>
                     <p>Finalmente, después de dadas muchas voces, al cabo carga un porquerón con el
                         viejo alfamar de la vieja, aunque no iba muy cargado, allá van todos cinco
                         dando voces. No sé en qué paró. Creo yo que el pecador alfamar pagara por
@@ -1807,14 +1808,14 @@
                         los primeros zapatos que rompí en mi vida; mas no me duraron ocho días, ni
                         yo pude con su trote durar más. Y por esto, y por otras cosillas que no
                         digo, salí de él. </p>
-                    <!-- es el mismo merced aquí? -->
+                    <!-- es el mismo merced aquí? FK: es parte del titulo, yo creo-->
                 </div>
             </div>
             <div xml:id="tratado5">
                 <head type="titulo">Tratado quinto</head>
                 <head type="subtitulo">Cómo <persName corresp="#Lazaro">Lázaro</persName> se asentó
                     con un <persName corresp="#buldero">buldero</persName>, y de las cosas que con
-                    élg pasó</head>
+                    él pasó</head>
                 <div type="texto">
                     <p>En el quinto por mi ventura di, que fue un <persName corresp="#buldero"
                             >buldero</persName>, el más desenvuelto y desvergonzado, y el mayor
@@ -1830,9 +1831,9 @@
                         latín por no dar tropezón; mas aprovechábase de un gentil y bien cortado
                         romance y desenvoltísima lengua. Y si sabía que los dichos clérigos eran de
                         los reverendos, digo que más con dineros que con letras y con reverendas se
-                        ordenan, hacíase entre ellos un <persName corresp="#Santo_Tomas">santo
-                            Tomás</persName>, y hablaba dos horas en latín, a lo menos que lo
-                        parecía, aunque no lo era.</p>
+                        ordenan, hacíase entre ellos un <persName corresp="#SantoTomas">santo
+                            Tomás</persName>, y hablaba dos <pb n="55l" facs="Medina-1554_055.jpg"
+                        />horas en latín, a lo menos que lo parecía, aunque no lo era.</p>
                     <p>Cuando por bien no le tomaban las bulas, buscaba cómo por mal se las tomasen.
                         Y para aquello hacía molestias al pueblo, y otras veces con mañosos
                         artificios. Y porque todos los que le veía hacer sería largo de contar, diré
@@ -1843,12 +1844,13 @@
                         dado al diablo con aquello y, pensando qué hacer, se acordó de convidar al
                         pueblo para otro día de mañana despedir la bula.</p>
                     <p>Y esa noche, después de cenar, pusiéronse a jugar la colación él y el
-                            <persName xml:id="alguacil2">alguacil</persName>. Y sobre el juego
-                        vinieron a reñir y a haber malas palabras. Él llamó al <persName
-                            corresp="#alguacil2">alguacil</persName> ladrón y el otro a él falsario.
-                        Sobre esto, el <persName corresp="#buldero">señor comisario</persName>, mi
-                        señor, tomó un lanzón, que en el portal do jugaban estaba. El <persName
-                            corresp="#alguacil2">alguacil</persName> puso mano a su espada, que en la
+                            <persName corresp="#alguacil2">alguacil</persName>. Y sobre el juego
+                        vinieron a reñir y a haber malas palabras. <pb n="55r"
+                            facs="Medina-1554_055.jpg"/>Él llamó al <persName corresp="#alguacil2"
+                            >alguacil</persName> ladrón y el otro a él falsario. Sobre esto, el
+                            <persName corresp="#buldero">señor comisario</persName>, mi señor, tomó
+                        un lanzón, que en el portal do jugaban estaba. El <persName
+                            corresp="#alguacil">alguacil</persName> puso mano a su espada, que en la
                         cinta tenía. Al ruido y voces que todos dimos, acuden los huéspedes y
                         vecinos, y métense en medio. Y ellos, muy enojados, procurándose de
                         desembarazar de los que en medio estaban, para matarse. Mas, como la gente
@@ -1858,28 +1860,28 @@
                         que era falsario y las bulas que predicaba eran falsas.</p>
                     <p>Finalmente, que los del pueblo, viendo que no bastaban a ponellos en paz,
                         acordaron de llevar al <persName corresp="#alguacil2">alguacil</persName> de
-                        la posada a otra parte. Y así <pb n="55l" facs="Medina-1554_055.jpg"/>quedó
-                            mi amo muy enojado,
+                        la posada a otra parte. Y así <pb n="56l" facs="Medina-1554_056.jpg"/>quedó
+                        mi amo muy enojado,
                         <!-- cambia la ortagrafia al original aqui - es correcto?-->y después que
                         los huéspedes y vecinos le hubieron rogado que perdiese el enojo y se fuese
                         a dormir, <!-- se fue no existe en el manuscrito -->se fue y así nos echamos
                         todos.</p>
 
-                    <p>La mañana venida, mi amo se fue a la
-                        iglesia y mandó tañer a misa y al sermón para despedir la bula. Y el pueblo
-                        se juntó, el cual andaba murmurando de las bulas, diciendo cómo eran falsas,
-                        y que el mismo <persName corresp="#alguacil2">alguacil</persName>, riñendo,
-                        lo había descubierto. De manera que, atrás que tenían mala gana de tomalla,
-                        con aquello del todo la aborrecieron.</p>
+                    <p>La mañana venida, mi amo se fue a la iglesia y mandó tañer a misa y al sermón
+                        para despedir la bula. Y el pueblo se juntó, el cual andaba murmurando de
+                        las bulas, diciendo cómo eran falsas, y que el mismo <persName
+                            corresp="#alguacil2">alguacil</persName>, riñendo, lo había descubierto.
+                        De manera que, atrás que tenían mala gana de tomalla, con aquello del todo
+                        la aborrecieron.</p>
                     <p><!--dice El senor Lomillario-->El <persName corresp="#buldero">señor
                             comisario</persName> se subió al púlpito, y comienza su sermón, y a
                         animar la gente a que no quedasen sin tanto bien y indulgencia como la santa
                         bula traía.</p>
                     <p>Estando en lo mejor del sermón, entra por la puerta de la iglesia el
                             <persName corresp="#alguacil2">alguacil</persName> y, desque hizo
-                        oración, levantóse y, con voz alta y <pb n="55l" facs="Medina-1554_055.jpg"
+                        oración, levantóse y, con voz alta y <pb n="56r" facs="Medina-1554_056.jpg"
                         /> pausada, cuerdamente comenzó a decir:</p>
-                    <sp corresp="#alguacil">
+                    <sp corresp="#alguacil2">
                         <p>-Buenos hombres, oídme una palabra, que después oiréis a quien
                             quisiéredes. Yo vine aquí con este <persName corresp="#buldero"
                                 >echacuervo</persName> que os predica, el cual me engañó, y dijo que
@@ -1895,17 +1897,17 @@
                             desengaño<!-- en el texto, comma aqui--> y declaro su maldad. Y acabó su
                             razonamiento.</p>
                     </sp>
-                    <p>Algunos hombres <pb n="56l" facs="Medina-1554_056.jpg"/>honrados que allí
+                    <p>Algunos hombres <pb n="57l" facs="Medina-1554_057.jpg"/>honrados que allí
                         estaban se quisieron levantar y echar al <persName corresp="#alguacil2"
-                            >alguacil</persName> fuera de la iglesia, por evitar escándalo; mas
-                            mi amo les fue a la mano y mandó
-                        a todos que,<!-- no tiene comma aqui el manuscrito--> so pena de excomunión,
-                        no le estorbasen; <!-- tiene dos puntos aqui-->mas que le dejasen decir todo
-                        lo que quisiese.<!-- comma aqui--> Y así, él también tuvo silencio mientras
-                        el <persName corresp="#alguacil2">alguacil</persName> dijo todo lo que he
+                            >alguacil</persName> fuera de la iglesia, por evitar escándalo; mas mi
+                        amo les fue a la mano y mandó a todos
+                        que,<!-- no tiene comma aqui el manuscrito--> so pena de excomunión, no le
+                        estorbasen; <!-- tiene dos puntos aqui-->mas que le dejasen decir todo lo
+                        que quisiese.<!-- comma aqui--> Y así, él también tuvo silencio mientras el
+                            <persName corresp="#alguacil2">alguacil</persName> dijo todo lo que he
                         dicho. Como calló, mi amo le preguntó si quería decir más que lo dijese. El
                             <persName corresp="#alguacil2">alguacil</persName> dijo:</p>
-                    <sp corresp="#alguacil">
+                    <sp corresp="#alguacil2">
                         <p>-Harto hay más que decir de vos y de vuestra falsedad; mas por agora
                             basta.</p>
                     </sp>
@@ -1917,7 +1919,7 @@
                             ninguna cosa es escondida, antes todas manifiestas, y a quien nada es
                             imposible, antes todo posible: <name type="religious" corresp="#Dios"
                                 >tú</name> sabes la verdad y cuán injustamente yo soy afrentado. En
-                            lo que a mí toca, yo le perdono, <pb n="56r" facs="Medina-1554_056.jpg"
+                            lo que a mí toca, yo le perdono, <pb n="57r" facs="Medina-1554_057.jpg"
                             /> porque <name type="religious" corresp="#Dios">Tú, Señor</name>, me
                             perdones. No mires a aquél, que no sabe lo que hace ni dice; mas la
                             injuria a ti hecha te suplico, y por justicia te pido no disimules.
@@ -1928,18 +1930,18 @@
                             luego muestra aquí milagro, y sea de esta manera: que, si es verdad lo
                             que aquél dice y que yo traigo maldad y falsedad, este púlpito se hunda
                             conmigo y meta siete estados debajo de tierra, do él ni yo jamás
-                            parezcamos; y, si es verdad lo que yo digo y <!--es importante marcar el persName alguacil aqui?-->aquél, persuadido del demonio, por
-                            quitar y privar a los que están presentes de tan gran bien, dice maldad,
-                            también sea castigado y de <pb n="57l" facs="Medina-1554_057.jpg"/>todos
-                            conocida <!--en el manuscrito, la-->su malicia.</p>
+                            parezcamos; y, si es verdad lo que yo digo y
+                            <!--necesitamos marcar el alguacil2 aqui?-->aquél, persuadido del
+                            demonio, por quitar y privar a los que están presentes de tan gran bien,
+                            dice maldad, también sea castigado y de <pb n="58l"
+                                facs="Medina-1554_058.jpg"/>todos conocida
+                            <!--en el manuscrito, la-->su malicia.</p>
                     </sp>
-                    <!-- ¿¿¿¿¿hay que marcar Dios????? -->
-                    <p>Apenas había acabado su oración el devoto señor
-                            mío, cuando el negro <persName corresp="#alguacil2"
-                            >alguacil</persName> cae de su estado y da tan gran golpe en el suelo
-                        que la iglesia toda hizo resonar, y comenzó a bramar y echar espumajos por
-                        la boca y torcella, y hacer visajes con el gesto, dando de pie y de mano,
-                        revolviéndose por aquel suelo a una parte y a
+                    <p>Apenas había acabado su oración el devoto señor mío, cuando el negro
+                            <persName corresp="#alguacil2">alguacil</persName> cae de su estado y da
+                        tan gran golpe en el suelo que la iglesia toda hizo resonar, y comenzó a
+                        bramar y echar espumajos por la boca y torcella, y hacer visajes con el
+                        gesto, dando de pie y de mano, revolviéndose por aquel suelo a una parte y a
                         otra.<!--dos puntos aqui--></p>
                     <p>El estruendo y voces de la gente era tan grande, que no se oían unos a otros.
                         Algunos estaban espantados y temerosos. Unos decían:</p>
@@ -1953,52 +1955,56 @@
                     <p>Finalmente, algunos que allí estaban, y a mi parecer no sin harto temor, se
                         llegaron y le trabaron de los brazos, con los cuales daba fuertes puñadas a
                         los que cerca de él estaban. Otros le tiraban por las piernas, y tuvieron
-                            <pb n="57r" facs="Medina-1554_057.jpg"/> reciamente, porque no había
+                            <pb n="58r" facs="Medina-1554_058.jpg"/> reciamente, porque no había
                         mula falsa en el mundo<!--hay coma en el manuscrito--> que tan recias coces
-                        tirase. Y así le tuvieron un gran rato. Porque más de quince hombres estaban
-                        sobre él y a todos daba las manos llenas y, si se descuidaban, en los
-                        hocicos.</p>
-                    <p>A todo esto el señor mi amo estaba en
-                        el púlpito de rodillas, las manos y los ojos puestos en el cielo,
-                        transportado en la divina esencia, que el planto y ruido y voces, que en la
-                        iglesia había, no eran parte para apartalle de su divina contemplación.</p>
+                        tirase. Y así le tuvieron un gran rato.
+                        <!--en el manuscrito es la misma frase-->Porque más de quince hombres
+                        estaban sobre él y a todos daba las manos llenas y, si se descuidaban, en
+                        los hocicos.</p>
+                    <p>A todo esto el señor mi amo estaba en el púlpito de rodillas, las manos y los
+                        ojos puestos en el cielo, transportado en la divina esencia, que el planto y
+                        ruido y voces, que en la iglesia había, no eran parte para apartalle de su
+                        divina contemplación.</p>
                     <p>Aquellos buenos hombres llegaron a él y, dando voces le despertaron y le
                         suplicaron quisiese socorrer a aquel pobre que estaba muriendo y que no
                         mirase a las cosas pasadas ni a sus dichos malos, pues ya dellos tenía el
                         pago; mas, si en algo podría aprovechar para librarle del peligro y pasión
                         que padecía, por amor de <name type="religious" corresp="#Dios">Dios</name>
-                        lo hiciese, pues ellos veían clara la culpa del culpado y la verdad y bondad
-                        suya, pues a su petición y venganza el Señor no alargó el castigo.</p>
+                        lo hiciese. <pb n="59l" facs="Medina-1554_059.jpg"/>Pues ellos veían clara
+                        la culpa del culpado y la verdad y bondad suya, pues a su petición y
+                        venganza el Señor no alargó el castigo.</p>
                     <p>El <persName corresp="#buldero">señor comisario</persName>, como quien
                         despierta de un dulce sueño, los miró y miró al delincuente y a todos los
                         que alrededor estaban, y muy pausadamente les dijo:</p>
                     <sp corresp="#buldero">
                         <p>-Buenos hombres, vosotros nunca habíades de rogar por un hombre en quien
                                 <name type="religious" corresp="#Dios">Dios</name> tan señaladamente
-                            se ha señalado; mas, pues Él nos manda que no volvamos mal por mal y
+                            se ha señalado. Más, pues Él nos manda que no volvamos mal por mal y
                             perdonemos las injurias, con confianza podremos suplicarle que cumpla lo
                             que nos manda, y <name type="religious" corresp="#Dios">Su
                                 Majestad</name> perdone a éste que le ofendió poniendo en su santa
                             fe obstáculo. Vamos todos a suplicalle.</p>
                     </sp>
-                    <p>Y así, bajó del púlpito y encomendó a que muy devotamente suplicasen a <name
-                            type="religious" corresp="#Dios">nuestro Señor</name> tuviese por bien
-                        de perdonar a aquel pecador y volverle en su salud y sano juicio y lanzar de
-                        él el demonio, si <name type="religious" corresp="#Dios">Su Majestad</name>
-                        había permitido que por su gran pecado en él entrase.</p>
+                    <p>Y así, bajó del púlpito y encomendó
+                        <!--pienso que es aqui en vez de a que-->a que muy devotamente suplicasen a
+                            <name type="religious" corresp="#Dios">nuestro Señor</name> tuviese por
+                        bien de perdonar a <pb n="59r" facs="Medina-1554_059.jpg"/>aquel pecador y
+                        volverle en su salud y sano juicio y lanzar de él el demonio, si <name
+                            type="religious" corresp="#Dios">Su Majestad</name> había permitido que
+                        por su gran pecado en él entrase.</p>
                     <p>Todos se hincaron de rodillas y delante del altar, con los clérigos,
                         comenzaban a cantar con voz baja una letanía; y viniendo él con la cruz y
                         agua bendita, después de haber sobre él <!-- es el alguacil o buldero? -->
-                        cantado, el señor mi amo, puestas
-                        las manos al cielo y los ojos que casi nada se le parecía, sino un poco de
-                        blanco, comienza una oración no menos larga que devota, con la cual hizo
-                        llorar a toda la gente, como suelen hacer en los sermones de Pasión, de
-                        predicador y auditorio devoto, suplicando a <name type="religious"
-                            corresp="#Dios">Nuestro Señor</name>, pues no quería la muerte del
-                            <!--es importante marcarlo como alguacil?-->pecador, sino su vida y
-                        arrepentimiento, que aquél, encaminado por el demonio y persuadido de la
-                        muerte y pecado, le quisiese perdonar y dar vida y salud, para que se
-                        arrepintiese y confesase sus pecados.</p>
+                        cantando. El señor mi amo, puestas las manos al cielo y los ojos que casi
+                        nada se le parecía, sino un poco de blanco, comienza una oración no menos
+                        larga que devota, con la cual hizo llorar a toda la gente como suelen hacer
+                        en los sermones de Pasión, de predicador y auditorio devoto, suplicando a
+                            <name type="religious" corresp="#Dios">Nuestro Señor</name>, pues no
+                        quería la muerte del <!--necesitamos el alguacil aqui?-->pecador, sino su
+                        vida y arrepentimiento, que aquél, encaminado por el demonio y persuadido de
+                        la muerte y pecado, le quisiese perdonar y dar <pb n="60l"
+                            facs="Medina-1554_060.jpg"/>vida y salud, para que se arrepintiese y
+                        confesase sus pecados.</p>
                     <p>Y esto hecho, mandó traer la bula y púsosela en la cabeza. Y luego el pecador
                         del <persName corresp="#alguacil2">alguacil</persName> comenzó poco a poco a
                         estar mejor y tornar en sí. Y desque fue bien vuelto en su acuerdo, echóse a
@@ -2007,32 +2013,32 @@
                         del demonio; lo uno, por hacer a él daño y vengarse del enojo; lo otro, y
                         más principal, porque el demonio recibía mucha pena del bien que allí se
                         hiciera en tomar la bula.</p>
-                    <p>El señor mi amo le perdonó, y fueron
-                        hechas las amistades entre ellos. Y a tomar la bula hubo tanta prisa, que
-                        casi ánima viviente en el lugar no quedó sin ella: marido y mujer, y hijos y
-                        hijas, mozos y mozas.</p>
-                    <p>Divulgóse la nueva de lo acaecido por los lugares comarcanos y, cuando a
-                        ellos llegábamos, no era menester sermón ni ir a la iglesia, que a la posada
-                        la venían a tomar, como si fueran peras que se dieran de balde. De manera
-                        que, en diez o doce lugares de aquellos alrededores donde fuimos, echó el
-                            señor mi amo otras tantas mil
-                        bulas sin predicar sermón.</p>
+                    <p>El señor mi amo le perdonó, y fueron hechas las amistades entre ellos. Y a
+                        tomar la bula hubo tanta prisa, que casi ánima viviente en el lugar no quedó
+                        sin ella: marido y mujer, y hijos y hijas, mozos y mozas.</p>
+                    <p>Divulgóse la nueva de lo acaecido por los lugares comarcanos <pb n="60r"
+                            facs="Medina-1554_060.jpg"/>y, cuando a ellos llegábamos, no era
+                        menester sermón ni ir a la iglesia, que a la posada la venían a tomar, como
+                        si fueran peras que se dieran de balde. De manera que, en diez o doce
+                        lugares de aquellos alrededores donde fuimos, echó el señor mi amo otras
+                        tantas mil bulas sin predicar sermón.</p>
                     <p>Cuando él hizo el ensayo, confieso mi pecado, que también fui de ello
-                        espantado, y creí que así era, como otros muchos; mas con ver después la
-                        risa y burla que mi amo y el
-                            <persName corresp="#alguacil2">alguacil</persName> llevaban y hacían del
-                        negocio, conocí cómo había sido industriado por el industrioso y inventivo
-                        de mi amo.</p>
-                    <p>2Acaeciónos en otro lugar, el cual no quiero nombrar por su honra, lo
-                        siguiente: y fue que mi amo predicó
+                        espantado, y creí que así era, como otros muchos. Mas con ver después la
+                        risa y burla que mi amo y el <persName corresp="#alguacil2"
+                            >alguacil</persName> llevaban y hacían del negocio, conocí cómo había
+                        sido industriado por el industrioso y inventivo de mi amo.</p>
+                    <!--Esto no existe en la Medina del Campo.-->
+                    <!--<p>2Acaeciónos en otro lugar, el cual no quiero nombrar por su honra, lo
+                        siguiente: y fue que <persName corresp="#buldero">mi amo</persName> predicó
                         dos o tres sermones, y dó a <name type="religious" corresp="#Dios"
-                            >Dios</name> la bula tomaban. Visto por el astuto de mi amo lo que pasaba, y que aunque decía
+                            >Dios</name> la bula tomaban. Visto por el astuto de <persName
+                            corresp="#buldero">mi amo</persName> lo que pasaba, y que aunque decía
                         se fiaban por un año no aprovechaba, y que estaban tan rebeldes en tomarla,
                         y que su trabajo era perdido, hizo tocar las campanas para despedirse y,
                         hecho su sermón y despedido desde el púlpito, ya que se quería abajar, llamó
-                        al <persName corresp="#escribano2">escribano</persName> y a mí, que iba
+                        al <persName corresp="#escribano">escribano</persName> y a mí, que iba
                         cargado con unas alforjas, y hízonos llegar al primer escalón, y tomó al
-                            <persName corresp="#alguacil2">alguacil</persName> las que en las manos
+                            <persName corresp="#alguacil">alguacil</persName> las que en las manos
                         llevaba, y las que yo tenía en las alforjas púsolas junto a sus pies, y
                         tornóse a poner en el púlpito con cara alegre, y arrojar desde allí de diez
                         en diez y de veinte en veinte de sus bulas hacia todas partes diciendo:</p>
@@ -2056,9 +2062,9 @@
                         a <persName corresp="#VuestraMerced">Vuestra Merced</persName> que en poco
                         más de una hora no quedó bula en las alforjas y fue necesario ir a la posada
                         por más.</p>
-                    <p>Acabados de tomar todos, dijo mi amo
-                        desde el púlpito a su <persName corresp="#escribano2">escribano</persName> y
-                        al del Concejo <!-- que es esto --> que se levantasen, y para que se supiese
+                    <p>Acabados de tomar todos, dijo <persName corresp="#buldero">mi amo</persName>
+                        desde el púlpito a su <persName corresp="#escribano">escribano</persName> y
+                        al del Concejo que se levantasen, y para que se supiese
                         quién eran los que habían de gozar de la santa indulgencia y perdones de la
                         santa bula y para que él diese buena cuenta a quien le había enviado, se
                         escribiesen.</p>
@@ -2066,9 +2072,9 @@
                         contando por orden los hijos y criados y difuntos.</p>
                     <p>Hecho su inventario, pidió a los <persName corresp="#alcaldes"
                             >alcaldes</persName> que, por caridad, porque él tenía que hacer en otra
-                        parte, mandasen al <persName corresp="#escribano2">escribano</persName> le
+                        parte, mandasen al <persName corresp="#escribano">escribano</persName> le
                         diese autoridad del inventario y memoria de las que allí quedaban, que según
-                        decía el <persName corresp="#escribano2">escribano</persName> eran más de dos
+                        decía el <persName corresp="#escribano">escribano</persName> eran más de dos
                         mil.</p>
                     <p>Hecho esto, él se despidió con mucha paz y amor, y así nos partimos de este
                         lugar. Y aun, antes que nos partiésemos, fue preguntando él por el teniente
@@ -2077,8 +2083,9 @@
                         letras que él había estudiado, que no, que lo fuesen a preguntar a los
                         doctores más antiguos que él y que esto era lo que sentía en este
                         negocio.</p>
-                    <p>Y así nos partimos, yendo todos muy alegres del buen negocio. Decía mi amo al <persName corresp="#alguacil2"
-                            >alguacil</persName> y <persName corresp="#escribano2"
+                    <p>Y así nos partimos, yendo todos muy alegres del buen negocio. Decía <persName
+                            corresp="#buldero">mi amo</persName> al <persName corresp="#alguacil"
+                            >alguacil</persName> y <persName corresp="#escribano"
                             >escribano</persName>:</p>
                     <sp corresp="#buldero">
                         <p>-¿Qué os parece, cómo a estos villanos, que con sólo decir cristianos
@@ -2090,11 +2097,11 @@
                     <p>Y así nos fuimos hasta otro lugar de aquel, cabo de <placeName
                             corresp="#Toledo">Toledo</placeName>, hacia <placeName xml:id="LaMancha"
                             >la Mancha</placeName> que se dice, adonde topamos otros más obstinados
-                        en tomar bulas. Hechas mi amo y los
+                        en tomar bulas. Hechas <persName corresp="#buldero">mi amo</persName> y los
                         demás que íbamos nuestras diligencias, en dos fiestas que allí estuvimos, no
-                        se habían echado treinta bulas. Visto por mi
-                            amo la gran perdición y la mucha costa que traía, y el
-                        ardideza que el sutil de mi amo tuvo
+                        se habían echado treinta bulas. Visto por <persName corresp="#buldero">mi
+                            amo</persName> la gran perdición y la mucha costa que traía, y el
+                        ardideza que el sutil de <persName corresp="#buldero">mi amo</persName> tuvo
                         para hacer despender sus bulas fue que este día dijo la misa mayor y,
                         después de acabado el sermón y vuelto al altar, tomó una cruz que traía de
                         poco más de un palmo, y en un brasero de lumbre que encima del altar había,
@@ -2109,7 +2116,7 @@
                         Y el primero que llegó, que era un <persName corresp="#alcaldes"
                             >alcalde</persName> viejo, aunque él le dio a besar la cruz bien
                         delicadamente, se abrasó los rostros y se quitó presto afuera. Lo cual visto
-                        por mi amo, le dijo:</p>
+                        por <persName corresp="#buldero">mi amo</persName>, le dijo:</p>
                     <sp corresp="#buldero">
                         <p>-¡Paso, quedo, <persName corresp="#alcaldes">señor alcalde</persName>!
                             ¡Milagro!</p>
@@ -2142,16 +2149,16 @@
                         veces yo lo tenía de costumbre, y como allí me vio, púsose el dedo en la
                         boca, haciéndome señal que callase. Yo así lo hice, por que me cumplía,
                         aunque, después que vi el milagro, no cabía en mí por echallo fuera, sino
-                        que el temor de mi astuto amo no me
+                        que el temor de <persName corresp="#buldero">mi astuto amo</persName> no me
                         lo dejaba comunicar con nadie, ni nunca de mí salió, porque me tomó
-                        juramento que no descubriese el milagro y así lo hice hasta agora.</p>
+                        juramento que no descubriese el milagro y así lo hice hasta agora.</p>-->
                     <p>Y, aunque muchacho, cayóme mucho en gracia, y dije entre mí: <said
                             who="#Lazaro">«¡Cuántas de éstas deben hacer estos burladores entre la
                             inocente gente!»</said>.</p>
-                    <p>Finalmente, estuve con este mi quinto
-                            amo cerca de cuatro meses, en los cuales pasé también hartas
-                        fatigas, aunque me daba bien de comer, a costa de los curas y otros clérigos
-                        do iba a predicar.</p>
+                    <p>Finalmente, estuve con este mi quinto amo cerca de cuatro meses, en los
+                        cuales pasé también hartas fatigas.
+                        <!--esta parte no existe en el manuscrito--><!--aunque me daba bien de comer, a costa de los curas y otros clérigos
+                        do iba a predicar.--></p>
                 </div>
             </div>
             <div xml:id="tratado6">
@@ -2160,23 +2167,24 @@
                     con <persName corresp="#capellan">un capellán,</persName> y lo que con él
                     pasó</head>
                 <div type="texto">
-                    <p>Después de esto, asenté con <persName corresp="#pintor">un maestro de pintar
-                            panderos</persName>, para molelle los colores, y también sufrí mil
-                        males.</p>
+                    <p><pb n="61l" facs="Medina-1554_061.jpg"/>Después de esto, asenté con <persName
+                            corresp="#pintor">un maestro de pintar panderos</persName>, para molelle
+                        los colores, y también sufrí mil males.</p>
                     <p>Siendo ya en este tiempo buen mozuelo, entrando un día en la iglesia mayor,
-                        un <persName corresp="#capellan">capellán</persName> de ella me recibió por
-                        suyo, y púsome en poder un asno y cuatro cántaros y un azote, y comencé a
-                        echar agua por la ciudad. Éste fue el primer escalón que yo subí para venir
-                        a alcanzar buena vida, porque mi boca era medida. Daba cada día a mi amo treinta maravedís ganados, y los
-                        sábados ganaba para mí, y todo lo demás, entre semana, de treinta
+                        un <persName corresp="#capellan">capellán</persName> de ella me recibió <pb
+                            n="61r" facs="Medina-1554_061.jpg"/>por suyo, y púsome en poder un buen
+                        asno y cuatro cántaros y un azote, y comencé a echar agua por la ciudad.
+                        Éste fue el primer escalón que yo subí para venir a alcanzar buena vida,
+                        porque mi boca era medida. Daba cada día a mi amo treinta maravedís ganados,
+                        y los sábados ganaba para mí, y todo lo demás, entre semana, de treinta
                         maravedís.</p>
                     <p>Fueme tan bien en el oficio que, al cabo de cuatro años que lo usé, con poner
                         en la ganancia buen recaudo, ahorré para vestirme muy honradamente de la
                         ropa vieja, de la cual compré un jubón de fustán viejo, y un sayo raído de
                         manga trenzada y puerta, y una capa que había sido frisada, y una espada de
                         las viejas primeras de <placeName xml:id="Cuellar">Cuéllar.</placeName>
-                        Desque me vi en hábito de hombre de bien, dije a mi amo se tomase su asno, que no quería
-                        más seguir aquel oficio.</p>
+                        Desque me vi en hábito de hombre de bien, dije a mi amo se tomase su asno,
+                        que no quería más seguir aquel oficio.</p>
                 </div>
             </div>
             <div xml:id="tratado7">
@@ -2185,12 +2193,13 @@
                     con un, <persName corresp="#alguacil3">alguacil</persName> y de lo que le
                     acaeció con él</head>
                 <div type="texto">
-                    <p>Despedido del <persName corresp="#capellan">capellán</persName>, asenté por
-                        hombre de justicia con un <persName corresp="#alguacil3"
-                        >alguacil</persName>; mas muy poco viví con él, por parecerme oficio
-                        peligroso. Mayormente que una noche nos corrieron a mí y a mi amo a pedradas
-                        y a palos unos retraídos. Y a mi amo, que esperó, trataron mal; mas a mí no
-                        me alcanzaron. Con esto renegué del trato.</p>
+                    <p><pb n="62l" facs="Medina-1554_062.jpg"/>Despedido del <persName
+                            corresp="#capellan">capellán</persName>, asenté por hombre de justicia
+                        con un <persName corresp="#alguacil3">alguacil</persName>; mas muy poco viví
+                        con él, por parecerme oficio peligroso. Mayormente que una noche nos
+                        corrieron a mí y a mi amo a pedradas y a palos unos retraídos. Y a mi amo,
+                        que esperó, <pb n="62r" facs="Medina-1554_062.jpg"/>trataron mal; mas a mí
+                        no me alcanzaron. Con esto renegué del trato.</p>
                     <p>Y pensando en qué modo de vivir haría mi asiento, por tener descanso y ganar
                         algo para la vejez, quiso <name type="religious" corresp="#Dios">Dios</name>
                         alumbrarme y ponerme en camino y manera provechosa. Y con favor que tuve de
@@ -2201,18 +2210,20 @@
                             corresp="#VuestraMerced">Vuestra Merced</persName>. Y es que tengo cargo
                         de pregonar los vinos que en esta ciudad se venden, y en almonedas y cosas
                         perdidas, acompañar los que padecen persecuciones por justicia y declarar a
-                        voces sus delitos: pregonero, hablando en buen romance.</p>
-                    <p>En el cual oficio, un día que ahorcábamos un apañador en Toledo, y llevaba
+                        voces sus delitos, pregonero, hablando en buen romance.</p>
+                    <!--esto no existe en el manuscrito-->
+                    <!--<p>En el cual oficio, un día que ahorcábamos un apañador en Toledo, y llevaba
                         una buena soga de esparto, conocí y caí en la cuenta de la sentencia que
                         aquel mi ciego amo había dicho en <placeName>Escalona</placeName>, y me
                         arrepentí del mal pago que le di, por lo mucho que me enseñó, que, después
                         de <name type="religious" corresp="#Dios">Dios</name>, él me dio industria
-                        para llegar al estado que ahora estoy.</p>
-                    <p>Hame sucedido tan bien, y yo le he usado tan fácilmente, que casi todas las
-                        cosas al oficio tocantes pasan por mi mano, tanto que, en toda la ciudad, el
-                        que ha de echar vino a vender, o algo, si <persName corresp="#Lazaro">Lázaro
-                            de Tormes</persName> no entiende en ello, hacen cuenta de no sacar
-                        provecho.</p>
+                        para llegar al estado que ahora estoy.</p>-->
+                    <p>Hame sucedido <!--originalmente fuera tan bien, y yo-->también, yo le <pb
+                            n="63l" facs="Medina-1554_063.jpg"/>he usado tan fácilmente, que casi
+                        todas las cosas al oficio tocantes pasan por mi mano, tanto que, en toda la
+                        ciudad, el que ha de echar vino a vender, o algo, si <persName
+                            corresp="#Lazaro">Lázaro de Tormes</persName> no entiende en ello, hacen
+                        cuenta de no sacar provecho.</p>
                     <p>En este tiempo, viendo mi habilidad y buen vivir, teniendo noticia de mi
                         persona el <persName corresp="#arcipreste">señor arcipreste</persName> de
                             <placeName>San Salvador</placeName>, mi señor, y servidor y amigo de
@@ -2221,19 +2232,21 @@
                         de tal persona no podía venir sino bien y favor, acordé de hacerlo. Y así,
                         me casé con ella, y hasta agora no estoy arrepentido, porque, allende de ser
                         buena hija y diligente servicial, tengo en mi señor arcipreste todo favor y
-                        ayuda. Y siempre en el año le da, en veces, al pie de una carga de trigo;
-                        por las Pascuas, su carne; y cuando el par de los bodigos, las calzas viejas
-                        que deja. E hízonos alquilar una casilla par de la suya; los domingos y
-                        fiestas casi todas las comíamos en su casa.</p>
+                        ayuda. Y siempre en el año le da, en veces, al pie de una carga de <pb
+                            n="63r" facs="Medina-1554_063.jpg"/>trigo; por las Pascuas, su carne; y
+                        cuando el par de los bodigos, las calzas viejas que deja. E hízonos alquilar
+                        una casilla par de la suya; los domingos y fiestas casi todas las comíamos
+                        en su casa.</p>
                     <p>Mas malas lenguas, que nunca faltaron ni faltarán, no nos dejan vivir,
                         diciendo no sé qué y sí sé qué, de que ven a mi mujer irle a hacer la cama y
-                        guisalle de comer. Y mejor les ayude Dios, que ellos dicen la verdad, aunque
+                        guisalle de comer. Y mejor les ayude Dios, que ellos dicen la verdad.
+                        <!--no está en el manuscrito--><!--aunque
                         en este tiempo siempre he tenido alguna sospechuela y habido algunas malas
                         cenas por esperalla algunas noches hasta las laudes, y aún más, y se me ha
                         venido a la memoria lo que a mi amo el ciego me dijo en <placeName
                             xml:id="Escalona">Escalona</placeName>, estando asido del cuerno;
                         aunque, de verdad, siempre pienso que el diablo me lo trae a la memoria por
-                        hacerme malcasado, y no le aprovecha.</p>
+                        hacerme malcasado, y no le aprovecha.</p>--></p>
                     <p>Porque allende de no ser ella mujer que se pague de estas burlas, mi señor me
                         ha prometido lo que pienso cumplirá; que él me habló un día muy largo
                         delante de ella y me dijo:</p>
@@ -2241,25 +2254,27 @@
                         <p>-<persName corresp="#Lazaro">Lázaro de Tormes</persName>, quien ha de
                             mirar a dichos de malas lenguas nunca medrará. Digo esto, porque no me
                             maravillaría alguno, viendo entrar en mi casa a tu mujer y salir de
-                            ella. Ella entra muy a tu honra y suya. Y esto te lo prometo. Por tanto,
-                            no mires a lo que pueden decir, sino a lo que te toca, digo, a tu
-                            provecho.</p>
+                            ella. Ella entra muy a tu honra <pb n="64l" facs="Medina-1554_064.jpg"
+                            />y suya. Y esto te lo prometo. Por tanto, no mires a lo que pueden
+                            decir, sino a lo que te toca, digo, a tu provecho.</p>
                     </sp>
                     <sp who="#Lazaro">
-                        <p>-<!--es importante marcar arcipriste aqui?-->Señor -le dije-, yo determiné
-                            de arrimarme a los buenos. Verdad es que algunos de mis amigos me han
-                            dicho algo de eso, y aun por más de tres veces me han certificado que,
-                            antes que conmigo casase, había parido tres veces, hablando con
-                            reverencia de Vuestra Merced, porque está ella delante.</p>
+                        <p>-<!--es necesario marcarlo como arciprise?-->Señor -le dije-, yo
+                            determiné de arrimarme a los buenos. Verdad es que algunos de mis amigos
+                            me han dicho algo de eso, y aun por más de tres veces me han certificado
+                            que, antes que conmigo casase, había parido tres veces, hablando con
+                            reverencia de <persName corresp="#VuestraMerced">Vuestra
+                                Merced</persName>, porque está ella delante.</p>
                     </sp>
                     <p>Entonces mi mujer echó juramentos sobre sí, que yo pensé la casa se hundiera
                         con nosotros. Y después tomóse a llorar y a echar maldiciones sobre quien
-                        conmigo la había casado, en tal manera que quisiera ser muerto antes que se
+                        conmigo la había casado. En tal manera que quisiera ser muerto antes que se
                         me hubiera soltado aquella palabra de la boca. Mas yo de un cabo y mi señor
                         de otro, tanto le dijimos y otorgamos que cesó su llanto, con juramento que
-                        le hice de nunca más en mi vida mentalle nada de aquello, y que yo holgaba y
-                        había por bien de que ella entrase y saliese de noche y de día, pues estaba
-                        bien seguro de su bondad. Y así quedamos todos tres bien conformes.</p>
+                        le hice de <pb n="64r" facs="Medina-1554_064.jpg"/>nunca más en mi vida
+                        mentalle nada de aquello, y que yo holgaba y había por bien de que ella
+                        entrase y saliese de noche y de día, pues estaba bien seguro de su bondad. Y
+                        así quedamos todos tres bien conformes.</p>
                     <p>Hasta el día de hoy nunca nadie nos oyó sobre el caso; antes, cuando alguno
                         siento que quiere decir algo de ella, le atajo y le digo:</p>
                     <sp who="#Lazaro">
@@ -2268,17 +2283,27 @@
                             con mi mujer, que es la cosa del mundo que yo más quiero, y la amo más
                             que a mí, y me hace Dios con ella mil mercedes y más bien que yo
                             merezco. Que yo juraré sobre la hostia consagrada que es tan buena mujer
-                            como vive dentro de las puertas de <placeName>Toledo</placeName>. Quien
-                            otra cosa me dijere, yo me mataré con él.</p>
+                            como vive dentro de las puertas de <placeName>Toledo</placeName>. Y
+                            quien otra cosa me dijere, yo me mataré con él.</p>
                     </sp>
-                    <p>De esta manera no me dicen nada, y yo tengo paz en mi casa.</p>
-                    <p>Esto fue el mismo año que nuestro victorioso Emperador en esta insigne ciudad
-                        de <placeName>Toledo</placeName> entró y tuvo en ella Cortes, y se hicieron
-                        grandes regocijos, como <persName corresp="#VuestraMerced">Vuestra
-                            Merced</persName>habrá oído. Pues en este tiempo estaba en mi
-                        prosperidad y en la cumbre de toda buena fortuna.</p>
-                    <p>De lo que de aquí adelante me sucediere, avisaré a <persName
-                            corresp="#VuestraMerced">Vuestra Merced</persName>.</p>
+                    <p>De esta <pb n="65l" facs="Medina-1554_065.jpg"/>manera no me dicen nada, y yo
+                        tengo paz en mi casa.</p>
+                    <p>Esto fue el mismo año que nuestro victorioso <persName corresp="#CarlosV"
+                            >Emperador</persName> en esta insigne ciudad de
+                            <placeName>Toledo</placeName> entró y tuvo en ella
+                        <!--FK no tiene mayusculo en el original con cortes en el original--><!--FK es un personaje?-->Cortes,
+                        y se hicieron grandes regocijos y fiestas, como <persName
+                            corresp="#VuestraMerced">Vuestra Merced</persName> habrá oído. Pues en
+                        este tiempo estaba en mi prosperidad, y en la cumbre de toda buena
+                        fortuna.</p>
+                    <!--esto no existe en el manuscrito-->
+                    <!--<p>De lo que de aquí adelante me sucediere, avisaré a <persName
+                            corresp="#VuestraMerced">Vuestra Merced</persName>.</p>-->
+                    <!--aqui el manuscrito tiene una descripcion del imprimador-->
+                    <p>Fue impressa la presente obra en la muy noble villa de <placeName
+                            xml:id="MedinadelCampo">Medina del Campo</placeName> en la imprenta de
+                        Mattheo y Francisco del Canto hermanos. Acabóse a primero del mes de Marzo.
+                        Año de 1554.</p>
                 </div>
             </div>
         </body>
@@ -2289,126 +2314,210 @@
                 <listPerson type="historicos">
                     <head>Lista de personajes históricos</head>
                     <person xml:id="Plinio">
-                        <persName>Plinio</persName>
-                        <note>Gayo Plinio Segundo (23-79) fue un militar, escritor, naturalista y filósofo romano que creía en el estoicismo y el epicureísmo. Su obra más famosa es un enciclopedia llamada Naturalis Historia que contiene treinta y siete libros en los cuales hace gala de sus extensos conocimientos  ciencias naturales. Plinio murió durante la famosa  erupción del Vesubio del año 79.</note>
+                        <persName>Gayo Plinio Segundo <date>(23-79)</date></persName>
+                        <note>fue un militar, escritor, naturalista y filósofo romano que creía en
+                            el estoicismo y el epicureísmo. Su obra más famosa es un enciclopedia
+                            llamada Naturalis Historia que contiene treinta y siete libros en los
+                            cuales hace gala de sus extensos conocimientos de ciencias naturales.
+                            Plinio murió durante la famosa erupción del Vesubio del año 79.</note>
                     </person>
 
                     <person xml:id="Ciceron">
-                        <persName>Cicerón</persName>
-                        <note>Marco Tulio Cicerón (104 a. C.-43 a. C.) fue un abogado, escritor, filósofo y político romano. Es conocido por ser el maestro de la retórica y la elocuencia latina. Muchas de sus obras tratan sobre la historia romana con un enfoque político.Cicerón participó activamente en la vida pública, llegando a ser cónsul. Uno de los episodios más famosos fue el descubrimiento de la conspiración de Catilina, en la que se pretendía derrocar al gobierno. Después de la muerte de César, Cicerón desafió a Marco Antonio y como consecuencia, terminó sus días en el exilio.
-                        </note>
+                        <persName>Marco Tulio Cicerón <date>(104 a. C.-43 a. C.)</date></persName>
+                        <note>fue un abogado, escritor, filósofo y político romano. Es conocido por
+                            ser el maestro de la retórica y la elocuencia latina. Muchas de sus
+                            obras tratan sobre la historia romana con un enfoque político. Cicerón
+                            participó activamente en la vida pública, llegando a ser cónsul. Uno de
+                            los episodios más famosos fue el descubrimiento de la conspiración de
+                            Catilina, en la que se pretendía derrocar al gobierno. Después de la
+                            muerte de César, Cicerón desafió a Marco Antonio y como consecuencia,
+                            terminó sus días en el exilio.</note>
                     </person>
                     <person xml:id="AlejandroMagno">
-                        <persName>Alejandro Magno</persName>
-                        <note>Un rey famoso de Macedonia conocido por su imperio largo de Asia y África. Lázaro compara la avaricia del ciego con la avaricia de Alejandro Magno.</note>
+                        <persName>Alejandro Magno <date>(356 a.C. - 323 a.C.)</date></persName>
+                        <note>fue un rey famoso de Macedonia conocido por extender su imperio en
+                            Asia y África. Lázaro compara la avaricia del ciego con la avaricia de
+                            Alejandro Magno.</note>
                     </person>
                     <person xml:id="Penelope">
                         <persName>Penélope</persName>
-                        <note>La esposa de Odiseo que cada noche por muchos años desató su tejido para retrasar su boda con uno de los pretendientes. Como Lázaro, ella también hace engaños en la noche para cuidar a sus propios deseos.</note>
+                        <note>La esposa de Odiseo que cada noche durante muchos años destejía por la
+                            noche lo que había tejido durante el día para retrasar su boda con uno
+                            de los pretendientes. Como ella, Lázaro también planea engaños durante
+                            la noche para velar por sus propios intereses.</note>
                     </person>
                     <person xml:id="Ovidio">
-                        <persName>Ovidio</persName>
-                        <name>Ovidio es un poeta romano que vivió durante el reinado de Augusto. A menudo es clasificado como uno de los tres poetas canónicos de la literatura latina junto con Virgilio y Horacio.</name>
+                        <persName>Ovidio <date>(43 a.C.- 17)</date></persName>
+                        <note>Ovidio es un poeta romano que vivió durante el reinado de Augusto. A
+                            menudo es clasificado como uno de los tres poetas canónicos de la
+                            literatura latina junto con Virgilio y Horacio.</note>
                     </person>
                     <person xml:id="Santo_Tomas">
-                        <persName>santo Tomás</persName>
-                        <note>Tomás de Aquino es uno de los filósofos más relevantes de la Edad Media. Él es también conocido como Doctor Angélico, Doctor Común y Doctor de la Humanidad. Su obra más famosas es la Summa theologiae.</note>
+                        <persName>Tomás de Aquino <date>(1224/1225 - 1274)</date></persName>
+                        <note>es uno de los filósofos más relevantes de la Edad Media. Él es también
+                            conocido como Doctor Angélico, Doctor Común y Doctor de la Humanidad. Su
+                            obra más famosas es la <title>Summa theologiae</title>.</note>
+                    </person>
+                    <person xml:id="Antonio">
+                        <persName>Antonio</persName>
+                        <note>El escudero se refiere a un espadero famoso que, como explican R.
+                            Menéndez Pidal y F. Rico (p. 51), firmó la espada del mismo rey Fernando
+                            el Católico, conservada en la actualidad en la Armería Real de
+                            Madrid.</note>
+                    </person>
+                    <person xml:id="CarlosV">
+                        <persName>Carlos I de España y V del Sacro Imperio Romano Germánico (1500 -
+                            1558)</persName>
+                        <note>fue hijo de Juana I de Castilla (la Loca) y Felipe I el Hermoso. Reinó
+                            los territorios hispánicos con el nombre de Carlos I hasta el 1516, una
+                            vez muerto su abuelo paterno, Maximiliano I de Hasburgo, heredó el Sacro
+                            Imperio Romano Germánico adoptando el nombre de Carlos V.</note>
                     </person>
                 </listPerson>
 
                 <listPerson type="per_Laz">
+                    <head>Lista de personajes en la novela</head>
                     <person xml:id="VuestraMerced">
                         <persName>Vuestra Merced</persName>
-                        <note>Vuestra Merced se refiere al lector a quien Lázaro se dirige. El término es el equivalente al “usted” moderno  e implica respeto así como la consciencia de dirigirse a un público. 
-                        </note>
+                        <note> se refiere al lector a quien Lázaro se dirige. El término es el
+                            equivalente al “usted” moderno e implica respeto así como la consciencia
+                            de dirigirse a un público.</note>
                     </person>
                     <person xml:id="Lazaro">
                         <persName>Lázaro</persName>
-                        <note>Lázaro, o “Lazarillo”, es el protagonista de la obra desde cuya perspectiva el libro está escrito. Nacido en el seno de una familia pobre que no puede alimentarlo, Lazarillo pasa al servicio de  diversos amos que le infligen duras condiciones de vida siendo el hambre su principal preocupación. A lo largo de su niñez y adolescencia y de las aventuras en las que se ve envuelto, Lazarillo aprende a ser asusto y a sobrevivir. </note>
+                        <note>es el protagonista de la obra desde cuya perspectiva el libro está
+                            escrito. Nacido en el seno de una familia pobre que no puede
+                            alimentarlo, Lázaro pasa al servicio de diversos amos que le infligen
+                            duras condiciones de vida siendo el hambre su principal preocupación. A
+                            lo largo de su niñez y adolescencia y de las aventuras en las que se ve
+                            envuelto, aprende a ser asusto y a sobrevivir.</note>
                     </person>
                     <person xml:id="TomeGonzalez">
                         <persName>Tomé González</persName>
-                        <note>Tomé González es el padre biológico de Lazarillo. Molinero de profesión durante más de quince años, es detenido por robar y obligado a servir en la armada contra los moros, donde encuentra la muerte. Lazarillo contaba sólo con ocho años.</note>
+                        <note>es el padre biológico de Lázaro. Molinero de profesión durante más de
+                            quince años, es detenido por robar y obligado a servir en la armada
+                            contra los moros, donde encuentra la muerte, cuando Lázaro contaba sólo
+                            con ocho años.</note>
                     </person>
                     <person xml:id="AntonaPerez">
                         <persName>Antona Pérez</persName>
-                        <note>Antona Pérez es la madre de Lazarillo. Después de la muerte de su primer esposo Tomé, Antona establece una relación  con Zaide, con quien tiene otro hijo. Debido a las duras condiciones de vida  es castigada por robar, y al no poder hacerse cargo de sus hijos, decide confiar a Lazarillo al que será su primer amo, el ciego.</note>
+                        <note>es la madre de Lázaro. Después de la muerte de su primer esposo Tomé,
+                            Antona establece una relación con Zaide, con quien tiene otro hijo.
+                            Debido a las duras condiciones de vida es castigada por robar, y al no
+                            poder hacerse cargo de sus hijos, decide confiar a su hijo mayor al que
+                            será su primer amo, el ciego.</note>
                     </person>
                     <person xml:id="Magdalena">
                         <persName>Comendador de la Magdalena</persName>
+                        <note>es un personaje todavía no identificado. Para las diversas propuestas
+                            ofrecidas, véase el artículo de <ref
+                                ana="http://parnaseo.uv.es/Lemir/Revista/Revista14/16_Vaquero_Carmen.pdf"
+                                >Vaquero Serrano</ref>.</note>
                     </person>
                     <person xml:id="Zaide">
                         <persName>Zaide</persName>
-                        <note>Zaide es el padrastro de Lázaro. El texto le describe como “un hombre moreno” que se cuida de “las bestias.” Su relación con Zaide muestra la clase social muy baja de Lázaro y su madre, especialmente después que su padrastro es arrestado por tomando parte de la comida de los animales para su familia.</note>
+                        <note>es el padrastro de Lázaro, pues mantiene una relación amorosa con su
+                            madre de la que nace un niño. El texto le describe como “un hombre
+                            moreno” que se encarga de “las bestias”. Zaide es arrestado por robar
+                            comida y utensilios que ofrecía a Antona Pérez y sus hijos.</note>
                     </person>
                     <person xml:id="hermanastro">
-                        <persName>un negrito</persName>
-                        <note>El hermanastro de Lázaro es hijo de Zaide, el segundo compañero de Antona Pérez, y la madre de Lázaro.</note>
+                        <persName>Hermanastro</persName>
+                        <note>al que Lázaro llama "negrito" es hijo de Zaide y su madre
+                            Antona.</note>
                     </person>
                     <person xml:id="ciego">
-                        <persName>un ciego</persName>
-                        <note>El ciego es el primer amo de Lázaro. De este personaje, Lázaro aprende la mayoría de sus engaños. Al fin, Lázaro decide huir cansado de las penurias y el hambre que el ciego le hace sufrir. El ciego, en este tratado, es referido como “el cruel ciego,” “el maldito ciego” y “el mal ciego.”</note>
+                        <persName>El Ciego</persName>
+                        <note>es el primer amo de Lázaro. De este personaje aprende la mayoría de
+                            sus engaños. Al fin, Lázaro decide huir cansado de las penurias y el
+                            hambre que el ciego le hace sufrir. En este primer tratado es calificado
+                            como “el cruel ciego,” “el maldito ciego” y “el mal ciego.”</note>
                     </person>
                     <person xml:id="clerigo">
-                        <persName>clérigo</persName>
-                        <note>El clérigo es el segundo amo de Lázaro, después del ciego. Es parte de la clase media baja y tampoco le da suficiente comida para sobrevivir, el mayor problema de Lázaro. Aunque no es tan sardónico que el ciego, es tan cruel.</note>
+                        <persName>El Clérigo</persName>
+                        <note>es el segundo amo de Lázaro, después del ciego. Es parte de la clase
+                            media baja y tampoco le da suficiente comida para sobrevivir, el mayor
+                            problema de Lázaro. Aunque no es tan astuto como el ciego, es muy
+                            cruel.</note>
                     </person>
                     <person xml:id="escudero">
-                        <persName>escudero</persName>
+                        <persName>El Escudero</persName>
+                        <note>es el tercer amo de Lázaro. Al conocerlo y verlo bien vestido, el
+                            protagonista cree que con éste se acabarán sus penúrias, pero se
+                            equivoca. El escudero está anclado los antiguos principios de la nobleza
+                            y la honra, que le impiden trabajar y por consiguiente satisfacer sus
+                            necesidades mínimas, como pagar un alquiler o alimentarse. Con este
+                            personaje, es Lázaro el que tendrá que proveer comida para ambos.
+                        </note>
                     </person>
                     <person xml:id="alguacil1">
-                        <persName>alguacil</persName>
+                        <persName>Alguacil</persName>
+                        <note>esta figura aparece en varios tratados ejerciendo encargos públicos, y
+                            siempre es retratado como una persona corrupta.
+                            <!--necesitamos una nueva porque tenemos mas alguaciles?--></note>
                     </person>
                     <person xml:id="fraile">
-                        <persName>fraile de la Merced</persName>
-                        <note>El fraile es el cuarto amo de Lazarillo. A este no le interesa mucho la comida o los deberes en el convento, sino siempre está afuera buscando eventos más interesantes. Él rompe más zapatos que todo el convento porque siempre está caminando.</note>
+                        <persName>Fraile de la Merced</persName>
+                        <note>es el cuarto amo de Lázaro. A éste no le interesa mucho la comida o
+                            los deberes en el convento, pues siempre está afuera buscando eventos
+                            más interesantes. Según el protagonista, el fraile es el que rompe más
+                            zapatos de todo el convento porque siempre está caminando.</note>
                     </person>
                     <person xml:id="capellan">
-                        <persName>un capellán</persName>
-                        <note>El capellán es el séptimo amo de Lázaro, después de haber trabajado al servicio de un pintor. Por primera vez, Lázaro empieza a trabajar a cambio de dinero en lugar de solo por alimento. Con este amo  logra comprarse buena ropa y, al fin, se despide de su trabajo con vistas a un trabajo mejor. </note>
+                        <persName>Capellán</persName>
+                        <note>es el séptimo amo de Lázaro, después de haber trabajado al servicio de
+                            un pintor. Por primera vez, Lázaro empieza a trabajar a cambio de dinero
+                            en lugar de sólo por alimento. Con este amo logra comprarse ropa buena
+                            y, al fin, se despide con vistas a un trabajo mejor.</note>
                     </person>
                     <person xml:id="pintor">
-                        <persName>un maestro de pintar panderos</persName>
-                        <note>El sexto amo de Lázaro es el pintor, para el cual empieza a trabajar por dinero a cambio de mezclar los colores para sus pinturas. Esta figura permite al autor - protagonista trazar la nueva clase de artesanos que empezaba a consolidarse en estos años del del Renacimiento.</note>
+                        <persName>Maestro de pintar panderos</persName>
+                        <note>es el sexto amo de Lázaro, para el cual empieza a trabajar por dinero
+                            a cambio de mezclar los colores para sus pinturas. Esta figura permite
+                            al protagonista presentar la nueva clase de los artesanos que empezaba a
+                            consolidarse en estos años del Renacimiento.</note>
                     </person>
                     <person xml:id="buldero">
-                        <persName>buldero</persName>
-                        <note>El buldero es el quinto amo de Lazarillo. A pesar de su oficio religioso, el buldero es un personaje corrupto interesado solamente en vender las indulgencias para mejorar su hacienda.</note>
+                        <persName>Buldero</persName>
+                        <note>es el quinto amo de Lázaro. A pesar de su oficio religioso, el buldero
+                            es un personaje corrupto interesado solamente en vender las indulgencias
+                            para mejorar su hacienda.</note>
                     </person>
-                    <person xml:id="alguacil">
-                        <persName>alguacil</persName>
-                        <note>El alguacil aparece en varios tratados ejerciendo encargos públicos, y siempre es retratado como una persona corrupta.
-                        </note><!--este posiblemente necesita cambiar con el cambio de marcacion-->
-                    </person>
-                    <person xml:id="alguacil2">
-                        <persName>alguacil</persName>
-                    </person>
+                    <person xml:id="alguacil2"> </person>
+                    <person xml:id="alguacil3"> </person>
                     <person xml:id="escribano">
-                        <persName>escribano</persName>
-                        <note>Un oficial público que copia y da fe de ciertos documentos oficiales. Aquí en el Lazarillo, sirve para copiar y certificar bulas e indulgencias que demanda el clérigo.</note>
+                        <persName>Escribano</persName>
+                        <note>Un oficial público que copia y da fe de ciertos documentos oficiales.
+                            Aquí en el <title>Lazarillo</title>, sirve para copiar y certificar
+                            bulas e indulgencias que demanda el
+                            clérigo.<!--creo que ha cambiado--></note>
                     </person>
                     <person xml:id="alcaldes">
-                        <persName>alcaldes</persName>
-                        <note>El oficial público secular que se encarga de una área municipal. En el Lazarillo, unos ayudan al clérigo a remitir sus bulas e indulgencias y otros aceptan la bulas e indulgencias para ellos mismos.</note>
+                        <persName>Alcaldes</persName>
+                        <note>El oficial público secular que se encarga de una área municipal. En el
+                                <title>Lazarillo</title>, unos ayudan al clérigo a remitir sus bulas
+                            e indulgencias y otros aceptan la bulas e indulgencias para ellos
+                            mismos.</note>
                     </person>
                     <person xml:id="arcipreste">
-                        <persName>señor arcipreste de San Salvador</persName>
-                        <note>El arcipreste pertenece a la clase eclesiástica y de un nombre de iglesias en una área. Después de los servicios prestados al alguacil, el arcipreste invita a Lázaro a se case con una de sus sirvientas.</note>
+                        <persName>Arcipreste de San Salvador</persName>
+                        <note>pertenece a la clase eclesiástica y gestiona las iglesias del área.
+                            Después de los servicios prestados al alguacil, el arcipreste propone a
+                            Lázaro un matrimonio con una de sus sirvientas.</note>
                     </person>
                 </listPerson>
 
                 <listPerson type="genericos">
-                    <person xml:id="donFulano">
-                        <persName>señor don Fulano</persName>
-                    </person>
+                    <head>Lista de personajes genéricos</head>
                     <person xml:id="Macias">
                         <persName>Macías</persName>
-                        <note>Macias es un trovador gallego y uno de los últimos poetas medievales gallegos, del que poco sabemos. Fue el sucesor y compatriota de Juan Rodríguez de la Cámara, escritor español del Prerrenacimiento.
-                        </note>
+                        <note>es un trovador gallego y uno de los últimos poetas medievales
+                            gallegos, del que poco sabemos. Fue el sucesor y compatriota de Juan
+                            Rodríguez de la Cámara, escritor español del Prerrenacimiento.</note>
                     </person>
                     <person xml:id="PascasioGomez">
-                        <persName>licenciado Pascasio Gómez</persName>
-                        <note>No se trata de ningún personaje histórico, sino de una exclamación con uso de un nombre propio para reflejar admiración o maravilla. El “licensiado Pascasio Gómez” no es un personaje histórico ni literario, sino un nombre que se usa en una expresión para reflejar admiración o maravilla.</note>
+                        <persName>Licenciado Pascasio Gómez</persName>
+                        <note>El “licensiado Pascasio Gómez” no es un personaje histórico ni literario, sino un nombre que se usa en una expresión para reflejar admiración o maravilla. </note>
                     </person>
                 </listPerson>
             </div>

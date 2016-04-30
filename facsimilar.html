@@ -1,0 +1,19 @@
+---
+layout: post
+title: La edición facsimilar
+---
+
+<div class="fascimile">
+  {% for image in (1..65) %}
+    {% if image < 10 %}
+    <a href="{{ site.baseurl }}/assets/facsimile/Medina-1554_00{{ image }}.jpg" target="_blank">
+      <img src="{{ site.baseurl }}/assets/facsimile/Medina-1554_00{{ image }}_tn.jpg" alt="Página número {{ image }}" />
+    </a>
+    {% endif %}
+    {% if image >= 10 and image != 18 %}
+    <a href="{{ site.baseurl }}/assets/facsimile/Medina-1554_0{{ image }}.jpg" target="_blank">
+      <img src="{{ site.baseurl }}/assets/facsimile/Medina-1554_0{{ image }}_tn.jpg" alt="Página número {{ image }}" />
+    </a>
+    {% endif %}
+  {% endfor %}
+</div>

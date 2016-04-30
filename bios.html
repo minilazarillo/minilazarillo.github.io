@@ -194,6 +194,7 @@
 ---
 layout: page
 title: Equipo
+order: 3
 ---
 
 <div class="biowrapper">
@@ -201,7 +202,7 @@ title: Equipo
       {% if page.bio == true %}
         <div class="bio">
           <img src="{{ page.img }}" class="photo">
-          <p>{{ page.content }}</p>
+          <p>{{ page.content | markdownify }}</p>
         </div>
       {% endif %}
     {% endfor %}

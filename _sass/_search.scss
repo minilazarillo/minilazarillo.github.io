@@ -1,0 +1,24 @@
+input#search {
+  padding: 20px;
+  font-size: 25px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+  display: block;
+  border-radius: 10px;
+  border: 1px solid;
+  text-align: center;
+  &:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px $med-theme;
+    &::-webkit-input-placeholder { color:transparent; }
+    &::-moz-input-placeholder { color: transparent; }
+    &::-ms-input-placeholder { color: transparent ; }
+    &:-ms-input-placeholder { color:transparent; }
+  }
+}
+
+mark {
+  color: inherit;
+}

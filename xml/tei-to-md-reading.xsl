@@ -27,6 +27,9 @@
             <xsl:value-of select="tei:head[@type='titulo']"/>
             <xsl:text>&#x0A;</xsl:text>
             <xsl:text>author:</xsl:text>
+            <xsl:text>&#x0A;</xsl:text>
+            <xsl:text>mode: reading</xsl:text>
+            <xsl:text>&#x0A;</xsl:text>
             <xsl:value-of select="tei:teiHeader/fileDesc/titleStmt/author"/>
             <xsl:text>editor: Minimal Edition Class&#x0A;</xsl:text>
             <xsl:text>rights: Public Domain&#x0A;</xsl:text>
