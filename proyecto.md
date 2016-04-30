@@ -16,7 +16,11 @@ categories: [Proyecto]
 Este curso se llevó a cabo  como una clase que enseña no solamente la informática, pero también la crítica textual. Como parte del curso, los estudiantes aprendieron la historia de la crítica textual, el proceso de editar, y como la diciplina se ha adaptado a la era digital. Aunque aquí se presenta solo un tipo de edición, los estudiantes aprendieron los varios enfoques que existen bajo la disciplina de la crítica textual.  
 
 ### Tecnologías implicadas
-Para llevar a cabo esta edición, usamos varias tecnologías para transformar nuestro texto a una edición del web. Para el texto del *Lazarillo* y también el índice de personajes, creamos un fichero XML conforme con el estandard del [Text Encoding Initiative (TEI)](http://www.tei-c.org/index.xml). El fichero XML luego se convirtió a varios ficheros Markdown con unos XSL 
+Para llevar a cabo esta edición, usamos varias tecnologías para transformar nuestro texto a una edición del web.
+
+Para el texto del *Lazarillo* y también el índice de personajes, creamos un fichero XML conforme con el estandard del [Text Encoding Initiative (TEI)](http://www.tei-c.org/index.xml). El fichero XML luego se convirtió a varios ficheros Markdown con unos XSL -- uno para la edición de lecutra (xml/tei-to-md-reading.xsl), otro para la edición anotada (xml/tei-to-md-annotated.xsl), y otra para el índice de personajes (xml/tei-to-md-persNames.xsl).
+
+El interfaz web se hizo con [Jekyll](http://jekyllrb.com/) y [Ed](https://github.com/elotroalex/ed). Hemos modificado el HTML y CSS de Ed para nuestra edición. Las anotaciones en la versión anotada usan [balloon.css](http://kazzkiq.github.io/balloon.css/). La mapa se hizo con [Odyssey.js](https://cartodb.github.io/odyssey.js/).
 
 ## Trabajo en equipo
 
