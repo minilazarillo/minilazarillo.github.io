@@ -1,15 +1,14 @@
 ---
-title: Constitución
+title: Nuestra Constitución
 layout: page
 materiales: true
 order: 11
 ---
 
-Nuestra Constitución
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />Nuestra edición se le ofrece al público con una <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Internacional Internacional Creative Commons Attribution 4.0</a>.
 
 El équipo de minilazarillo se pone de acuerdo que:
+
+0. Nuestra edición se le ofrece al público con una <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Licencia Internacional Creative Commons Attribution 4.0</a>.<br><br><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
 
 1. Compartimos el trabajo del proyecto igualmente entre los miembros del grupo.
 2. Reconocemos esta edición como proyecto de grupo y compartimos igualmente el crédito de creación.
