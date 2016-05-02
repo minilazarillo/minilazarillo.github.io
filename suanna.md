@@ -1,8 +1,0 @@
----
-bio: true
-categories: [bio]
-img: /assets/susanna.jpg
----
-**Susanna Allés Torrent,** *Lecturer*. Susanna teaches Digital Humanities in the Department of Latin American and Iberian Cultures. She earned her Ph.D in Romance Studies at the University of Barcelona in 2012, and completed a M.A. in «Nouvelles technologies appliquées à l’histoire» at the École Nationale des Chartes (Paris). She has taught at the University of Barcelona and she has been a postdoctoral fellow at the Spanish National Research Council (CSIC) in Spain. Her research explores several aspects of digital humanities, especially, scholarly digital editions, electronic text analysis, intertextuality and text reuse, and digital lexicography. She also works with the intersection of the Iberian Peninsula and Italy in the Middle Ages and the Renaissance, reconstructing cultural and literary networks between the two.
-
-**Susanna Allés Torrent,** *Docente*. Susanna enseña Humanidades Digitales en el Departamento de Latin American and Iberian Cultures. Se doctoró en Filología Románica por la Universitat de Barcelona en 2012, y completó un M.A. en «Nouvelles technologies appliquées à l’histoire» en la École Nationale des Chartes (París). Ha enseñado en la Universitat de Barcelona y ha sido post-doc en el Consejo Superior de Investigaciones Científicas en España. Su investigación explora diversos aspectos de las HD, con una especial atención a la edición académica digital, el análisis electrónico, la intertextualidad y el reuso de los textos, así como la lexicografía digital. Además, su trabajo se sitúa en la intersección de la Península Ibérica e Italia durante la Edad Media y el Renacimiento, reconstruyendo relaciones culturales y literarias entre ambas penínsulas.
