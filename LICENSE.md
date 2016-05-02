@@ -1,7 +1,7 @@
 ---
 layout: page
 order: 5
-title: Licensia/License
+title: Licencia
 ---
 
 The materials of this project are licensed under [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
