@@ -13,4 +13,12 @@ order: 3
         </div>
       {% endif %}
     {% endfor %}
+    {% for page in site.pages %}
+      {% if page.teacherbio == true %}
+        <div class="bio">
+          <img src="{{ page.img }}" class="photo">
+          <p>{{ page.content | markdownify }}</p>
+        </div>
+      {% endif %}
+    {% endfor %}
 </div>

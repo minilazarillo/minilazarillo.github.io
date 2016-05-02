@@ -1,5 +1,5 @@
 ---
-bio: true
+teacherbio: true
 categories: [bio]
 img: /assets/susanna.jpg
 ---
