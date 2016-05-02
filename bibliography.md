@@ -9,7 +9,7 @@ Recogemos aquí una breve bibliografía utilizada a lo largo del curso. No aspir
 
 ---
 
-## Completar la bibliografía
+## Bibliografía
 
 <p>{% bibliography %}</p>
 
