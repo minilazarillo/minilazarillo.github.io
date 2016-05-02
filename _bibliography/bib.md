@@ -15,6 +15,9 @@
 -	GitHub, [GitHub Guides](https://guides.github.com/) 2015
 -	GitHub, [BootCamp](https://help.github.com/categories/bootcamp/), 2015
 -	Greetham, D. C. *Textual Scholarship: An Introduction*. New York: Garland, 1994	
+-	Grendler, Paul F., ed. “Erasmus, Desiderius Ca. 1466–1536 Dutch Scholar.” Renaissance: An Encyclopedia for Students 2004: 58–59. Print. 4 vols.
+-	Grendler, Paul F., ed. “Luther, Martin 1483–1546 German Religious Reformer.” <i>Renaissance: An Encyclopedia for Students</i> 2004: 32–34. Print. 4 vols.
+-	Grendler, Paul F., ed. “Spanish Language and Literature.” <i>Renaissance: An Encyclopedia for Students</i> 2004: 104–107. Print. 4 vols.
 -	Jekyll Tips, [*Get Started Guide*](http://jekyll.tips/), 2015
 -	Jekyll, [*Documentation*](http://jekyllrb.com/docs/home/), 2015
 -	*Lazarillo de Tormes*, edición, estudio y notas de Francisco Rico. Madrid: Real Academia Española – Barcelona: Galaxia Gutenberg-Círculo de Lectores, 2011
@@ -25,6 +28,8 @@
 -	Merino, Eloy Eduardo. “‘Nuevas Andanzas y Desventuras de Lazarillo de Tormes’: Politica y cultura en el palimpsesto de Camilo Jose Cela.” Ph.D. University of Miami, 1998. ProQuest. Web. 24 Apr. 2016.
 -	Michaud, Thomas. *[Foundations of Web design : introduction to HTML and CSS](http://proquest.safaribooksonline.com.ezproxy.cul.columbia.edu/9780133408270)]*. [San Francisco]: New Riders, [2014]
 -	Modern Language Association, [*Guidelines for Editors of Scholarly Editions*](https://www.mla.org/Resources/Research/Surveys-Reports-and-Other-Documents/Publishing-and-Scholarship/Reports-from-the-MLA-Committee-on-Scholarly-Editions/Guidelines-for-Editors-of-Scholarly-Editions), June 2011
+-	Moll, Jaime. “Hacia La Primera Edición Del ‘Lazarillo.’” <i>Biblioteca Virtual Miguel de Cervantes</i>. N.p., n.d. Web. 27 Apr. 2016.
+-	Murillo, Jesús Cañas. “Una Nueva Edición de ‘Lazarillo de Tormes’ : Medina Del Campo, 1554.” Biblioteca Virtual Miguel de Cervantes. N.p., n.d. Web. 27 Apr. 2016.
 -	Pedraza Jiménez, Felipe B., and Milágros Rodriguez Cáceres. Tafalla: Cenlit Ediciones, 1980. Print.
 -	Pérez Priego, Miguel Ángel. *La edición de textos*. Madrid: Síntesis, 2012
 -	Pierazzo, Elena. *Digital Scholarly Editing. Theories, Models and Methods*. Aldershot: Ashgate, 2015 
@@ -33,6 +38,7 @@
 -	Sahle, Patrick. [“Criteria for Reviewing Scholarly Digital Editions", version 1.1.”](http://www.i-d-e.de/publikationen/weitereschriften/criteria-version-1-1/) *A review journal for digital editions and resources*, IDE, 2014
 -	Sahle, Patrick. “[Digital Modelling (modelling the digital Edition)](http://dixit.uni-koeln.de/wp-content/uploads/2015/04/Camp1-Patrick_Sahle_-_Digital_Modelling.pdf).” *Medieval & Modern Manuscripts Studies in the Digital Age*, 2015
 -	Shopify, [*Liquid*](https://github.com/Shopify/liquid). GitHub, 2015
+-	Simon, Jeremias Clemente. “Descubren la que podría ser segunda edición de ‘El Lazarillo de Tormes.’” El País 28 Dec. 1995. Web. 27 Apr. 2016.
 -	TEI Wiki, “Ways to Publish TEI on the Web,”
 -	Tennen, Dennis, and G. Wythoff, [*“Sustainable Authorship in Plain Text using Pandoc and Markdown.”*](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) *The Programming Historian*, March 19, 2014
 -	Tennen, Dennis. [GiHub](https://github.com/xpmethod/dhnotes/wiki/GitHub), Github, 2015
