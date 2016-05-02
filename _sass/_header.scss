@@ -1,0 +1,16 @@
+div#header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
+  img {
+    max-height: 67px;
+  }
+
+  h3 {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+}
