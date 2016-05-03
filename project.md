@@ -5,11 +5,11 @@ layout: post
 
 ## Context and the Edition
 
-In the context of the course [Minimal Editions: From the Manuscript to the Web](https://github.com/susannalles/MinimalEditions/), taught in the [Department of Latin American and Iberian Cultures](http://laic.columbia.edu/) (Columbia University in the City of New York), we have decided to undertake a pedagogical experiment in which we introduce students to the basic and general principles of textual criticism and the essential technologies so that the students would be able to publish their own digital scholarly editions on their own.
+In the context of the course [Minimal Editions: From the Manuscript to the Web](https://github.com/susannalles/MinimalEditions/), taught in the [Department of Latin American and Iberian Cultures](http://laic.columbia.edu/) (Columbia University in the City of New York), we have decided to undertake a pedagogical experiment in which we introduce students to the basic and general principles of textual criticism and the essential technologies so that the students would be able to publish their own digital scholarly editions.
 
 We selected *Lazarillo de Tormes* not only for its short length, but also to allow us to introduce a number of questions and issues surrounding textual criticism and Spanish literary culture, making it especially suited for an introductory overview of the topic.
 
-At the beginning of the course, we placed the students within the textual tradition of *Lazarillo*: the four editions printed in 1554, following reprints, censure, and modern critical editions. The students decided together that, given the brief time available (from January 20 to May 2, 2016), it would be better to focus on the supposedly-oldest version and offer an edition that preserves the principal textual characteristics, such as the absence of certain scenes and events that were later interpolated in the text. Given that, we have decided to work with the version published by the brothers Mateo y Francisco del Canto in Media del Campo in 1554.
+At the beginning of the course, students explored the textual tradition of *Lazarillo*: the four editions printed in 1554, following reprints, censure, and modern critical editions. The students decided together that, given the brief time available (from January 20 to May 2, 2016), it would be better to focus on the supposedly-oldest version and offer an edition that preserves the principal textual characteristics, such as the absence of certain scenes and events that were later interpolated in the text. Given that, we have decided to work with the version published by the brothers Mateo y Francisco del Canto in Media del Campo in 1554.
 
 During the course of the project, the students have taken on different roles in the editorial process and  participated actively, always under the assistance of the professors. The group work was essential, and the students divided up the work each according to their interests.
 
@@ -17,9 +17,9 @@ The guiding principle of the course were the principles of [minimal computing](h
 
 * The text has three different versions:
 
-  1. A reading version, usable on all devices, from mobile phones to tablets to the desktop, without any annotations or hyperlinks.
+  1. A reading edition, usable on all devices, from mobile phones to tablets to the desktop, without any annotations or hyperlinks.
   2. An annotated edition where we have used our XML-TEI more fully. This version offers small descriptions of each character in bubbles, the same description offered in the Index of characters ("Índice de personajes").
-  3. The images offered by the [Library of Extremadura under a Creative Commons license](http://roda.gobex.es/roda/avisoLegal.jsp;jsessionid=5FF976699E942910DB78499E6ED34C08?pid=libro%3A5274b75d-ca5c-472c-8cb5-817e5f8cac99), if the reader is interested in comparing the original with the edited text.
+  3. A very basic facsimile edition using images offered by the [Library of Extremadura under a Creative Commons license](http://roda.gobex.es/roda/avisoLegal.jsp;jsessionid=5FF976699E942910DB78499E6ED34C08?pid=libro%3A5274b75d-ca5c-472c-8cb5-817e5f8cac99), if the reader is interested in comparing the original with the edited text.
 * We have also added other sections to our edition:
   1. A contextualization of the work, the edition from Medina del Campo, and its later reception.
   2. A map of the places mentioned by Lázaro as well as the places he visits.
@@ -27,7 +27,7 @@ The guiding principle of the course were the principles of [minimal computing](h
   4. Our editorial criteria in making the edition.
   5. A bibliographical section with the texts used in this course with regards to *Lazarillo* and other web resources.
   6. A search option of our editions, including the sections mentioned above.
-  7. A document with the principles that have guided our work, as well as th license of our contents.
+  7. A document with the principles that have guided our work, as well as the license of our contents.
 
 ## The technologies we have used
 
@@ -66,4 +66,4 @@ Additionally, as an essential part of the group work, we have used:
 
 ## Acknowledgements
 
-The team would like to thank the Department of Latin American and Iberian Cultures for accomodating the launch of our edition. Additionally, we would also like to give our thanks to Terry Catapano for his help with the XSLT transformations and time he dedicated to teaching us. 
+The team would like to thank the Department of Latin American and Iberian Cultures for accomodating the launch of our edition. Additionally, we would also like to give our thanks to Terry Catapano for his help with the XSLT transformations and time he dedicated to teaching us.
