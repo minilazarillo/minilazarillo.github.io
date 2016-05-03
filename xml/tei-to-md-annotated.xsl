@@ -19,7 +19,7 @@
         para nombrar los ficheros.-->
         <xsl:variable name="sect_id" select="@xml:id"/>
         <xsl:result-document method="text" encoding="utf-8"
-             href="../_posts/2016-03-14-{$sect_id}-annotated.md" omit-xml-declaration="yes">
+             href="../_texts/{$sect_id}-annotated.md" omit-xml-declaration="yes">
 
             <!-- SAT: aquí se edita el header con yaml -->
             <xsl:text>---&#x0A;layout: narrative&#x0A;</xsl:text>
