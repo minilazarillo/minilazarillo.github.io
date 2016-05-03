@@ -18,6 +18,6 @@ Suplico a <button data-balloon-pos="up" data-balloon-length="large" data-balloon
   
 
 <div class="inline-nav" markdown="1">
-[Tratado primero]({% post_url 2016-03-14-tratado1-annotated %}){:.following}
+[Tratado primero]({% post_url tratado1-annotated %}){:.following}
 
 </div>

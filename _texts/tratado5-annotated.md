@@ -65,7 +65,7 @@ Finalmente, estuve con este mi quinto amo cerca de cuatro meses, en los <a href=
   
 
 <div class="inline-nav" markdown="1">
-[Tratado cuarto]({% post_url 2016-03-14-tratado4-annotated %}){:.previous}
-[Tratado sexto]({% post_url 2016-03-14-tratado6-annotated %}){:.following}
+[Tratado cuarto]({% post_url tratado4-annotated %}){:.previous}
+[Tratado sexto]({% post_url tratado6-annotated %}){:.following}
 
 </div>

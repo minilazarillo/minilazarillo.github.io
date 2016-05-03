@@ -193,7 +193,7 @@ Y dejóle en poder de mucha gente que lo había ido a socorrer, y tomo la puerta
   
 
 <div class="inline-nav" markdown="1">
-[Prólogo]({% post_url 2016-03-14-prologo-annotated %}){:.previous}
-[Tratado segundo]({% post_url 2016-03-14-tratado2-annotated %}){:.following}
+[Prólogo]({% post_url prologo-annotated %}){:.previous}
+[Tratado segundo]({% post_url tratado2-annotated %}){:.following}
 
 </div>
