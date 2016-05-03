@@ -1,5 +1,6 @@
 <div class="toc">
-  <h2>La edición de lectura/The reading edition</h2>
+  <div id="readingedition">
+  <h2>Edición de lectura | <em>Reading edition</em></h2>
   <ul class="post">
   {% for item in site.posts reversed %}
     {% if item.mode == "reading" %}
@@ -11,9 +12,9 @@
     {% endif %}
   {% endfor %}
   </ul>
-
+  </div>
   <div id="annotatededition">
-    <h2>La edición anotada/The annotated edition</h2>
+    <h2>Edición anotada | <em>Annotated edition</em></h2>
     <ul class="post">
     {% for item in site.posts reversed %}
       {% if item.mode == "annotated" %}

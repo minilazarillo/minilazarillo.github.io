@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La edición moderna
+title: Edición moderna
 ---
 
 {% include toc.html %}
