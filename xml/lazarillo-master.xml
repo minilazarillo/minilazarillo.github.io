@@ -123,9 +123,10 @@
                         presentado, y es hombre que desea mucho el provecho de las ánimas; mas
                         pregunten a <persName corresp="#VuestraMerced">su merced</persName> si le
                         pesa cuando le dicen: <said>«¡Oh, qué maravillosamente lo ha hecho vuestra
-                            reverencia!»</said>. Justó muy ruinmente el señor don Fulano, y dio el
-                        sayete de armas al truhán, porque le loaba de haber llevado muy buenas
-                        lanzas: ¿qué hiciera si fuera verdad? </p>
+                            reverencia!»</said>. Justó muy ruinmente el señor <persName
+                            corresp="#Don_Fulano">don Fulano</persName>, y dio el sayete de armas al
+                        truhán, porque le loaba de haber llevado muy buenas lanzas: ¿qué hiciera si
+                        fuera verdad? </p>
                     <p> Y todo va de esta manera; que, confesando yo no ser más santo <pb n="3r"
                             facs="Medina-1554_003.jpg"/>que mis vecinos, de esta nonada, que en este
                         grosero estilo escribo, no me pesará que hayan parte y se huelguen con ello
@@ -203,9 +204,10 @@
                     <sp who="#Zaide">
                         <p> -¡Hideputa! </p>
                     </sp>
-                    <p> Yo, aunque bien mochacho, noté aquella palabra de mi hermanico, y dije entre
-                        mí: <said who="#Lazaro">«¡Cuántos debe de haber en el mundo que huyen de
-                            otros porque <pb n="5r" facs="Medina-1554_005.jpg"/>no se veen a sí
+                    <p> Yo, aunque bien mochacho, noté aquella palabra de mi <persName
+                            corresp="#hermanastro">hermanico</persName>, y dije entre mí: <said
+                            who="#Lazaro">«¡Cuántos debe de haber en el mundo que huyen de otros
+                            porque <pb n="5r" facs="Medina-1554_005.jpg"/>no se veen a sí
                             mismos!».</said>
                     </p>
 
@@ -459,7 +461,8 @@
                             facs="Medina-1554_012.jpg" n="12r"/>a este refrán: <quote type="refran"
                             >«Más da el duro que el desnudo»</quote>. Y venimos a este camino por
                         los mejores lugares. Donde hallaba buena acogida y ganancia, deteníamonos;
-                        donde no, a tercero día hacíamos San Juan.</p>
+                        donde no, a tercero día hacíamos <name type="rlgn" corresp="#San_Juan">San
+                            Juan</name>.</p>
                     <p>Acaeció que, llegando a un lugar que llaman <placeName ref="Almorox"
                             >Almorox</placeName> al tiempo que cogían las uvas, un vendimiador le
                         dio un racimo de ellas en limosna. Y como suelen ir los cestos maltratados,
@@ -842,8 +845,8 @@
                         tercero día, me vino la terciana derecha. Y fue que veo a deshora al que me
                         mataba de hambre sobre nuestro arcaz, volviendo y revolviendo, contando y
                         tornando a contar los panes. Yo disimulaba, y en mi secreta oración y
-                        devociones y plegarias decía: <said who="#Lazaro">«¡San Juan y
-                            ciégale!»</said></p>
+                        devociones y plegarias decía: <said who="#Lazaro">«¡<name type="rlgn"
+                                corresp="#San_Juan">San Juan</name> y ciégale!»</said></p>
                     <p>Después que estuvo un gran rato echando la cuenta, por días y dedos contando,
                         dijo:</p>
                     <sp who="#clerigo">
@@ -947,7 +950,8 @@
                         con aquello algún tanto consolado, tornando a cerrar, me volví a mis pajas,
                         en las cuales reposé y dormí un poco, lo cual yo hacía mal, y echábalo al no
                         comer. Y así sería, porque cierto, en aquel tiempo, no me debían de quitar
-                        el sueño los cuidados del rey de Francia.</p>
+                        el sueño los cuidados del <persName corresp="Rey_Francia">rey de
+                            Francia</persName>.</p>
                     <p>Otro día fue por el señor mi amo visto el daño, así del pan como del agujero
                         que yo había hecho, y comenzó a dar al diablo los ratones y decir:</p>
                     <sp who="#clerigo">
@@ -1865,7 +1869,7 @@
                 </div>
             </div>
             <div xml:id="tratado4">
-                <head type="titulo">Tratado cuatro</head>
+                <head type="titulo">Tratado cuarto</head>
                 <head type="subtitulo"><pb facs="Medina-1554_053.jpg" n="53r"/>Cómo <persName
                         corresp="#Lazaro">Lázaro</persName> se asentó con un <persName
                         corresp="#fraile">fraile de la Merced</persName>, y de lo que le acaeció con
@@ -2237,8 +2241,6 @@
                         prosperidad, y en la cumbre de toda buena fortuna.</p>
                     <!--SAT: Este breve párrafo tampoco aparece en la edición de Medina: "De lo que de aquí adelante me sucediere, avisaré a Vuestra Merced."-->
 
-
-
                 </div>
                 <div xml:id="colofon">
                     <ab> Fue impressa la presente obra en la muy noble villa de <placeName
@@ -2477,6 +2479,17 @@
                         <note>El condado de Arcos es un título nobiliario creado en 1431 por el rey
                             Juan II de Castilla. Lázaro lo utiliza para referirse a una persona
                             importante emparentada con la nobleza.</note>
+                    </person>
+                    <person xml:id="Rey_Francia">
+                        <persName>Rey de Francia</persName>
+                        <note>Se trata de una referencia genérica para referirse a las grandes
+                            preocupaciones de un soberano. Como indica Rico (2011:37), debe de
+                            tratarse de Francisco I o Enrique II. </note>
+                    </person>
+                    <person xml:id="Don_Fulano">
+                        <persName>Don fulano</persName>
+                        <note>se trata de una expresión para designar a una persona genérica o a un
+                            personaje del que no se sabe el nombre.</note>
                     </person>
 
                 </listPerson>
