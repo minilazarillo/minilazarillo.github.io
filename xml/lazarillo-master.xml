@@ -363,7 +363,7 @@
                     <p> También él abreviaba el rezar y la mitad de la oración no acababa, porque me
                         tenía mandado que, en yéndose el que la mandaba rezar, le tirase por cabo
                         del capuz. Yo así lo hacía. Luego él tornaba a dar voces diciendo: <said
-                            corresp="#ciego">¿Mandan rezar tal y tal oración?</said>, como suelen
+                            corresp="#ciego">«¿Mandan rezar tal y tal oración?»</said>, como suelen
                         decir.</p>
 
                     <p> Usaba poner cabe sí un jarrillo de vino cuando comíamos, y yo muy de presto
@@ -412,9 +412,9 @@
                     <p>Desde aquella hora quise mal al mal <persName corresp="#ciego"
                             >ciego</persName> y, aunque me quería y regalaba y me curaba, bien vi
                         que se había holgado del cruel castigo. Lavóme con vino las roturas que con
-                        los pedazos del jarro me había hecho y, sonriéndose, decía:<said>-¿Qué te
+                        los pedazos del jarro me había hecho y, sonriéndose, decía:<said>«¿Qué te
                             parece <persName corresp="#Lazaro">Lázaro</persName>? Lo que te enfermó
-                            te sana y da salud</said> -y otros donaires que a mi gusto no lo
+                            te sana y da salud»</said>, y otros donaires que a mi gusto no lo
                         eran.</p>
 
                     <p>Ya que estuve medio bueno de mi negra trepa y cardenales, considerando que, a
@@ -913,7 +913,7 @@
                             alegre y de buena ventura. Mas no quiso mi desdicha, despertando a este
                             lacerado de mi amo y poniéndole más diligencia de la que él de suyo se
                             tenía (pues los míseros por la mayor parte nunca de aquella carecen),
-                            ahora, cerrando los agujeros del arca, cerrase la puerta a mi consuelo y
+                            agora, cerrando los agujeros del arca, cerrase la puerta a mi consuelo y
                             la abriese a mis trabajos».</said></p>
                     <p>Así lamentaba yo, en tanto que mi solícito carpintero, con muchos clavos y
                         tablillas, dio fin a <pb facs="Medina-1554_026.jpg" n="26r"/> sus obras,
@@ -1217,9 +1217,9 @@
                         <p>-Virtud es ésa -dijo él-, y por eso te querré yo más, porque el hartar es
                             de los puercos y el comer regladamente es de los hombres de bien.</p>
                     </sp>
-                    <said who="#Lazaro"><p>-¡Bien te he entendido! -dije yo entre mí- ¡Maldita tanta
+                    <p><said who="#Lazaro">«¡Bien te he entendido! -dije yo entre mí- ¡Maldita tanta
                             medicina y bondad como aquestos mis amos que yo hallo hallan en la
-                            hambre!</p></said>
+                            hambre!»</said></p>
                     <p>Púseme a un cabo del portal y saqué unos pedazos de pan del seno, que me
                         habían quedado de los de por <name type="rlgn" corresp="#Dios">Dios</name>.
                         Él, que vio esto, díjome:</p>
@@ -1306,9 +1306,9 @@
                         <p>-Sin comer vivirás más y más sano -me respondió-, porque, como decíamos
                             hoy, no hay tal cosa en el mundo para vivir mucho que comer poco.</p>
                     </sp>
-                    <p><said who="#Lazaro">Si por esa vía es -dije entre mí-, nunca yo moriré, que
+                    <p><said who="#Lazaro">«Si por esa vía es -dije entre mí-, nunca yo moriré, que
                             siempre he guardado esa regla por fuerza, y aún espero, en mi desdicha,
-                            tenerla toda mi vida.</said></p>
+                            tenerla toda mi vida»</said>.</p>
                     <p>Y acostóse en la cama, poniendo por cabecera las calzas y el jubón, y mandóme
                         echar a sus pies, lo cual yo hice; mas, maldito el sueño que yo dormí,
                         porque las cañas y mis salidos huesos en toda la noche dejaron de rifar y
@@ -1333,8 +1333,8 @@
                     <sp who="#escudero">
                         <p>-¿Vesla aquí? Yo me obligo con ella cercenar un copo de lana.</p>
                     </sp>
-                    <p>Y yo dije entre mí: <said who="#Lazaro">Y yo con mis dientes, aunque no son
-                            de acero, un pan de cuatro libras.</said></p>
+                    <p>Y yo dije entre mí: <said who="#Lazaro">«Y yo con mis dientes, aunque no son
+                        de acero, un pan de cuatro libras»</said>.</p>
                     <p>Tornóla a meter y ciñósela, y un sartal de cuentas gruesas <pb
                             facs="Medina-1554_038.jpg" n="38r"/> del talabarte. Y con un paso
                         sosegado y el cuerpo derecho, haciendo con él y con la cabeza muy gentiles
@@ -1468,8 +1468,8 @@
                             vida vi a hombre, y que nadie te lo ve hacer que no le pongas gana,
                             aunque no la tenga.</p>
                     </sp>
-                    <said who="#Lazaro"><p>-La muy buena que tú tienes -dije yo entre mí- te hace
-                            parecer la mía hermosa.</p></said>
+                    <p><said who="#Lazaro">«La muy buena que tú tienes -dije yo entre mí- te hace
+                        parecer la mía hermosa»</said>.</p>
                     <p>Con todo, parecióme ayudarle, pues se ayudaba y me abría camino para ello, y
                         díjele:</p>
                     <sp who="#Lazaro">
@@ -1498,15 +1498,15 @@
                         <p>-Con almodrote -decía- es éste singular manjar.</p>
                     </sp>
 
-                    <p><said who="#Lazaro">¡Con mejor salsa lo comes tú! -respondí yo
-                        paso.</said></p>
+                    <p><said who="#Lazaro">«¡Con mejor salsa lo comes tú! -respondí yo
+                        paso»</said>.</p>
 
                     <sp who="#escudero">
                         <p>-Por <name type="rlgn" corresp="#Dios">Dios</name>, que me ha sabido como
                             si hoy no hubiera comido bocado.</p>
                     </sp>
-                    <p><said who="#Lazaro">¡Así me vengan los buenos años como es ello! -dije yo
-                            entre mí.</said></p>
+                    <p><said who="#Lazaro">«¡Así me vengan los buenos años como es ello! -dije yo
+                        entre mí»</said>.</p>
                     <p>Pidióme el jarro del agua y díselo como lo había traído. Es señal que, pues
                         no le faltaba el agua, que no le había a mi amo sobrado la comida. Bebimos,
                         y muy contentos nos fuimos a dormir, como la noche pasada.</p>
@@ -1694,11 +1694,11 @@
                             hombre de bien, se descuide un punto de tener en mucho su persona.
                             Acuérdome que un día deshonré en mi tierra a un oficial y quise poner en
                             él las manos, porque cada vez que le topaba, me decía: <said
-                                who="#Conde"> Mantenga Dios a <persName corresp="#escudero">Vuestra
-                                    Merced</persName></said>.<said who="#escudero">Vos, don villano
+                                who="#Conde">«Mantenga Dios a <persName corresp="#escudero">Vuestra
+                                    Merced</persName>»</said>. <said who="#escudero">«Vos, don villano
                                 ruin -le dije yo-, ¿por qué no sois bien criado? ¿"Manténgaos <name
                                     type="rlgn" corresp="#Dios">Dios</name>", me habéis de decir,
-                                como si fuese quienquiera?</said> De allí adelante, de aquí acullá,
+                                        como si fuese quienquiera?»</said> De allí adelante, de aquí acullá,
                             me quitaba el bonete y hablaba como debía.</p>
                     </sp>
 
@@ -2162,7 +2162,7 @@
                         una buena soga de esparto, conocí y caí en la cuenta de la sentencia que
                         aquel mi ciego amo había dicho en Escalona, y me
                         arrepentí del mal pago que le di, por lo mucho que me enseñó, que, después
-                        de Dios, él me dio industria para llegar al estado que ahora estoy."-->
+                        de Dios, él me dio industria para llegar al estado que agora estoy."-->
                     <p>Hame sucedido también, yo le <pb n="62v" facs="Medina-1554_063.jpg"/>he usado
                         tan fácilmente, que casi todas las cosas al oficio tocantes pasan por mi
                         mano, tanto que, en toda la ciudad, el que ha de echar vino a vender, o
