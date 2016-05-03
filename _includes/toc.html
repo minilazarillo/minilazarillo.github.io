@@ -2,7 +2,7 @@
   <div id="readingedition">
   <h2>Edición de lectura | <em>Reading edition</em></h2>
   <ul class="post">
-  {% for item in site.posts reversed %}
+  {% for item in site.texts %}
     {% if item.mode == "reading" %}
     <li class="post-title">
       <a href="{{ site.baseurl }}{{ item.url }}">
@@ -16,7 +16,7 @@
   <div id="annotatededition">
     <h2>Edición anotada | <em>Annotated edition</em></h2>
     <ul class="post">
-    {% for item in site.posts reversed %}
+    {% for item in site.texts %}
       {% if item.mode == "annotated" %}
       <li class="post-title">
         <a href="{{ site.baseurl }}{{ item.url }}">
