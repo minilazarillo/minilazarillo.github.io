@@ -41,6 +41,6 @@ Esto fue el mismo año que nuestro victorioso <button data-balloon-pos="up" data
      Fue impressa la presente obra en la muy noble villa de Medina del Campo en la imprenta de Mattheo y Francisco del Canto hermanos. Acabóse a primero del mes de Marzo. Año de 1554.  
 
 <div class="inline-nav" markdown="1">
-[Tratado sexto]({% post_url tratado6-annotated %}){:.previous}
+[Tratado sexto]({{site.baseurl}}/tratado6-annotated.html){:.previous}
 
 </div>

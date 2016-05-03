@@ -45,18 +45,18 @@
               <xsl:text>[</xsl:text>
               <xsl:value-of select="preceding-sibling::tei:div[1]/tei:head[@type='titulo']"/>
               <xsl:text>]</xsl:text>
-              <xsl:text>({% post_url </xsl:text>
+              <xsl:text>({{site.baseurl}}/</xsl:text>
               <xsl:value-of select="preceding-sibling::tei:div[1]/@xml:id"/>
-              <xsl:text>-annotated %}){:.previous}&#x0A;</xsl:text>
+              <xsl:text>-annotated.html){:.previous}&#x0A;</xsl:text>
             </xsl:if>
 
             <xsl:if test="following-sibling::tei:div[1]"> <!-- following chapter -->
               <xsl:text>[</xsl:text>
               <xsl:value-of select="following-sibling::tei:div[1]/tei:head[@type='titulo']"/>
               <xsl:text>]</xsl:text>
-              <xsl:text>({% post_url </xsl:text>
+              <xsl:text>({{site.baseurl}}/</xsl:text>
               <xsl:value-of select="following-sibling::tei:div[1]/@xml:id"/>
-              <xsl:text>-annotated %}){:.following}&#x0A;</xsl:text>
+              <xsl:text>-annotated.html){:.following}&#x0A;</xsl:text>
             </xsl:if>
 
             <xsl:text>&#x0A;&lt;/div&gt;</xsl:text> <!-- close the div -->

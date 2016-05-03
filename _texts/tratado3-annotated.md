@@ -287,7 +287,7 @@ Así, como he contado, me dejó mi pobre tercero amo, do acabé de conocer mi ru
   
 
 <div class="inline-nav" markdown="1">
-[Tratado segundo]({% post_url tratado2-annotated %}){:.previous}
-[Tratado cuarto]({% post_url tratado4-annotated %}){:.following}
+[Tratado segundo]({{site.baseurl}}/tratado2-annotated.html){:.previous}
+[Tratado cuarto]({{site.baseurl}}/tratado4-annotated.html){:.following}
 
 </div>
