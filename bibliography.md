@@ -19,9 +19,9 @@ Recogemos aquí una breve bibliografía utilizada a lo largo del curso. No aspir
 
 Información sobre recursos web
 
-* ["La vida de Lazarillo de Tormes."](https://es.wikipedia.org/w/index.php?title=La_vida_de_Lazarillo_de_Tormes&oldid=90103237) *Wikipedia, La enciclopedia libre*. 28 mar 2016, 11:52 UTC. 19 abr 2016, 19:51
-
 * [El Lazarillo de Tormes](http://montebueno.com/toc-el-lazarillo-de-tormes.html#lista-paginas). Montebueno Libros digitales
+
+* ["La vida de Lazarillo de Tormes."](https://es.wikipedia.org/w/index.php?title=La_vida_de_Lazarillo_de_Tormes&oldid=90103237) *Wikipedia, La enciclopedia libre*. 28 mar 2016, 11:52 UTC. 19 abr 2016, 19:51
 
 * [Lazarillo y Yo](https://lazarilloyyo.wordpress.com/lazarillo-de-tormes/). Blog
 
