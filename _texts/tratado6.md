@@ -19,7 +19,7 @@ Fueme tan bien en el oficio que, al cabo de cuatro años que lo usé, con poner 
   
 
 <div class="inline-nav" markdown="1">
-[Tratado quinto]({% post_url 2016-03-14-tratado5 %}){:.previous}
-[Tratado séptimo]({% post_url 2016-03-14-tratado7 %}){:.following}
+[Tratado quinto]({{site.baseurl}}/tratado5.html){:.previous}
+[Tratado séptimo]({{site.baseurl}}/tratado7.html){:.following}
 
 </div>
