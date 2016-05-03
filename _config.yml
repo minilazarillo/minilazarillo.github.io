@@ -19,8 +19,8 @@ kramdown:
 
 # Setup
 title:               mini lazarillo
-tagline:             'A minimal edition of <i>Lazarillo de Tormes</i>'
-description:         'A minimal edition of <i>Lazarillo de Tormes</i> created by students at Columbia University.'
+tagline:             'Una edición mínima del <i>Lazarillo de Tormes</i>'
+description:         'Una edición mínima del <i>Lazarillo de Tormes</i> creada por estudiantes de Columbia University'
 url:                 http://minilazarillo.github.io
 baseurl:             ''
 shareimg:            /public/img.jpg
