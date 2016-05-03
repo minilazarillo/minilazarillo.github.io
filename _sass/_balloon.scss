@@ -8,10 +8,10 @@
 // -----------------------------------------
 
 $balloon-bg:             fade-out(#111, .1);
-$balloon-base-size:      16px;
+$balloon-base-size:      12px;
 $balloon-arrow-height:   6px;
 
-$breakpoint:             1060px; //When to not show annotations
+$breakpoint:             860px; //When to not show annotations
 
 
 //
@@ -296,8 +296,17 @@ button {
   cursor: help;
 }
 
+div#smallscreens {
+  display:none;
+}
+
+
 @media screen and (max-width: ($breakpoint - 1)) {
   div#annotatededition {
-    visibility: hidden;
+    display: none;
+  }
+  
+  div#smallscreens {
+  display:inline;
   }
 }
