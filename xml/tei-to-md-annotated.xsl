@@ -80,9 +80,9 @@
         <xsl:text>&#x0A;</xsl:text>
     </xsl:template>
 
-<!-- SAT: Crear los balloons con la descripción de los nombres de persona -->
+<!-- SAT: Crear los balloons con la descripción de los nombres de los personajes: -->
     <xsl:template match="tei:persName">
-      <xsl:text>&lt;button data-balloon-pos="up" data-balloon-length="xlarge" data-balloon='</xsl:text>
+      <xsl:text>&lt;button data-balloon-pos="up" data-balloon-length="large" data-balloon='</xsl:text>
         <xsl:value-of select="/tei:TEI/tei:text/tei:back/tei:div/tei:listPerson/tei:person[@xml:id=translate(current()/@corresp, '#', '')]/tei:note/replace(replace(., '-', '—'), '\s+', ' ')" />
       <xsl:text>'&gt;</xsl:text>
       <xsl:apply-templates />
