@@ -8,7 +8,7 @@ order: 3
     {% for page in site.pages %}
       {% if page.bio == true %}
         <div class="bio">
-          <img src="{{ page.img }}" class="photo">
+          <img src="{{ page.img }}" alt="Retrato" class="photo">
           <p>{{ page.content | markdownify }}</p>
         </div>
       {% endif %}
@@ -16,7 +16,7 @@ order: 3
     {% for page in site.pages %}
       {% if page.teacherbio == true %}
         <div class="bio">
-          <img src="{{ page.img }}" class="photo">
+          <img src="{{ page.img }}" alt="Retrato" class="photo">
           <p>{{ page.content | markdownify }}</p>
         </div>
       {% endif %}
