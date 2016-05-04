@@ -121,24 +121,8 @@ div.materiales {
 
 }
 
-@media screen and (max-width: 320px) {
-.box {
-  position: relative;
-  height: 6.44em;
-  width: 6.44em;
-  overflow: hidden;
+@media screen and (max-width: 420px) {
+#ciegoimg, #lazaroimg {
+  display:none;
 }
-.facsimilar {
-    position: relative;
-    top: 0;
-    right: 0;
-    width: 100%;
-    height: 100%;
-    background-image: url("/assets/facsimilar.png");
-    background-size: 9.44em;
-    background-position: center;
-    -webkit-filter: blur(2px);
-    filter: blur(2px);
-    margin: -2px -4px -4px -2px;
-  }
 }
