@@ -1,5 +1,5 @@
 
-###Bibliography:  
+## Bibliography:  
 -	[“A Gentle Introduction to XML.”](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html) P5: Guidelines for Electronic Text Encoding and Interchange, Version 2.9.1. Last updated on 15th October 2015
 -	Allés Torrent, Susanna. [“Edición digital y algunas tecnologías aliadas: codificación TEI y transformaciones XSLT,”](http://academiccommons.columbia.edu/catalog/ac%3A189047) *Insula. Revista de Letras y Ciencias Humanas* 822 (2015): 18-21
 -	Bayo, Ciro. [<i>Lazarillo expañol</i>](https://books.google.com/books?id=vyNDAQAAMAAJ). Editorial Pueyo, 1911.
