@@ -35,8 +35,8 @@ Recogemos aquí una breve bibliografía utilizada a lo largo del curso, que no a
 -	MacManus, Richard. [GitHub For Beginners: Don't Get Scared, Get Started](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1). *ReadWrite* Sept. 30 2013.
 -	Mainer, José-Carlos, ed. “Caminos de la ficción.” *Historia de la literatura española*. Madrid: Crítica, 2013. 281-336.
 -	McCarty, Williard. “[Modeling: A Study in Words and Meanings](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-7).” *A Companion to Digital Humanities*. Ed. S. Schreibman, et al. Malden: Blackwell, 2004. 254-271.
--	Merino, Eloy Eduardo. [“‘Nuevas Andanzas y Desventuras de Lazarillo de Tormes’: Politica y cultura en el palimpsesto de Camilo Jose Cela.”](http://search.proquest.com/docview/304439203/466624AC1794456CPQ/1) Ph.D. University of Miami, 1998.
--	Michaud, Thomas. *[Foundations of Web design : introduction to HTML and CSS](http://proquest.safaribooksonline.com.ezproxy.cul.columbia.edu/9780133408270)]*. [San Francisco]: New Riders, [2014].
+-	Merino, Eloy Eduardo. “‘Nuevas Andanzas y Desventuras de Lazarillo de Tormes’: Politica y cultura en el palimpsesto de Camilo Jose Cela.” Ph.D. University of Miami, 1998.
+-	Michaud, Thomas. *Foundations of Web design : introduction to HTML and CSS*. [San Francisco]: New Riders, [2014].
 -	Modern Language Association. [*Guidelines for Editors of Scholarly Editions*](https://www.mla.org/Resources/Research/Surveys-Reports-and-Other-Documents/Publishing-and-Scholarship/Reports-from-the-MLA-Committee-on-Scholarly-Editions/Guidelines-for-Editors-of-Scholarly-Editions). June 2011
 -	Moll, Jaime. [“Hacia La Primera Edición Del ‘Lazarillo.’”](http://cvc.cervantes.es/literatura/aiso/pdf/04/aiso_4_2_023.pdf) *Biblioteca Virtual Miguel de Cervantes*. N.p., n.d. Web. 27 Abril 2016.
 -	Murillo, Jesús Cañas. [“Una Nueva Edición de ‘Lazarillo de Tormes’ : Medina Del Campo, 1554.”](http://www.cervantesvirtual.com/nd/ark:/59851/bmcm90p1) Biblioteca Virtual Miguel de Cervantes. Web. 27 Abril 2016.
