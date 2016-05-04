@@ -15,7 +15,7 @@ var index = elasticlunr(function () {
 //Add to this index the proper metadata from the Jekyll content
 
 
-{% assign count = 0 %}{% for text in site.posts %}{% if text.mode == "annotated" %}
+{% assign count = 0 %}{% for text in site.texts %}{% if text.mode == "annotated" %}
 index.addDoc({
   title: {{text.title | jsonify}},
   layout: {{text.layout | jsonify}},
@@ -34,7 +34,7 @@ console.log( jQuery.type(index) );
 // Builds reference data (maybe not necessary for us, to check)
 
 
-var store = [{% for text in site.posts %}{% if text.mode == "annotated" %}{
+var store = [{% for text in site.texts %}{% if text.mode == "annotated" %}{
   "title": {{text.title | jsonify}},
   "layout": {{ text.layout | jsonify }},
   "link": {{text.url | jsonify}},
