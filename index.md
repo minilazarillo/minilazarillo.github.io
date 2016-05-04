@@ -1,4 +1,15 @@
-# mini Lazarillo
+---
+layout: homepage
+title: Home
+order: 1
+permalink: index.html
+---
+
+{% include ediciones.html %}
+
+{% include materiales.html %}
+
+---
 
 El mini lazarillo: Edición minima del *Lazarillo de Tormes* (1554) es una edición digital realizada por estudiantes del [Departamento de Culturas Latinoamericanas e Ibéricas](http://laic.columbia.edu/) de la Universidad de Columbia. El menú principal contiene información sobre el Proyecto, el Equipo y la Licencia. La sección principal es la Edición, donde puede encontrarse una versión simple de lectura, y otra edición anotada del *Lazarillo de Tormes*, así como las imagenes originales del volumen. Hemos creado esta edición digital para darle al lector una experiencia más enriquecida de lectura basada en principios mínimos tecnológicos.
 
