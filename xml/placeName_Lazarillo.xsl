@@ -8,7 +8,6 @@
     
     <xsl:template match="tei:placeName">
         <xsl:copy>
-        
             <xsl:value-of select="."></xsl:value-of>
         </xsl:copy>
     </xsl:template>
@@ -16,16 +15,11 @@
  
     
     <xsl:template match="* | text()| @* | node()">
-        
-       
-            <xsl:apply-templates select="* | text() | @*"/>
-        
+            <xsl:apply-templates select="* | text() | @*"/>   
     </xsl:template>
     
     <xsl:template match="/">
-        
         <TEI xmlns="http://www.tei-c.org/ns/1.0">
-            
             <xsl:apply-templates></xsl:apply-templates>
         </TEI>
     </xsl:template>

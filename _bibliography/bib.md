@@ -1,46 +1,43 @@
 
 ## Bibliography:  
--	[“A Gentle Introduction to XML.”](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html) P5: Guidelines for Electronic Text Encoding and Interchange, Version 2.9.1. Last updated on 15th October 2015
--	Allés Torrent, Susanna. [“Edición digital y algunas tecnologías aliadas: codificación TEI y transformaciones XSLT,”](http://academiccommons.columbia.edu/catalog/ac%3A189047) *Insula. Revista de Letras y Ciencias Humanas* 822 (2015): 18-21
--	Bayo, Ciro. [<i>Lazarillo expañol</i>](https://books.google.com/books?id=vyNDAQAAMAAJ). Editorial Pueyo, 1911.
--	Burnard, Lou, Katherine O’Brien O’Keeffe, John Unsworth, [*Electronic Textual Editing*](http://www.tei-c.org/About/Archive_new/ETE/Preview/index.xml), New York: Modern Language Association of America, 2006
--	Burnard, Lou, [*What is the Text Encoding Initiative? How to add intelligent markup to digital resources*](http://books.openedition.org/oep/679?lang=en), Marseille: Open Edition Press, 2014
--	Coll-Tellechea, Reyes. [“The Spanish Inquisition and the Battle for Lazarillo: 1554-1555-1573.”](http://www.academia.edu/888302/The_Spanish_Inquisition_and_the_Battle_for_Lazarillo_1554-_1555_-1573) <i>Bucknell University Press</i> Lazarillo Phenomena. Essays on the Adventures of a Classic Text (2010): 75–97. Print.
--	Cummings, James. [*“Editing options.”*] digital.humanities@Oxford, 2009.
+-	[*“A Gentle Introduction to XML.”*](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html). *P5: Guidelines for Electronic Text Encoding and Interchange*, Version 2.9.1. Ultima actualización 15 Octubre 2015.
+-	Allés Torrent, Susanna. [“Edición digital y algunas tecnologías aliadas: codificación TEI y transformaciones XSLT.”](http://academiccommons.columbia.edu/catalog/ac%3A189047) *Insula. Revista de Letras y Ciencias Humanas* 822 (2015): 18-21
+-	Bayo, Ciro. [<i>Lazarillo expañol</i>](https://books.google.com/books?id=vyNDAQAAMAAJ). Madrid: Editorial Pueyo, 1920
+-	Burnard, Lou, Katherine O’Brien O’Keeffe, John Unsworth. [*Electronic Textual Editing*](http://www.tei-c.org/About/Archive_new/ETE/Preview/index.xml). New York: Modern Language Association of America, 2006
+-	Burnard, Lou. [*What is the Text Encoding Initiative? How to add intelligent markup to digital resources*](http://books.openedition.org/oep/679?lang=en), Marseille: Open Edition Press, 2014
+-	Coll-Tellechea, Reyes, Sean McDaniel. [“The Spanish Inquisition and the Battle for Lazarillo: 1554-1555-1573.”](http://www.academia.edu/888302/The_Spanish_Inquisition_and_the_Battle_for_Lazarillo_1554-_1555_-1573) *Lazarillo Phenomena. Essays on the Adventures of a Classic Text*. Bucknell University, 2010. 75–97
+-	Cummings, James. [*“Editing options.”*]. digital.humanities@Oxford, 2009
 -	[<i>El Lazarillo De Tormes</i>](http://www.imdb.com/title/tt0052995/). Dir. César Fernández Ardavín. Hesperia Films, 1959.
 -	[<i>El Lazarillo De Tormes</i>](http://www.imdb.com/title/tt0016012/). Dir. Florián Rey. Atlántida Films, 1925.
--	“El Lazarillo De Tormes.” DonQuijote, n.d. Web. 24 Apr. 2016.
--	Flanders, Julia, Syd Bauman, and WWP. “RELAX NG for ODD-Writing”, A Gentle Introduction to XSLT, “Built-in templates rules and how to override them”, “The XSLT Processing Model”, “Variables and Conditionals”. [*Taking TEI Further: Transforming and Publishing TEI*](http://www.wwp.northeastern.edu/outreach/seminars/publishing_2013-11/), Brown University, May 2012
--	Fraistat, Neil, Julia Flanders (eds.), [*The Cambridge Companion to Textual Scholarship*](http://universitypublishingonline.org.ezproxy.cul.columbia.edu/cambridge/companions/ebook.jsf?bid=CCO9781139044073), Cambridge: Cambridge University Press, 2013   				
--	GitHub, [GitHub Guides](https://guides.github.com/) 2015
--	GitHub, [BootCamp](https://help.github.com/categories/bootcamp/), 2015
--	Greetham, D. C. *Textual Scholarship: An Introduction*. New York: Garland, 1994	
--	Grendler, Paul F., ed. “Erasmus, Desiderius Ca. 1466–1536 Dutch Scholar.” Renaissance: An Encyclopedia for Students 2004: 58–59. Print. 4 vols.
--	Grendler, Paul F., ed. “Luther, Martin 1483–1546 German Religious Reformer.” <i>Renaissance: An Encyclopedia for Students</i> 2004: 32–34. Print. 4 vols.
--	Grendler, Paul F., ed. “Spanish Language and Literature.” <i>Renaissance: An Encyclopedia for Students</i> 2004: 104–107. Print. 4 vols.
--	Jekyll Tips, [*Get Started Guide*](http://jekyll.tips/), 2015
--	Jekyll, [*Documentation*](http://jekyllrb.com/docs/home/), 2015
--	*Lazarillo de Tormes*, edición, estudio y notas de Francisco Rico. Madrid: Real Academia Española – Barcelona: Galaxia Gutenberg-Círculo de Lectores, 2011
+-	Flanders, Julia, Syd Bauman, and WWP. [*Taking TEI Further: Transforming and Publishing TEI*](http://www.wwp.northeastern.edu/outreach/seminars/publishing_2013-11/), Brown University, May 2012
+-	Fraistat, Neil, Julia Flanders (eds.). [*The Cambridge Companion to Textual Scholarship*](http://universitypublishingonline.org.ezproxy.cul.columbia.edu/cambridge/companions/ebook.jsf?bid=CCO9781139044073). Cambridge: Cambridge University Press, 2013   				
+- 	[GitHub Guides](https://guides.github.com/), 2015
+-	[BootCamp](https://help.github.com/categories/bootcamp/), 2015.
+-	Greetham, D. C. *Textual Scholarship: An Introduction*. New York: Garland, 1994.	
+-	Grendler, Paul F., ed. “Erasmus, Desiderius Ca. 1466–1536 Dutch Scholar.” *Renaissance: An Encyclopedia for Students*. New York: Charles Scribner's Sons, 2004. 58–59.
+-	Grendler, Paul F., ed. “Luther, Martin 1483–1546 German Religious Reformer.” *Renaissance: An Encyclopedia for Students*. New York: Charles Scribner's Sons, 2004. 32–34.
+-	Grendler, Paul F., ed. “Spanish Language and Literature.” *Renaissance: An Encyclopedia for Students*. New York: Charles Scribner's Sons, 2004. 104–107. 
+-	[*Jekyll tips: Get Started Guide*](http://jekyll.tips/), 2015.
+-	[*Jekyll Documentation*](http://jekyllrb.com/docs/home/), 2015.
+-	*Lazarillo de Tormes*, edición, estudio y notas de Francisco Rico. Madrid: Real Academia Española – Barcelona: Galaxia Gutenberg-Círculo de Lectores, 2011.
 -	[<i>Lázaro De Tormes</i>](http://www.imdb.com/title/tt0244624/). Dir. Fernando Fernán Gómez and José Luis García Sánchez. Lolafilms, 2001.
--	MacManus,Richard. [GitHub For Beginners: Don't Get Scared, Get Started](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1), *ReadWrite*, Sept. 30, 2013
--	Mainer, José-Carlos (ed.), “Caminos de la ficción.” *Historia de la literatura española*. Madrid: Crítica, 2013, pp. 281-336
--	McCarty, Williard. “[Modeling: A Study in Words and Meanings](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-7).” *A Companion to Digital Humanities*. Ed. S. Schreibman, et al. Malden: Blackwell, 2004, pp. 254-271
--	Merino, Eloy Eduardo. [“‘Nuevas Andanzas y Desventuras de Lazarillo de Tormes’: Politica y cultura en el palimpsesto de Camilo Jose Cela.”](http://search.proquest.com/docview/304439203/466624AC1794456CPQ/1) Ph.D. University of Miami, 1998. ProQuest. Web. 24 Apr. 2016.
--	Michaud, Thomas. *[Foundations of Web design : introduction to HTML and CSS](http://proquest.safaribooksonline.com.ezproxy.cul.columbia.edu/9780133408270)]*. [San Francisco]: New Riders, [2014]
--	Modern Language Association, [*Guidelines for Editors of Scholarly Editions*](https://www.mla.org/Resources/Research/Surveys-Reports-and-Other-Documents/Publishing-and-Scholarship/Reports-from-the-MLA-Committee-on-Scholarly-Editions/Guidelines-for-Editors-of-Scholarly-Editions), June 2011
--	Moll, Jaime. [“Hacia La Primera Edición Del ‘Lazarillo.’”](http://cvc.cervantes.es/literatura/aiso/pdf/04/aiso_4_2_023.pdf) <i>Biblioteca Virtual Miguel de Cervantes</i>. N.p., n.d. Web. 27 Apr. 2016.
--	Murillo, Jesús Cañas. [“Una Nueva Edición de ‘Lazarillo de Tormes’ : Medina Del Campo, 1554.”](http://www.cervantesvirtual.com/nd/ark:/59851/bmcm90p1) Biblioteca Virtual Miguel de Cervantes. N.p., n.d. Web. 27 Apr. 2016.
--	Pedraza Jiménez, Felipe B., and Milágros Rodriguez Cáceres. Tafalla: Cenlit Ediciones, 1980. Print.
--	Pérez Priego, Miguel Ángel. *La edición de textos*. Madrid: Síntesis, 2012
--	Pierazzo, Elena. *Digital Scholarly Editing. Theories, Models and Methods*. Aldershot: Ashgate, 2015 
--	Piñero Ramírez, Pedro M. [“La Segunda parte del Lazarillo (1555). Suma de estímulos diversos o los comienzos «desconcertados» de un género nuevo.”](http://criticon.revues.org/886) <i>Criticón</i> 120-121 (2014): 171–199. <i>criticon.revues.org</i>. Web.
--	Rico, Francisco, ed. Barcelona: Circulo De Lectores, 2011. Print.
--	Sahle, Patrick. [“Criteria for Reviewing Scholarly Digital Editions", version 1.1.”](http://www.i-d-e.de/publikationen/weitereschriften/criteria-version-1-1/) *A review journal for digital editions and resources*, IDE, 2014
+-	MacManus, Richard. [GitHub For Beginners: Don't Get Scared, Get Started](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1). *ReadWrite*, Sept. 30, 2013
+-	Mainer, José-Carlos, ed. “Caminos de la ficción.” *Historia de la literatura española*. Madrid: Crítica, 2013. 281-336
+-	McCarty, Williard. “[Modeling: A Study in Words and Meanings](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-7).” *A Companion to Digital Humanities*. Ed. S. Schreibman, et al. Malden: Blackwell, 2004. 254-271.
+-	Merino, Eloy Eduardo. [“‘Nuevas Andanzas y Desventuras de Lazarillo de Tormes’: Politica y cultura en el palimpsesto de Camilo Jose Cela.”](http://search.proquest.com/docview/304439203/466624AC1794456CPQ/1) Ph.D. University of Miami, 1998. Web. 24 Apr. 2016.
+-	Michaud, Thomas. *[Foundations of Web design : introduction to HTML and CSS](http://proquest.safaribooksonline.com.ezproxy.cul.columbia.edu/9780133408270)]*. [San Francisco]: New Riders, [2014].
+-	Modern Language Association. [*Guidelines for Editors of Scholarly Editions*](https://www.mla.org/Resources/Research/Surveys-Reports-and-Other-Documents/Publishing-and-Scholarship/Reports-from-the-MLA-Committee-on-Scholarly-Editions/Guidelines-for-Editors-of-Scholarly-Editions). June 2011
+-	Moll, Jaime. [“Hacia La Primera Edición Del ‘Lazarillo.’”](http://cvc.cervantes.es/literatura/aiso/pdf/04/aiso_4_2_023.pdf) *Biblioteca Virtual Miguel de Cervantes*. N.p., n.d. Web. 27 Abril 2016.
+-	Murillo, Jesús Cañas. [“Una Nueva Edición de ‘Lazarillo de Tormes’ : Medina Del Campo, 1554.”](http://www.cervantesvirtual.com/nd/ark:/59851/bmcm90p1) Biblioteca Virtual Miguel de Cervantes. N.p., n.d. Web. 27 Abril 2016.
+-	Pedraza Jiménez, Felipe B., and Milágros Rodriguez Cáceres. *Manual de literatura española*. Cáceres: Cenlit Ediciones, 1980.
+-	Pérez Priego, Miguel Ángel. *La edición de textos*. Madrid: Síntesis, 2012.
+-	Pierazzo, Elena. *Digital Scholarly Editing. Theories, Models and Methods*. Aldershot: Ashgate, 2015. 
+-	Piñero Ramírez, Pedro M. [“La Segunda parte del Lazarillo (1555). Suma de estímulos diversos o los comienzos «desconcertados» de un género nuevo.”](http://criticon.revues.org/886) *Criticón* 2014: 171–199.
+-	Lazarillo de Tormes, edición, estudio y notas de Francisco Rico. Madrid: Real Academia Español - Barcelona: Galaxia Gutenberg-Circulo De Lectores, 2011. 
+-	Sahle, Patrick. [“Criteria for Reviewing Scholarly Digital Editions", version 1.1.”](http://www.i-d-e.de/publikationen/weitereschriften/criteria-version-1-1/) *A review journal for digital editions and resources* IDE, 2014.
 -	Sahle, Patrick. “[Digital Modelling (modelling the digital Edition)](http://dixit.uni-koeln.de/wp-content/uploads/2015/04/Camp1-Patrick_Sahle_-_Digital_Modelling.pdf).” *Medieval & Modern Manuscripts Studies in the Digital Age*, 2015
--	Shopify, [*Liquid*](https://github.com/Shopify/liquid). GitHub, 2015
--	Simon, Jeremias Clemente. [“Descubren la que podría ser segunda edición de ‘El Lazarillo de Tormes.’”](http://elpais.com/diario/1995/12/28/cultura/820105201_850215.html) El País 28 Dec. 1995. Web. 27 Apr. 2016.
--	TEI Wiki, “Ways to Publish TEI on the Web,”
--	Tennen, Dennis, and G. Wythoff, [*“Sustainable Authorship in Plain Text using Pandoc and Markdown.”*](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) *The Programming Historian*, March 19, 2014
--	Tennen, Dennis. [GiHub](https://github.com/xpmethod/dhnotes/wiki/GitHub), Github, 2015
--	Van den Branden, Ron, Melissa Terras & Edward Vanhoutte. TEI by Example. [http://www.teibyexample.org](http://www.teibyexample.org)
--	Wagner, Klaus. [“Letras Españolas de Los Siglos de Oro En Imprentas Europeas.”](http://cvc.cervantes.es/obref/fortuna/klaus.htm) <i>Centro Virtual Cervantes</i>. N.p., n.d. Web. 23 Apr. 2016.
+-	Simon, Jeremias Clemente. [“Descubren la que podría ser segunda edición de ‘El Lazarillo de Tormes.’”](http://elpais.com/diario/1995/12/28/cultura/820105201_850215.html) *El País* 28 Dic. 1995. 
+-	Tennen, Dennis, and G. Wythoff, [*“Sustainable Authorship in Plain Text using Pandoc and Markdown.”*](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) *The Programming Historian*  Marzo 19 (2014)
+-	Tennen, Dennis. [DHNotes](https://github.com/xpmethod/dhnotes/wiki/GitHub), GitHub, 2015
+-	Van den Branden, Ron, Melissa Terras & Edward Vanhoutte. [*TEI by Example*](http://www.teibyexample.org)
+-	Wagner, Klaus. [“Letras Españolas de Los Siglos de Oro En Imprentas Europeas.”](http://cvc.cervantes.es/obref/fortuna/klaus.htm) Centro Virtual Cervantes. N.p., n.d. Web. 23 Abr. 2016.
