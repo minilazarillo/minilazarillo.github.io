@@ -15,7 +15,7 @@ Hube de buscar el cuarto, y éste fue un fraile de la Merced, que las mujercilla
   
 
 <div class="inline-nav" markdown="1">
-[Tratado tercero]({{site.baseurl}}/tratado3.html){:.previous}
-[Tratado quinto]({{site.baseurl}}/tratado5.html){:.following}
+[Tratado tercero]({{site.baseurl}}/texts/tratado3.html){:.previous}
+[Tratado quinto]({{site.baseurl}}/texts/tratado5.html){:.following}
 
 </div>

@@ -45,7 +45,7 @@
               <xsl:text>[</xsl:text>
               <xsl:value-of select="preceding-sibling::tei:div[1]/tei:head[@type='titulo']"/>
               <xsl:text>]</xsl:text>
-              <xsl:text>({{site.baseurl}}/</xsl:text>
+              <xsl:text>({{site.baseurl}}/texts/</xsl:text>
               <xsl:value-of select="preceding-sibling::tei:div[1]/@xml:id"/>
               <xsl:text>.html){:.previous}&#x0A;</xsl:text>
             </xsl:if>
@@ -54,7 +54,7 @@
               <xsl:text>[</xsl:text>
               <xsl:value-of select="following-sibling::tei:div[1]/tei:head[@type='titulo']"/>
               <xsl:text>]</xsl:text>
-              <xsl:text>({{site.baseurl}}/</xsl:text>
+              <xsl:text>({{site.baseurl}}/texts/</xsl:text>
               <xsl:value-of select="following-sibling::tei:div[1]/@xml:id"/>
               <xsl:text>.html){:.following}&#x0A;</xsl:text>
             </xsl:if>

@@ -287,7 +287,7 @@ Así, como he contado, me dejó mi pobre tercero amo, do acabé de conocer mi ru
   
 
 <div class="inline-nav" markdown="1">
-[Tratado segundo]({{site.baseurl}}/tratado2.html){:.previous}
-[Tratado cuarto]({{site.baseurl}}/tratado4.html){:.following}
+[Tratado segundo]({{site.baseurl}}/texts/tratado2.html){:.previous}
+[Tratado cuarto]({{site.baseurl}}/texts/tratado4.html){:.following}
 
 </div>

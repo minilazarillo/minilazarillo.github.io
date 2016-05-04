@@ -19,7 +19,7 @@ Fueme tan bien en el oficio que, al cabo de cuatro años que lo usé, con poner 
   
 
 <div class="inline-nav" markdown="1">
-[Tratado quinto]({{site.baseurl}}/tratado5-annotated.html){:.previous}
-[Tratado séptimo]({{site.baseurl}}/tratado7-annotated.html){:.following}
+[Tratado quinto]({{site.baseurl}}/textts/tratado5-annotated.html){:.previous}
+[Tratado séptimo]({{site.baseurl}}/texts/tratado7-annotated.html){:.following}
 
 </div>

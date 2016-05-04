@@ -159,7 +159,7 @@ Y santiguándose de mí, como si yo estuviera endemoniado, se torna a meter en c
   
 
 <div class="inline-nav" markdown="1">
-[Tratado primero]({{site.baseurl}}/tratado1.html){:.previous}
-[Tratado tercero]({{site.baseurl}}/tratado3.html){:.following}
+[Tratado primero]({{site.baseurl}}/texts/tratado1.html){:.previous}
+[Tratado tercero]({{site.baseurl}}/texts/tratado3.html){:.following}
 
 </div>

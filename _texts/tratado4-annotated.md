@@ -15,7 +15,7 @@ Hube de buscar el cuarto, y éste fue un <button data-balloon-pos="up" data-ball
   
 
 <div class="inline-nav" markdown="1">
-[Tratado tercero]({{site.baseurl}}/tratado3-annotated.html){:.previous}
-[Tratado quinto]({{site.baseurl}}/tratado5-annotated.html){:.following}
+[Tratado tercero]({{site.baseurl}}/textts/tratado3-annotated.html){:.previous}
+[Tratado quinto]({{site.baseurl}}/texts/tratado5-annotated.html){:.following}
 
 </div>

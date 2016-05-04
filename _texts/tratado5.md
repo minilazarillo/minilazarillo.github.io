@@ -65,7 +65,7 @@ Finalmente, estuve con este mi quinto amo cerca de cuatro meses, en los  cuales 
   
 
 <div class="inline-nav" markdown="1">
-[Tratado cuarto]({{site.baseurl}}/tratado4.html){:.previous}
-[Tratado sexto]({{site.baseurl}}/tratado6.html){:.following}
+[Tratado cuarto]({{site.baseurl}}/texts/tratado4.html){:.previous}
+[Tratado sexto]({{site.baseurl}}/texts/tratado6.html){:.following}
 
 </div>

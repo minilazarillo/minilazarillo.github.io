@@ -18,6 +18,6 @@ Suplico a Vuestra Merced reciba el pobre servicio de mano de quien lo hiciera m√
   
 
 <div class="inline-nav" markdown="1">
-[Tratado primero]({{site.baseurl}}/tratado1.html){:.following}
+[Tratado primero]({{site.baseurl}}/texts/tratado1.html){:.following}
 
 </div>
