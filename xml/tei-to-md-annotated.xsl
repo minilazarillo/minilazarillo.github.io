@@ -45,7 +45,7 @@
               <xsl:text>[</xsl:text>
               <xsl:value-of select="preceding-sibling::tei:div[1]/tei:head[@type='titulo']"/>
               <xsl:text>]</xsl:text>
-              <xsl:text>({{site.baseurl}}/textts/</xsl:text>
+              <xsl:text>({{site.baseurl}}/texts/</xsl:text>
               <xsl:value-of select="preceding-sibling::tei:div[1]/@xml:id"/>
               <xsl:text>-annotated.html){:.previous}&#x0A;</xsl:text>
             </xsl:if>
@@ -98,7 +98,7 @@
         <xsl:text>&lt;a href="http://minilazarillo.github.io/assets/facsimile/</xsl:text>
         <xsl:value-of select="@facs"></xsl:value-of>
         <xsl:text>"&gt;</xsl:text>
-        <xsl:text>&lt;img src="/assets/photo-icon.png" style="display:inline-block; margin-bottom:-3px;"&gt;</xsl:text>
+        <xsl:text>&lt;img src="/assets/photo-icon.png" alt="Enlace al facsímil" style="display:inline-block; margin-bottom:-3px;"&gt;</xsl:text>
         <xsl:text>&lt;/a&gt;</xsl:text>
     </xsl:template>
 
