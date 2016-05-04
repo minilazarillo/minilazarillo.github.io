@@ -16,6 +16,14 @@
   <meta name="DC.rights" content="{{ page.rights }}" />
   <meta name="DC.source" content="{{ site.title }}" />
 
+  <!-- Open Graph metadata -->
+  <meta property="og:title" content="{{ page.title }}"/>
+  <meta property="og:author" content="{{ page.author }}"/>
+  <meta property="og:book:release_date" content="{{ page.publication-date }}"/>
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="{{ site.url }}"/>
+  <meta property="og:image" content="{{site.baseurl}}/assets/facsimilar.png"/>
+
   <title>
     {% if page.title == "Home" %}
       {{ site.title }}
