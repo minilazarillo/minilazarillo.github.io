@@ -1,7 +1,7 @@
 ---
 bio: true
 categories: [bio]
-img: assets/falls.jpg
+img: /assets/falls.jpg
 ---
 
 
