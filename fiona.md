@@ -1,7 +1,7 @@
 ---
 bio: true
 categories: [bio]
-img: assets/Freshman%20portrait.jpg
+img: assets/fiona.jpg
 ---
 
 

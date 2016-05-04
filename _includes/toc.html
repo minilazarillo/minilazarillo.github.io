@@ -1,7 +1,7 @@
 <div class="toc">
   <div id="readingedition">
   <h2>Edición de lectura | <em>Reading edition</em></h2>
-  <ul class="post">
+  <ul>
   {% for item in site.texts %}
     {% if item.mode == "reading" %}
     <li class="post-title">
@@ -15,7 +15,7 @@
   </div>
   <div id="annotatededition">
     <h2>Edición anotada | <em>Annotated edition</em></h2>
-    <ul class="post">
+    <ul>
     {% for item in site.texts %}
       {% if item.mode == "annotated" %}
       <li class="post-title">
