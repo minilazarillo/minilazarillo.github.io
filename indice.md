@@ -20,7 +20,7 @@ order: 7
 - **Penélope**:  fue la esposa de Odiseo (o Ulises, en latín) que cada noche durante muchos años destejía por la noche lo que había tejido durante el día para retrasar su boda con uno de los pretendientes. Como ella, Lázaro también planea engaños durante la noche para velar por sus propios intereses.  
 - **Tomás de Aquino (1224/1225 — 1274)**:  es uno de los filósofos más relevantes de la Edad Media. Es también conocido como Doctor Angélico, Doctor Común y Doctor de la Humanidad. Su obra más famosas es la Summa theologiae. 
  
-##Lista de personajes en la novela
+## Lista de personajes en la novela
  
 - **Alcaldes**:  es un oficial público secular que se encarga de una área municipal. En el Lazarillo, unos ayudan al clérigo a remitir sus bulas e indulgencias y otros aceptan la bulas e indulgencias para ellos mismos.  
 - **Alguacil**:  es un oficial de ley que, la mayoría de las veces, trabaja con un escribano. En el Lazarillo, hay tres alguaciles. El primero aparece en el Tratado 3 interrogando a Lázaro, juntamente con el escribano, sobre su amo, el escudero; el segundo alguacil es el cómplice del buldero, el quinto amo de Lázaro, y es un personaje corrupto que participa en una farsa para vender bulas. Finalmente, el tercer alguacil es el último amo de Lázaro con el que no estará por muy largo tiempo pues considera el trabajo demasiado peligroso.   
@@ -42,7 +42,7 @@ order: 7
 - **Vuestra Merced**:   se refiere al lector a quien Lázaro se dirige. El término es el equivalente al “usted” moderno e implica respeto así como la consciencia de dirigirse a un público.  
 - **Zaide**:  es el padrastro de Lázaro, pues mantiene una relación amorosa con su madre de la que nace un niño. El texto le describe como “un hombre moreno” que se encarga de “las bestias”. Zaide es arrestado por robar comida y utensilios que ofrecía a Antona Pérez y sus hijos. 
  
-##Lista de personajes genéricos
+## Lista de personajes genéricos
  
 - **Conde de Arcos**:  El condado de Arcos es un título nobiliario creado en 1431 por el rey Juan II de Castilla. Lázaro lo utiliza para referirse a una persona importante emparentada con la nobleza.  
 - **Don fulano**:  se trata de una expresión para designar a una persona genérica o a un personaje del que no se sabe el nombre.  
