@@ -98,7 +98,7 @@
         <xsl:text>&lt;a href="http://minilazarillo.github.io/assets/facsimile/</xsl:text>
         <xsl:value-of select="@facs"></xsl:value-of>
         <xsl:text>"&gt;</xsl:text>
-        <xsl:text>&lt;img src="/assets/icon2.png" style="display:inline-block; margin-bottom:-3px;"&gt;</xsl:text>
+        <xsl:text>&lt;img src="/assets/photo-icon.png" style="display:inline-block; margin-bottom:-3px;"&gt;</xsl:text>
         <xsl:text>&lt;/a&gt;</xsl:text>
     </xsl:template>
 
