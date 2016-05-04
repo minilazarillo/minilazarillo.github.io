@@ -19,7 +19,14 @@ div.ediciones {
   }
   @media screen and (max-width: 650px) {
     font-size: 20px;
+
   }
+  @media screen and (max-width: 420px) {
+    font-size: 12px;
+    display: block;
+
+  }
+
 }
 
 $dark-theme-seethru: rgba($dark-theme, 0.8);
@@ -105,7 +112,14 @@ div.materiales {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 
   }
+  @media screen and (max-width: 420px) {
 
+    margin-bottom: 20px;
+    height: 9.44em;
+  width: 9.44em;
+ 
+
+  }
 }
 
 .fascimile {
@@ -125,4 +139,6 @@ div.materiales {
 #ciegoimg, #lazaroimg {
   display:none;
 }
+
+
 }
