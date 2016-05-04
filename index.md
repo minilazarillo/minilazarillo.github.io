@@ -17,6 +17,7 @@ El mini lazarillo: Edición minima del *Lazarillo de Tormes* (1554) es una edici
 
 Para citar nuestra edición:
 
+
 Equipo Mini Lazarillo. <i>Mini Lazarillo: Edición minima del</i> Lazarillo de Tormes. Columbia University, 2016. Web.
 
 
