@@ -5,7 +5,7 @@ materiales: true
 order: 10
 ---
 
-Recogemos aquí una breve bibliografía utilizada a lo largo del curso. No aspira, pues, de ninguna manera a tener un carácter exhaustivo.
+Recogemos aquí una breve bibliografía utilizada a lo largo del curso, que no aspira de ninguna manera a tener un carácter exhaustivo.
 
 ---
 

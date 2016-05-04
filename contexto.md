@@ -13,7 +13,7 @@ En 1517, Martín Lutero había publicado *Las 95 tesis*, donde criticaba duramen
 
 De todo este clima de ebullición librepensadora da fe la obra del *Lazarillo*, donde la crítica al estamento religioso juega un papel crucial. El autor anónimo ofrece, bajo forma de autobiografía, una imagen del estamento del clero en general como avaro, sin escrúpulos (Tratado 2), lujurioso e infiel (Tratado 4), así como un ataque a la práctica de las indulgencias (Tratado 5). Pero no sólo eso, el *Lazarillo* también se adentra en una crítica social, en contra de las injusticias y duras condiciones de las clases pobres (al ser, por ejemplo, su padre exiliado por robo, en el Tratado 1). Aparece también irónicamente dibujado el desfase de ciertas clases sociales como los hidalgo o escuderos, amparados ya sólo por falsas apariencias e ideales como los de la “honra”.
 
-## La novela picaresca y el Lazarillo de Tormes
+## La novela picaresca y el *Lazarillo de Tormes*
 
 El *Lazarillo* se publicó por primera vez bajo el título de *La vida de Lazarillo de Tormes y de sus fortunas y adversidades* en el año 1554, y es considerada una de las primeras novelas modernas españolas y ejemplo paradigmático del que se conoce como género picaresco.
 
