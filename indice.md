@@ -8,7 +8,7 @@ order: 7
 ---
 
  
-##Lista de personajes históricos
+## Lista de personajes históricos
  
 - **Alejandro Magno (356 a.C. — 323 a.C.)**:  fue un rey famoso de Macedonia conocido por extender su imperio en Asia y África. Lázaro compara la avaricia del ciego con la avaricia de Alejandro Magno.  
 - **Antonio**:  el escudero se refiere a un espadero famoso que, como explican R. Menéndez Pidal y F. Rico (p. 51), firmó la espada del mismo rey Fernando el Católico, conservada en la actualidad en la Armería Real de Madrid.  
