@@ -1,7 +1,9 @@
 ---
-title: About the project
-layout: post
+title: Project
+layout: default
 ---
+
+# About the Project
 
 ## Context and the Edition
 
