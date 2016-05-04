@@ -1,9 +1,3 @@
-
-mark {
-    color: white;
-    background-color: #62A8E5;
-}
-
 @mixin background-opacity($color, $opacity: 0.3) {
     background-color: $color; /* The Fallback */
     background-color: rgba($color, $opacity);
@@ -25,12 +19,7 @@ div.ediciones {
   }
   @media screen and (max-width: 650px) {
     font-size: 20px;
-
-  }
-  @media screen and (max-width: 420px) {
-    font-size: 12px;
-    display: block;
-
+    flex-wrap: wrap;
   }
 
 }
