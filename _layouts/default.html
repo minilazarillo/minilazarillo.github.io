@@ -32,6 +32,18 @@
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
     <script>
+    var url = window.location.href;
+      if (url.lastIndexOf("?q=") > 0) {
+        // get the index of the parameter, add three (to account for length)
+        var stringloc = url.lastIndexOf("?q=") + 3;
+        // get the substring (query) and decode
+        var search = decodeURIComponent(url.substr(stringloc));
+        // regex matches at begnning of line, end of line or word boundary, useful for poetry
+        var regex = new RegExp("(?:^|\\b)(" + search + ")(?:$|\\b)", "gim");
+        // get, add mark and then set content
+        var content = document.getElementById("main").innerHTML;
+        document.getElementById("main").innerHTML = content.replace(regex, "<mark>$1</mark>");
+      }
       (function(document) {
         var toggle = document.querySelector('.sidebar-toggle');
         var sidebar = document.querySelector('#sidebar');
@@ -47,19 +59,6 @@
           checkbox.checked = false;
         }, false);
       })(document);
-      var qd = {}; //Gets values from the URL
-      location.search.substr(1).split("&").forEach(function(item) {
-          var s = item.split("="),
-              k = s[0],
-              v = s[1] && decodeURIComponent(s[1]);
-          (k in qd) ? qd[k].push(v) : qd[k] = [v]
-      });
-      if(qd.q) {
-        var query = new RegExp("(\\b" + qd.q + "\\b)", "gim");
-        var e = document.getElementById("main").innerHTML;
-        var newe = e.replace(query, "<mark>$1</mark>");
-        document.getElementById("main").innerHTML = newe;
-      }
     </script>
   </body>
 </html>

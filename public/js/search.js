@@ -48,13 +48,13 @@ var store = [{% for text in site.texts %}{% if text.mode == "annotated" %}{
 
 //Query
 
-var qd = {}; //Gets values from the URL
-location.search.substr(1).split("&").forEach(function(item) {
-    var s = item.split("="),
-        k = s[0],
-        v = s[1] && decodeURIComponent(s[1]);
-    (k in qd) ? qd[k].push(v) : qd[k] = [v]
-});
+var url = window.location.href;
+if (url.lastIndexOf("?q=") > 0) {
+  // get the index of the parameter, add three (to account for length)
+  var stringloc = url.lastIndexOf("?q=") + 3;
+  // get the substring (query) and decode
+  var search = decodeURIComponent(url.substr(stringloc));
+}
 
 function doSearch() {
   var resultdiv = $('#results');
@@ -79,8 +79,8 @@ function doSearch() {
 }
 
 $(document).ready(function() {
-  if (qd.q) {
-    $('input#search').val(qd.q[0]);
+  if (search) {
+    $('input#search').val(search);
     doSearch();
   }
   $('input#search').on('keyup', doSearch);
