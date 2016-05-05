@@ -53,7 +53,7 @@ if (url.lastIndexOf("?q=") > 0) {
   // get the index of the parameter, add three (to account for length)
   var stringloc = url.lastIndexOf("?q=") + 3;
   // get the substring (query) and decode
-  var search = decodeURIComponent(url.substr(stringloc));
+  var searchquery = decodeURIComponent(url.substr(stringloc));
 }
 
 function doSearch() {
@@ -79,8 +79,8 @@ function doSearch() {
 }
 
 $(document).ready(function() {
-  if (search) {
-    $('input#search').val(search);
+  if (searchquery) {
+    $('input#search').val(searchquery);
     doSearch();
   }
   $('input#search').on('keyup', doSearch);
