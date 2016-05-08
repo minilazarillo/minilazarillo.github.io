@@ -29,7 +29,7 @@ Las aventuras acontecidas en la novela son realistas, así como los escenarios s
 
 ## La edición de Medina del Campo de 1554
 
-La primera edición del *Lazarillo* debió de publicarse en el año 1552 o 1553 y aparecer ya bajo el título La vida de Lazarillo de Tormes, y de sus fortunas y adversidades. De esta edición no nos queda ningún ejemplar, pero una reconstrucción es posible gracias a cuatro ediciones publicadas en el año 1554 (Rico 91).
+La primera edición del *Lazarillo* debió de publicarse en el año 1552 o 1553 y aparecer ya bajo el título *La vida de Lazarillo de Tormes, y de sus fortunas y adversidades*. De esta edición no nos queda ningún ejemplar, pero una reconstrucción es posible gracias a cuatro ediciones publicadas en el año 1554 (Rico 91).
 
 Existen efectivamente cuatro ediciones, todas ellas publicadas en el año 1554:
 
