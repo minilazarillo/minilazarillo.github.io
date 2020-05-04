@@ -112,7 +112,7 @@
       init: function() {
         var seq = O.Triggers.Sequential();
 
-        var baseurl = this.baseurl = 'http://{s}.api.cartocdn.com/base-light/{z}/{x}/{y}.png';
+        var baseurl = this.baseurl = 'https://{s}.api.cartocdn.com/base-light/{z}/{x}/{y}.png';
         var map = this.map = L.map('map').setView([0, 0.0], 4);
         var basemap = this.basemap = L.tileLayer(baseurl, {
           attribution: 'data OSM - map CartoDB'
@@ -142,12 +142,12 @@
         this.story.clear();
 
         if (this.baseurl && (this.baseurl !== actions.global.baseurl)) {
-          this.baseurl = actions.global.baseurl || 'http://0.api.cartocdn.com/base-light/{z}/{x}/{y}.png';
+          this.baseurl = actions.global.baseurl || 'https://0.api.cartocdn.com/base-light/{z}/{x}/{y}.png';
 
           this.basemap.setUrl(this.baseurl);
         }
 
-        if (this.cartoDBLayer && ("http://"+self.cartoDBLayer.options.user_name+".cartodb.com/api/v2/viz/"+self.cartoDBLayer.options.layer_definition.stat_tag+"/viz.json" !== actions.global.vizjson)) {
+        if (this.cartoDBLayer && ("https://"+self.cartoDBLayer.options.user_name+".cartodb.com/api/v2/viz/"+self.cartoDBLayer.options.layer_definition.stat_tag+"/viz.json" !== actions.global.vizjson)) {
           this.map.removeLayer(this.cartoDBLayer);
 
           this.cartoDBLayer = null;
